@@ -7,7 +7,7 @@ data.
 
 ## Data
 
-Source: `data/wfp_food_prices_pak.csv` — 9,286 records, 2004–2022, 17
+Source: `data/wfp_food_prices_pak.csv` - 9,286 records, 2004–2022, 17
 commodities, across 4 provinces (Balochistan, Khyber Pakhtunkhwa, Punjab,
 Sindh) and 5 markets. Zero missing values.
 
@@ -15,11 +15,11 @@ Sindh) and 5 markets. Zero missing values.
 
 The model is a **hybrid**, not a single black-box regressor:
 
-1. **Trend component** — a per-commodity log-linear regression of price
+1. **Trend component** - a per-commodity log-linear regression of price
    against time. This captures the long-run inflation trend, which is the
    one thing tree-based ML models structurally cannot extrapolate beyond
    their training range.
-2. **Residual component** — a `HistGradientBoostingRegressor` trained on the
+2. **Residual component** - a `HistGradientBoostingRegressor` trained on the
    *residual* (actual price minus trend), using spatial features (latitude,
    longitude, province, market), seasonal features (cyclical month encoding),
    and commodity/category. This captures regional price differences and
@@ -29,10 +29,10 @@ The model is a **hybrid**, not a single black-box regressor:
 ## Validation methodology
 
 **Temporal split**, not random: trained on data before 2020-01-01, tested on
-2020-01-01 onward (2,132 rows). This simulates genuine forecasting — the test
+2020-01-01 onward (2,132 rows). This simulates genuine forecasting - the test
 set is the *future* relative to training, not just held-out interpolation.
 
-## Results — read this before trusting the headline number
+## Results - read this before trusting the headline number
 
 | Metric | Test (2020–2022) | Train (in-sample) |
 |---|---|---|
@@ -42,7 +42,7 @@ set is the *future* relative to training, not just held-out interpolation.
 | R² (pooled across all commodities) | **0.884** | 0.980 |
 
 **The pooled R²=0.884 is misleading on its own.** It's inflated by the huge
-price-scale differences between commodities (Ghee ~10x the price of Wheat) —
+price-scale differences between commodities (Ghee ~10x the price of Wheat) -
 a model that just roughly separates "cheap" from "expensive" commodities
 scores well on pooled R² without actually forecasting any single commodity
 well.
@@ -68,7 +68,7 @@ mostly negative:**
 | Beans (mash) | -10.399 | 31.5% |
 | Oil (cooking) | -2.958 | 35.6% |
 | Ghee (artificial) | -3.123 | 36.9% |
-| Salt | n/a — no data after 2018 in source dataset | — |
+| Salt | n/a - no data after 2018 in source dataset | - |
 
 Negative R² means the model performs **worse than a naive average** for that
 commodity in the test window.
@@ -76,7 +76,7 @@ commodity in the test window.
 ### Why: this isn't a bug, it's what happened in Pakistan 2020–2022
 
 The test period covers COVID-19 supply shocks and the *start* of Pakistan's
-2022 currency/inflation crisis — genuine structural breaks in price behavior
+2022 currency/inflation crisis - genuine structural breaks in price behavior
 that no smooth trend extrapolation can anticipate. The commodities that held
 up (wage labor, fuel) are the ones with more policy-linked, less globally-
 volatile pricing. The commodities that failed badly (cooking oil, ghee,
@@ -86,7 +86,7 @@ shocks and import-dependent supply chains during that period.
 **Practical takeaway:** this model is reasonably trustworthy for near-term,
 stable-regime forecasting (predicting next month's price under normal
 conditions) but should not be trusted to anticipate crisis-driven price
-shocks — no model trained only on historical smooth trends can do that
+shocks - no model trained only on historical smooth trends can do that
 without additional real-time economic indicators (currency reserves, import
 data, policy announcements) as inputs.
 
@@ -116,8 +116,9 @@ python src/train_hybrid_model.py
 ## Limitations
 
 - No real-time economic indicators (currency reserves, import volumes,
-  policy signals) — the model relies purely on historical price patterns.
-- Only 5 markets and 4 provinces represented — geographic generalization
+  policy signals) - the model relies purely on historical price patterns.
+- Only 5 markets and 4 provinces represented - geographic generalization
   beyond these is unvalidated.
 - Salt has no data after April 2018 in the source dataset, so it's excluded
   from test-period evaluation entirely.
+
