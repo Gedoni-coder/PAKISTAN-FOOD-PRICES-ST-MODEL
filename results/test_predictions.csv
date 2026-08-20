@@ -7,7 +7,7 @@ date,admin1,market,commodity,category,price,price_pred
 2020-01-15,PUNJAB,Multan,Poultry,"meat, fish and eggs",170.64,162.22998792894472
 2020-01-15,PUNJAB,Multan,Eggs,"meat, fish and eggs",118.82,116.26387648184492
 2020-01-15,PUNJAB,Multan,Wheat flour,cereals and tubers,42.1,53.2167751603452
-2020-01-15,PUNJAB,Lahore,Lentils (masur),pulses and nuts,138.5,125.06983506925168
+2020-01-15,PUNJAB,Lahore,Lentils (masur),pulses and nuts,138.5,125.06983506925157
 2020-01-15,PUNJAB,Multan,"Rice (basmati, broken)",cereals and tubers,88.18,111.97141212030425
 2020-01-15,PUNJAB,Lahore,Lentils (moong),pulses and nuts,200.51,127.71854871464467
 2020-01-15,PUNJAB,Lahore,Beans(mash),pulses and nuts,228.31,186.56492620563284
@@ -18,9 +18,9 @@ date,admin1,market,commodity,category,price,price_pred
 2020-01-15,PUNJAB,Multan,Wheat,cereals and tubers,45.75,44.17333115893602
 2020-01-15,PUNJAB,Multan,Oil (cooking),oil and fats,234.0,193.97878340254783
 2020-01-15,PUNJAB,Lahore,Sugar,miscellaneous food,75.97,62.57841975184752
-2020-01-15,PUNJAB,Multan,Lentils (masur),pulses and nuts,135.24,103.8376507073686
+2020-01-15,PUNJAB,Multan,Lentils (masur),pulses and nuts,135.24,103.8376507073685
 2020-01-15,SINDH,Karachi,Lentils (moong),pulses and nuts,241.28,127.29746726695228
-2020-01-15,SINDH,Karachi,Lentils (masur),pulses and nuts,139.68,105.08586642318
+2020-01-15,SINDH,Karachi,Lentils (masur),pulses and nuts,139.68,105.0858664231799
 2020-01-15,SINDH,Karachi,Beans(mash),pulses and nuts,216.22,150.8523741143011
 2020-01-15,SINDH,Karachi,Oil (cooking),oil and fats,234.42,193.65991399231936
 2020-01-15,SINDH,Karachi,Ghee (artificial),oil and fats,225.92,190.6812540267945
@@ -35,15 +35,15 @@ date,admin1,market,commodity,category,price,price_pred
 2020-01-15,SINDH,Karachi,Wheat,cereals and tubers,51.0,48.03785982074904
 2020-01-15,SINDH,Karachi,"Rice (basmati, broken)",cereals and tubers,90.99,108.8985459026894
 2020-01-15,PUNJAB,Multan,Lentils (moong),pulses and nuts,231.89,115.21881189444831
-2020-01-15,SINDH,Karachi,Sugar,miscellaneous food,74.53,61.456951699691594
+2020-01-15,SINDH,Karachi,Sugar,miscellaneous food,74.53,61.45695169969165
 2020-01-15,PUNJAB,Lahore,Fuel (petrol-gasoline),non-food,116.93,103.07118646444468
 2020-01-15,KHYBER PAKHTUNKHWA,Peshawar,Oil (cooking),oil and fats,238.98,193.9877711190891
 2020-01-15,PUNJAB,Lahore,Milk,milk and dairy,80.0,85.42693976206425
 2020-01-15,BALOCHISTAN,Quetta,Lentils (moong),pulses and nuts,255.74,147.35232375689273
-2020-01-15,BALOCHISTAN,Quetta,Lentils (masur),pulses and nuts,159.79,117.81901121159501
+2020-01-15,BALOCHISTAN,Quetta,Lentils (masur),pulses and nuts,159.79,117.81901121159491
 2020-01-15,BALOCHISTAN,Quetta,Beans(mash),pulses and nuts,269.88,194.63064021747311
 2020-01-15,BALOCHISTAN,Quetta,Oil (cooking),oil and fats,234.6,189.76269579246065
-2020-01-15,BALOCHISTAN,Quetta,Ghee (artificial),oil and fats,236.0,188.09128452510365
+2020-01-15,BALOCHISTAN,Quetta,Ghee (artificial),oil and fats,236.0,188.0912845251038
 2020-01-15,PUNJAB,Lahore,Fuel (diesel),non-food,127.61,102.93552865365264
 2020-01-15,BALOCHISTAN,Quetta,Fuel (petrol-gasoline),non-food,117.07,102.70005628205703
 2020-01-15,BALOCHISTAN,Quetta,Fuel (diesel),non-food,127.69,102.78144081702138
@@ -59,34 +59,34 @@ date,admin1,market,commodity,category,price,price_pred
 2020-01-15,BALOCHISTAN,Quetta,"Wage (non-qualified labour, non-agricultural)",non-food,997.0,780.2974251219799
 2020-01-15,KHYBER PAKHTUNKHWA,Peshawar,Eggs,"meat, fish and eggs",129.93,123.22410049245326
 2020-01-15,KHYBER PAKHTUNKHWA,Peshawar,Wheat flour,cereals and tubers,51.25,56.1456883708963
-2020-01-15,PUNJAB,Lahore,Eggs,"meat, fish and eggs",125.76,113.7918606764646
+2020-01-15,PUNJAB,Lahore,Eggs,"meat, fish and eggs",125.76,113.7918606764647
 2020-01-15,PUNJAB,Lahore,Wheat flour,cereals and tubers,40.4,53.329904885244844
 2020-01-15,PUNJAB,Lahore,Wheat,cereals and tubers,48.08,46.10826415608433
 2020-01-15,PUNJAB,Lahore,"Rice (basmati, broken)",cereals and tubers,74.71,104.77757305984186
 2020-01-15,KHYBER PAKHTUNKHWA,Peshawar,Lentils (moong),pulses and nuts,215.52,112.65400971634352
-2020-01-15,KHYBER PAKHTUNKHWA,Peshawar,Lentils (masur),pulses and nuts,132.22,96.61047847292909
+2020-01-15,KHYBER PAKHTUNKHWA,Peshawar,Lentils (masur),pulses and nuts,132.22,96.610478472929
 2020-01-15,KHYBER PAKHTUNKHWA,Peshawar,Beans(mash),pulses and nuts,224.95,158.0702275839438
 2020-01-15,PUNJAB,Lahore,Poultry,"meat, fish and eggs",157.71,147.9497895207917
 2020-01-15,KHYBER PAKHTUNKHWA,Peshawar,Ghee (artificial),oil and fats,231.13,190.59611620009835
 2020-01-15,KHYBER PAKHTUNKHWA,Peshawar,"Wage (non-qualified labour, non-agricultural)",non-food,632.0,691.7168493488233
 2020-01-15,KHYBER PAKHTUNKHWA,Peshawar,Fuel (petrol-gasoline),non-food,117.09,102.62761774707909
-2020-01-15,KHYBER PAKHTUNKHWA,Peshawar,Fuel (diesel),non-food,127.8,103.33734030121029
+2020-01-15,KHYBER PAKHTUNKHWA,Peshawar,Fuel (diesel),non-food,127.8,103.33734030121038
 2020-01-15,KHYBER PAKHTUNKHWA,Peshawar,Sugar,miscellaneous food,77.56,61.91180594287796
 2020-01-15,KHYBER PAKHTUNKHWA,Peshawar,Milk,milk and dairy,103.64,93.16098618072373
 2020-01-15,KHYBER PAKHTUNKHWA,Peshawar,Poultry,"meat, fish and eggs",170.62,165.52107421914363
-2020-02-15,PUNJAB,Multan,Ghee (artificial),oil and fats,262.0,190.99466915150558
-2020-02-15,PUNJAB,Multan,"Wage (non-qualified labour, non-agricultural)",non-food,700.0,666.9851099314483
+2020-02-15,PUNJAB,Multan,Ghee (artificial),oil and fats,262.0,190.9946691515056
+2020-02-15,PUNJAB,Multan,"Wage (non-qualified labour, non-agricultural)",non-food,700.0,666.9851099314477
 2020-02-15,PUNJAB,Multan,Fuel (petrol-gasoline),non-food,117.15,104.82345275451665
-2020-02-15,PUNJAB,Multan,Fuel (diesel),non-food,127.8,105.01631893076565
+2020-02-15,PUNJAB,Multan,Fuel (diesel),non-food,127.8,105.01631893076575
 2020-02-15,PUNJAB,Multan,Sugar,miscellaneous food,78.85,60.414421090128506
 2020-02-15,PUNJAB,Multan,Milk,milk and dairy,87.0,87.38469380503534
 2020-02-15,PUNJAB,Multan,Poultry,"meat, fish and eggs",168.66,156.28901606014608
 2020-02-15,PUNJAB,Multan,"Rice (basmati, broken)",cereals and tubers,88.18,113.72054408724154
 2020-02-15,PUNJAB,Multan,Wheat flour,cereals and tubers,40.25,52.296244413952756
-2020-02-15,PUNJAB,Multan,Wheat,cereals and tubers,42.22,43.4331046917664
+2020-02-15,PUNJAB,Multan,Wheat,cereals and tubers,42.22,43.433104691766395
 2020-02-15,PUNJAB,Multan,Oil (cooking),oil and fats,260.0,195.06630028673104
 2020-02-15,PUNJAB,Lahore,Lentils (moong),pulses and nuts,216.09,129.49667366827106
-2020-02-15,PUNJAB,Lahore,Lentils (masur),pulses and nuts,137.35,125.03133803777718
+2020-02-15,PUNJAB,Lahore,Lentils (masur),pulses and nuts,137.35,125.03133803777706
 2020-02-15,PUNJAB,Lahore,Beans(mash),pulses and nuts,234.23,186.35581304134777
 2020-02-15,PUNJAB,Lahore,Oil (cooking),oil and fats,260.0,194.5476773550215
 2020-02-15,PUNJAB,Multan,Eggs,"meat, fish and eggs",87.01,108.5261933110622
@@ -94,14 +94,14 @@ date,admin1,market,commodity,category,price,price_pred
 2020-02-15,PUNJAB,Lahore,Ghee (artificial),oil and fats,262.0,190.91605911572273
 2020-02-15,PUNJAB,Multan,Lentils (moong),pulses and nuts,224.96,115.39724158294041
 2020-02-15,SINDH,Karachi,Lentils (moong),pulses and nuts,242.5,128.82609914113823
-2020-02-15,SINDH,Karachi,Lentils (masur),pulses and nuts,143.1,105.12917138819235
+2020-02-15,SINDH,Karachi,Lentils (masur),pulses and nuts,143.1,105.12917138819225
 2020-02-15,SINDH,Karachi,Beans(mash),pulses and nuts,221.58,153.08237730407672
 2020-02-15,SINDH,Karachi,Oil (cooking),oil and fats,260.0,195.0726188675528
 2020-02-15,SINDH,Karachi,Ghee (artificial),oil and fats,262.0,190.92737796020074
-2020-02-15,SINDH,Karachi,"Wage (non-qualified labour, non-agricultural)",non-food,1000.0,928.2797576088491
+2020-02-15,SINDH,Karachi,"Wage (non-qualified labour, non-agricultural)",non-food,1000.0,928.2797576088483
 2020-02-15,SINDH,Karachi,Fuel (petrol-gasoline),non-food,117.11,104.22283850150299
-2020-02-15,PUNJAB,Multan,Lentils (masur),pulses and nuts,136.02,103.10701058160254
-2020-02-15,SINDH,Karachi,Fuel (diesel),non-food,127.76,104.23574258202915
+2020-02-15,PUNJAB,Multan,Lentils (masur),pulses and nuts,136.02,103.10701058160244
+2020-02-15,SINDH,Karachi,Fuel (diesel),non-food,127.76,104.23574258202923
 2020-02-15,SINDH,Karachi,Milk,milk and dairy,108.74,96.17094577880889
 2020-02-15,SINDH,Karachi,Poultry,"meat, fish and eggs",172.7,174.8210999131597
 2020-02-15,SINDH,Karachi,Eggs,"meat, fish and eggs",97.12,112.02485746456544
@@ -110,26 +110,26 @@ date,admin1,market,commodity,category,price,price_pred
 2020-02-15,SINDH,Karachi,Rice (coarse),cereals and tubers,66.94,62.713367591506845
 2020-02-15,SINDH,Karachi,"Rice (basmati, broken)",cereals and tubers,92.2,110.5167620477023
 2020-02-15,SINDH,Karachi,Sugar,miscellaneous food,78.46,62.049033596966915
-2020-02-15,PUNJAB,Lahore,"Wage (non-qualified labour, non-agricultural)",non-food,895.0,861.0628163577112
+2020-02-15,PUNJAB,Lahore,"Wage (non-qualified labour, non-agricultural)",non-food,895.0,861.0628163577104
 2020-02-15,PUNJAB,Lahore,Fuel (petrol-gasoline),non-food,116.93,104.49855003457115
-2020-02-15,PUNJAB,Lahore,Fuel (diesel),non-food,127.61,104.62668262443736
+2020-02-15,PUNJAB,Lahore,Fuel (diesel),non-food,127.61,104.62668262443746
 2020-02-15,KHYBER PAKHTUNKHWA,Peshawar,Wheat,cereals and tubers,42.75,48.383098561387754
 2020-02-15,KHYBER PAKHTUNKHWA,Peshawar,"Rice (basmati, broken)",cereals and tubers,86.53,112.65649781040366
 2020-02-15,BALOCHISTAN,Quetta,Lentils (moong),pulses and nuts,254.82,146.8859843862602
-2020-02-15,BALOCHISTAN,Quetta,Lentils (masur),pulses and nuts,149.61,116.61672596922365
+2020-02-15,BALOCHISTAN,Quetta,Lentils (masur),pulses and nuts,149.61,116.61672596922355
 2020-02-15,BALOCHISTAN,Quetta,Beans(mash),pulses and nuts,267.25,192.55682456570028
 2020-02-15,BALOCHISTAN,Quetta,Oil (cooking),oil and fats,254.05,190.91074694079765
 2020-02-15,BALOCHISTAN,Quetta,Ghee (artificial),oil and fats,255.24,188.76988996786395
 2020-02-15,KHYBER PAKHTUNKHWA,Peshawar,Wheat flour,cereals and tubers,45.09,55.346410460629556
-2020-02-15,BALOCHISTAN,Quetta,"Wage (non-qualified labour, non-agricultural)",non-food,997.0,782.9257818552436
-2020-02-15,BALOCHISTAN,Quetta,Fuel (diesel),non-food,127.69,104.35060336134498
+2020-02-15,BALOCHISTAN,Quetta,"Wage (non-qualified labour, non-agricultural)",non-food,997.0,782.9257818552429
+2020-02-15,BALOCHISTAN,Quetta,Fuel (diesel),non-food,127.69,104.35060336134516
 2020-02-15,BALOCHISTAN,Quetta,Sugar,miscellaneous food,79.99,62.75001036094544
 2020-02-15,BALOCHISTAN,Quetta,Milk,milk and dairy,110.0,101.88840889308656
 2020-02-15,BALOCHISTAN,Quetta,Poultry,"meat, fish and eggs",178.55,177.0025634884896
 2020-02-15,BALOCHISTAN,Quetta,Eggs,"meat, fish and eggs",127.16,131.48414760210943
 2020-02-15,BALOCHISTAN,Quetta,Wheat flour,cereals and tubers,52.35,56.32874762663422
 2020-02-15,BALOCHISTAN,Quetta,Wheat,cereals and tubers,54.38,47.580863768551495
-2020-02-15,BALOCHISTAN,Quetta,Fuel (petrol-gasoline),non-food,117.07,104.55385487454974
+2020-02-15,BALOCHISTAN,Quetta,Fuel (petrol-gasoline),non-food,117.07,104.55385487454973
 2020-02-15,KHYBER PAKHTUNKHWA,Peshawar,Eggs,"meat, fish and eggs",101.13,118.59800006637607
 2020-02-15,BALOCHISTAN,Quetta,"Rice (basmati, broken)",cereals and tubers,112.4,120.70839947411153
 2020-02-15,KHYBER PAKHTUNKHWA,Peshawar,Milk,milk and dairy,103.64,93.57558140408239
@@ -139,21 +139,21 @@ date,admin1,market,commodity,category,price,price_pred
 2020-02-15,PUNJAB,Lahore,Poultry,"meat, fish and eggs",154.44,143.23760907592862
 2020-02-15,PUNJAB,Lahore,Eggs,"meat, fish and eggs",92.53,107.20697093585044
 2020-02-15,PUNJAB,Lahore,Wheat,cereals and tubers,45.17,46.08082737592145
-2020-02-15,PUNJAB,Lahore,"Rice (basmati, broken)",cereals and tubers,74.71,106.49557112223505
+2020-02-15,PUNJAB,Lahore,"Rice (basmati, broken)",cereals and tubers,74.71,106.49557112223503
 2020-02-15,KHYBER PAKHTUNKHWA,Peshawar,Lentils (moong),pulses and nuts,233.01,113.39738759434618
 2020-02-15,PUNJAB,Lahore,Wheat flour,cereals and tubers,40.25,53.313729813520354
 2020-02-15,KHYBER PAKHTUNKHWA,Peshawar,Beans(mash),pulses and nuts,229.58,155.32467398010826
 2020-02-15,KHYBER PAKHTUNKHWA,Peshawar,Oil (cooking),oil and fats,260.0,193.93764883025258
 2020-02-15,KHYBER PAKHTUNKHWA,Peshawar,Ghee (artificial),oil and fats,262.0,190.0518139739197
-2020-02-15,KHYBER PAKHTUNKHWA,Peshawar,"Wage (non-qualified labour, non-agricultural)",non-food,632.0,693.7687011188046
+2020-02-15,KHYBER PAKHTUNKHWA,Peshawar,"Wage (non-qualified labour, non-agricultural)",non-food,632.0,693.768701118804
 2020-02-15,KHYBER PAKHTUNKHWA,Peshawar,Fuel (petrol-gasoline),non-food,117.09,104.09086843548009
-2020-02-15,KHYBER PAKHTUNKHWA,Peshawar,Fuel (diesel),non-food,127.8,104.59979064702637
+2020-02-15,KHYBER PAKHTUNKHWA,Peshawar,Fuel (diesel),non-food,127.8,104.59979064702645
 2020-02-15,KHYBER PAKHTUNKHWA,Peshawar,Sugar,miscellaneous food,82.45,62.447477425179564
-2020-02-15,KHYBER PAKHTUNKHWA,Peshawar,Lentils (masur),pulses and nuts,137.64,95.55759717526566
+2020-02-15,KHYBER PAKHTUNKHWA,Peshawar,Lentils (masur),pulses and nuts,137.64,95.55759717526557
 2020-03-15,PUNJAB,Multan,Poultry,"meat, fish and eggs",149.22,163.67725322657907
 2020-03-15,PUNJAB,Multan,"Wage (non-qualified labour, non-agricultural)",non-food,700.0,667.1232482019018
 2020-03-15,PUNJAB,Multan,Fuel (petrol-gasoline),non-food,108.15,103.03194330308152
-2020-03-15,PUNJAB,Multan,Fuel (diesel),non-food,118.86,105.1194626413185
+2020-03-15,PUNJAB,Multan,Fuel (diesel),non-food,118.86,105.1194626413186
 2020-03-15,PUNJAB,Multan,Sugar,miscellaneous food,79.63,61.19389108039168
 2020-03-15,PUNJAB,Multan,Milk,milk and dairy,87.0,87.92669501423234
 2020-03-15,PUNJAB,Multan,Eggs,"meat, fish and eggs",97.26,92.6698649376908
@@ -165,64 +165,64 @@ date,admin1,market,commodity,category,price,price_pred
 2020-03-15,PUNJAB,Lahore,Beans(mash),pulses and nuts,234.23,184.181399804312
 2020-03-15,PUNJAB,Lahore,Oil (cooking),oil and fats,260.0,194.3935115145924
 2020-03-15,PUNJAB,Multan,Ghee (artificial),oil and fats,262.0,191.24349300517284
-2020-03-15,PUNJAB,Multan,Wheat flour,cereals and tubers,40.25,52.66648383368211
+2020-03-15,PUNJAB,Multan,Wheat flour,cereals and tubers,40.25,52.66648383368206
 2020-03-15,PUNJAB,Multan,Oil (cooking),oil and fats,260.0,195.32717935724287
 2020-03-15,SINDH,Karachi,Milk,milk and dairy,108.89,95.38417957999141
-2020-03-15,PUNJAB,Multan,Lentils (masur),pulses and nuts,129.29,102.66592006764873
+2020-03-15,PUNJAB,Multan,Lentils (masur),pulses and nuts,129.29,102.66592006764863
 2020-03-15,PUNJAB,Lahore,"Wage (non-qualified labour, non-agricultural)",non-food,916.0,861.2809306651035
 2020-03-15,SINDH,Karachi,Lentils (moong),pulses and nuts,231.13,129.75880201682133
-2020-03-15,SINDH,Karachi,Lentils (masur),pulses and nuts,135.44,104.04298728363665
-2020-03-15,SINDH,Karachi,Beans(mash),pulses and nuts,212.42,150.5911215404082
+2020-03-15,SINDH,Karachi,Lentils (masur),pulses and nuts,135.44,104.04298728363655
+2020-03-15,SINDH,Karachi,Beans(mash),pulses and nuts,212.42,150.59112154040818
 2020-03-15,SINDH,Karachi,Oil (cooking),oil and fats,260.0,194.99716422218708
 2020-03-15,SINDH,Karachi,Ghee (artificial),oil and fats,262.0,190.83543022379334
-2020-03-15,SINDH,Karachi,"Wage (non-qualified labour, non-agricultural)",non-food,1000.0,934.5400172991915
+2020-03-15,SINDH,Karachi,"Wage (non-qualified labour, non-agricultural)",non-food,1000.0,934.5400172991914
 2020-03-15,PUNJAB,Multan,Beans(mash),pulses and nuts,201.35,152.7869864761766
 2020-03-15,SINDH,Karachi,Fuel (petrol-gasoline),non-food,108.14,102.16070862474166
-2020-03-15,SINDH,Karachi,Sugar,miscellaneous food,81.64,62.44393808322956
+2020-03-15,SINDH,Karachi,Sugar,miscellaneous food,81.64,62.443938083229554
 2020-03-15,SINDH,Karachi,Poultry,"meat, fish and eggs",171.1,182.14086358249025
 2020-03-15,SINDH,Karachi,Eggs,"meat, fish and eggs",105.43,97.5745629229095
-2020-03-15,SINDH,Karachi,Wheat flour,cereals and tubers,54.15,59.91500644785311
+2020-03-15,SINDH,Karachi,Wheat flour,cereals and tubers,54.15,59.91500644785306
 2020-03-15,SINDH,Karachi,Wheat,cereals and tubers,47.67,48.21266044431731
 2020-03-15,SINDH,Karachi,"Rice (basmati, broken)",cereals and tubers,92.28,111.87067330411797
 2020-03-15,PUNJAB,Multan,Lentils (moong),pulses and nuts,228.64,116.18323375691934
-2020-03-15,SINDH,Karachi,Fuel (diesel),non-food,118.83,103.90751623646261
+2020-03-15,SINDH,Karachi,Fuel (diesel),non-food,118.83,103.90751623646271
 2020-03-15,PUNJAB,Lahore,Fuel (petrol-gasoline),non-food,107.98,103.26379742491342
-2020-03-15,PUNJAB,Lahore,Fuel (diesel),non-food,118.67,104.2513148666478
+2020-03-15,PUNJAB,Lahore,Fuel (diesel),non-food,118.67,104.25131486664789
 2020-03-15,BALOCHISTAN,Quetta,Fuel (petrol-gasoline),non-food,108.11,102.5023256091806
 2020-03-15,KHYBER PAKHTUNKHWA,Peshawar,"Rice (basmati, broken)",cereals and tubers,86.53,113.85996000086347
-2020-03-15,BALOCHISTAN,Quetta,Lentils (masur),pulses and nuts,142.29,115.07932586483743
+2020-03-15,BALOCHISTAN,Quetta,Lentils (masur),pulses and nuts,142.29,115.07932586483733
 2020-03-15,BALOCHISTAN,Quetta,Beans(mash),pulses and nuts,267.25,188.84235632061743
 2020-03-15,BALOCHISTAN,Quetta,Oil (cooking),oil and fats,260.0,190.74586270523758
 2020-03-15,BALOCHISTAN,Quetta,Ghee (artificial),oil and fats,262.0,188.0482767012408
 2020-03-15,BALOCHISTAN,Quetta,"Wage (non-qualified labour, non-agricultural)",non-food,997.0,789.5280461920195
-2020-03-15,BALOCHISTAN,Quetta,Fuel (diesel),non-food,118.75,104.39298655066067
+2020-03-15,BALOCHISTAN,Quetta,Fuel (diesel),non-food,118.75,104.39298655066075
 2020-03-15,KHYBER PAKHTUNKHWA,Peshawar,Wheat,cereals and tubers,44.5,48.12774662221328
 2020-03-15,BALOCHISTAN,Quetta,Sugar,miscellaneous food,82.47,63.960891501901564
 2020-03-15,BALOCHISTAN,Quetta,Poultry,"meat, fish and eggs",157.08,181.33404544884112
 2020-03-15,BALOCHISTAN,Quetta,Eggs,"meat, fish and eggs",114.93,122.4604360720311
-2020-03-15,BALOCHISTAN,Quetta,Wheat flour,cereals and tubers,50.85,56.46701845131281
+2020-03-15,BALOCHISTAN,Quetta,Wheat flour,cereals and tubers,50.85,56.46701845131276
 2020-03-15,BALOCHISTAN,Quetta,Wheat,cereals and tubers,51.0,47.8069341961755
 2020-03-15,BALOCHISTAN,Quetta,Rice (coarse),cereals and tubers,84.9,62.8466193947071
 2020-03-15,BALOCHISTAN,Quetta,"Rice (basmati, broken)",cereals and tubers,114.93,120.89052411798843
 2020-03-15,PUNJAB,Lahore,Sugar,miscellaneous food,82.27,63.96764013780683
 2020-03-15,BALOCHISTAN,Quetta,Milk,milk and dairy,110.0,101.61656960790238
-2020-03-15,KHYBER PAKHTUNKHWA,Peshawar,Wheat flour,cereals and tubers,45.6,55.29774003562132
+2020-03-15,KHYBER PAKHTUNKHWA,Peshawar,Wheat flour,cereals and tubers,45.6,55.29774003562127
 2020-03-15,BALOCHISTAN,Quetta,Lentils (moong),pulses and nuts,269.88,145.52596889245518
 2020-03-15,KHYBER PAKHTUNKHWA,Peshawar,Poultry,"meat, fish and eggs",154.85,166.21331552236487
 2020-03-15,PUNJAB,Lahore,Milk,milk and dairy,81.58,85.69560826985382
 2020-03-15,PUNJAB,Lahore,Poultry,"meat, fish and eggs",141.1,147.975454751958
 2020-03-15,PUNJAB,Lahore,Eggs,"meat, fish and eggs",104.46,91.01322416685349
-2020-03-15,PUNJAB,Lahore,Wheat flour,cereals and tubers,40.25,53.44840463820759
+2020-03-15,PUNJAB,Lahore,Wheat flour,cereals and tubers,40.25,53.44840463820754
 2020-03-15,PUNJAB,Lahore,Wheat,cereals and tubers,43.43,46.28390139757902
 2020-03-15,PUNJAB,Lahore,"Rice (basmati, broken)",cereals and tubers,74.71,108.1575770576402
 2020-03-15,KHYBER PAKHTUNKHWA,Peshawar,Eggs,"meat, fish and eggs",105.95,101.08406104739531
-2020-03-15,KHYBER PAKHTUNKHWA,Peshawar,Lentils (masur),pulses and nuts,134.15,94.6597332059204
+2020-03-15,KHYBER PAKHTUNKHWA,Peshawar,Lentils (masur),pulses and nuts,134.15,94.65973320592032
 2020-03-15,KHYBER PAKHTUNKHWA,Peshawar,Beans(mash),pulses and nuts,231.8,152.1943513751905
 2020-03-15,KHYBER PAKHTUNKHWA,Peshawar,Lentils (moong),pulses and nuts,231.58,112.62412257603971
 2020-03-15,KHYBER PAKHTUNKHWA,Peshawar,Ghee (artificial),oil and fats,262.0,189.9673464406321
 2020-03-15,KHYBER PAKHTUNKHWA,Peshawar,"Wage (non-qualified labour, non-agricultural)",non-food,632.0,696.1340707124815
 2020-03-15,KHYBER PAKHTUNKHWA,Peshawar,Fuel (petrol-gasoline),non-food,108.14,102.17100474028418
-2020-03-15,KHYBER PAKHTUNKHWA,Peshawar,Fuel (diesel),non-food,118.76,104.57287269368332
+2020-03-15,KHYBER PAKHTUNKHWA,Peshawar,Fuel (diesel),non-food,118.76,104.57287269368341
 2020-03-15,KHYBER PAKHTUNKHWA,Peshawar,Sugar,miscellaneous food,82.56,62.82590508997665
 2020-03-15,KHYBER PAKHTUNKHWA,Peshawar,Milk,milk and dairy,104.9,93.66202979389455
 2020-03-15,KHYBER PAKHTUNKHWA,Peshawar,Oil (cooking),oil and fats,260.0,194.2584524089443
@@ -233,11 +233,11 @@ date,admin1,market,commodity,category,price,price_pred
 2020-04-15,PUNJAB,Multan,Milk,milk and dairy,87.23,87.41225672894858
 2020-04-15,PUNJAB,Multan,Poultry,"meat, fish and eggs",138.89,170.6891058449828
 2020-04-15,PUNJAB,Multan,Eggs,"meat, fish and eggs",100.78,82.51821616834259
-2020-04-15,PUNJAB,Multan,Wheat,cereals and tubers,38.3,41.99913754707835
+2020-04-15,PUNJAB,Multan,Wheat,cereals and tubers,38.3,41.99913754707837
 2020-04-15,PUNJAB,Lahore,Fuel (petrol-gasoline),non-food,96.93,105.38888097386149
 2020-04-15,PUNJAB,Multan,"Rice (basmati, broken)",cereals and tubers,88.18,117.5213958557093
 2020-04-15,PUNJAB,Lahore,Lentils (moong),pulses and nuts,284.88,137.69155845285582
-2020-04-15,PUNJAB,Lahore,Lentils (masur),pulses and nuts,171.12,127.10671772875484
+2020-04-15,PUNJAB,Lahore,Lentils (masur),pulses and nuts,171.12,127.10671772875473
 2020-04-15,PUNJAB,Lahore,Beans(mash),pulses and nuts,283.47,188.3275992016316
 2020-04-15,PUNJAB,Lahore,Oil (cooking),oil and fats,255.13,194.15242576109546
 2020-04-15,PUNJAB,Lahore,Ghee (artificial),oil and fats,257.82,190.88763834927258
@@ -247,7 +247,7 @@ date,admin1,market,commodity,category,price,price_pred
 2020-04-15,PUNJAB,Multan,Ghee (artificial),oil and fats,262.0,191.4801762201672
 2020-04-15,SINDH,Karachi,Lentils (moong),pulses and nuts,276.15,135.65097970378565
 2020-04-15,PUNJAB,Multan,Beans(mash),pulses and nuts,217.73,153.02802672730192
-2020-04-15,SINDH,Karachi,Lentils (masur),pulses and nuts,164.05,104.99045722800356
+2020-04-15,SINDH,Karachi,Lentils (masur),pulses and nuts,164.05,104.99045722800346
 2020-04-15,SINDH,Karachi,Beans(mash),pulses and nuts,232.22,151.48014454101857
 2020-04-15,SINDH,Karachi,Oil (cooking),oil and fats,260.0,194.42772739041413
 2020-04-15,SINDH,Karachi,Ghee (artificial),oil and fats,262.0,190.78867485965102
@@ -262,10 +262,10 @@ date,admin1,market,commodity,category,price,price_pred
 2020-04-15,SINDH,Karachi,Wheat,cereals and tubers,45.87,47.45203769912822
 2020-04-15,SINDH,Karachi,"Rice (basmati, broken)",cereals and tubers,92.66,113.93879977760982
 2020-04-15,PUNJAB,Multan,Lentils (moong),pulses and nuts,285.61,120.47307205956578
-2020-04-15,PUNJAB,Multan,Lentils (masur),pulses and nuts,152.82,103.50531211207259
+2020-04-15,PUNJAB,Multan,Lentils (masur),pulses and nuts,152.82,103.5053121120725
 2020-04-15,SINDH,Karachi,Milk,milk and dairy,93.92,95.98499549918824
 2020-04-15,PUNJAB,Lahore,Fuel (diesel),non-food,107.61,105.88387639261106
-2020-04-15,KHYBER PAKHTUNKHWA,Peshawar,Beans(mash),pulses and nuts,261.87,154.9869020789294
+2020-04-15,KHYBER PAKHTUNKHWA,Peshawar,Beans(mash),pulses and nuts,261.87,154.98690207892952
 2020-04-15,PUNJAB,Lahore,Milk,milk and dairy,83.2,86.33381441187588
 2020-04-15,BALOCHISTAN,Quetta,Lentils (moong),pulses and nuts,293.57,152.9548724164897
 2020-04-15,BALOCHISTAN,Quetta,Lentils (masur),pulses and nuts,165.72,118.38599782177654
@@ -293,7 +293,7 @@ date,admin1,market,commodity,category,price,price_pred
 2020-04-15,PUNJAB,Lahore,Wheat,cereals and tubers,44.8,45.08919072906057
 2020-04-15,PUNJAB,Lahore,"Rice (basmati, broken)",cereals and tubers,74.71,110.51497235841394
 2020-04-15,KHYBER PAKHTUNKHWA,Peshawar,Lentils (moong),pulses and nuts,267.14,119.26272871466199
-2020-04-15,KHYBER PAKHTUNKHWA,Peshawar,Lentils (masur),pulses and nuts,151.13,95.56345978665564
+2020-04-15,KHYBER PAKHTUNKHWA,Peshawar,Lentils (masur),pulses and nuts,151.13,95.56345978665556
 2020-04-15,KHYBER PAKHTUNKHWA,Peshawar,Oil (cooking),oil and fats,260.0,194.04735175647275
 2020-04-15,PUNJAB,Lahore,Eggs,"meat, fish and eggs",108.12,84.59432959859477
 2020-04-15,KHYBER PAKHTUNKHWA,Peshawar,"Wage (non-qualified labour, non-agricultural)",non-food,632.0,697.0957690554428
@@ -304,14 +304,14 @@ date,admin1,market,commodity,category,price,price_pred
 2020-04-15,KHYBER PAKHTUNKHWA,Peshawar,Ghee (artificial),oil and fats,262.0,190.53362653293453
 2020-04-15,KHYBER PAKHTUNKHWA,Peshawar,Poultry,"meat, fish and eggs",141.74,177.69989058391732
 2020-05-15,PUNJAB,Lahore,Ghee (artificial),oil and fats,251.68,189.29019171957174
-2020-05-15,PUNJAB,Multan,"Wage (non-qualified labour, non-agricultural)",non-food,700.0,675.3122542902645
-2020-05-15,PUNJAB,Multan,Fuel (petrol-gasoline),non-food,82.09,107.81819661445843
+2020-05-15,PUNJAB,Multan,"Wage (non-qualified labour, non-agricultural)",non-food,700.0,675.3122542902639
+2020-05-15,PUNJAB,Multan,Fuel (petrol-gasoline),non-food,82.09,107.81819661445853
 2020-05-15,PUNJAB,Multan,Fuel (diesel),non-food,80.64,106.83856474541354
 2020-05-15,PUNJAB,Multan,Sugar,miscellaneous food,79.89,62.68910605820839
 2020-05-15,PUNJAB,Multan,Milk,milk and dairy,88.15,87.78350365394891
 2020-05-15,PUNJAB,Multan,Poultry,"meat, fish and eggs",213.0,178.88361263694142
 2020-05-15,PUNJAB,Multan,Eggs,"meat, fish and eggs",81.2,83.74720863240009
-2020-05-15,PUNJAB,Multan,"Rice (basmati, broken)",cereals and tubers,88.44,118.7540991187823
+2020-05-15,PUNJAB,Multan,"Rice (basmati, broken)",cereals and tubers,88.44,118.75409911878229
 2020-05-15,PUNJAB,Multan,Wheat,cereals and tubers,35.25,40.814798416577425
 2020-05-15,PUNJAB,Lahore,Lentils (moong),pulses and nuts,287.99,140.72381619015187
 2020-05-15,PUNJAB,Lahore,Lentils (masur),pulses and nuts,173.27,128.8730195592303
@@ -319,16 +319,16 @@ date,admin1,market,commodity,category,price,price_pred
 2020-05-15,PUNJAB,Lahore,Oil (cooking),oil and fats,248.0,192.6270441174323
 2020-05-15,PUNJAB,Multan,Ghee (artificial),oil and fats,262.0,189.8721746119023
 2020-05-15,PUNJAB,Multan,Wheat flour,cereals and tubers,40.25,51.019217162884864
-2020-05-15,PUNJAB,Multan,Oil (cooking),oil and fats,260.0,193.90340106677732
+2020-05-15,PUNJAB,Multan,Oil (cooking),oil and fats,260.0,193.9034010667773
 2020-05-15,SINDH,Karachi,Lentils (masur),pulses and nuts,167.73,107.42207554387451
 2020-05-15,PUNJAB,Multan,Lentils (masur),pulses and nuts,142.57,105.05954595231115
 2020-05-15,SINDH,Karachi,Lentils (moong),pulses and nuts,283.89,137.22023490472858
-2020-05-15,PUNJAB,Lahore,"Wage (non-qualified labour, non-agricultural)",non-food,916.0,864.8759339389554
+2020-05-15,PUNJAB,Lahore,"Wage (non-qualified labour, non-agricultural)",non-food,916.0,864.8759339389546
 2020-05-15,SINDH,Karachi,Beans(mash),pulses and nuts,235.39,158.64189981112833
 2020-05-15,SINDH,Karachi,Oil (cooking),oil and fats,260.0,195.6349879546799
 2020-05-15,SINDH,Karachi,Ghee (artificial),oil and fats,262.0,191.5353715910305
 2020-05-15,SINDH,Karachi,"Wage (non-qualified labour, non-agricultural)",non-food,1000.0,948.2798546873425
-2020-05-15,SINDH,Karachi,Fuel (petrol-gasoline),non-food,82.05,107.85599296964774
+2020-05-15,SINDH,Karachi,Fuel (petrol-gasoline),non-food,82.05,107.85599296964784
 2020-05-15,SINDH,Karachi,Fuel (diesel),non-food,80.57,106.7528045359157
 2020-05-15,SINDH,Karachi,Sugar,miscellaneous food,82.39,65.001149832981
 2020-05-15,SINDH,Karachi,Milk,milk and dairy,107.26,96.69308675944255
@@ -336,11 +336,11 @@ date,admin1,market,commodity,category,price,price_pred
 2020-05-15,SINDH,Karachi,Eggs,"meat, fish and eggs",98.09,90.51767326227248
 2020-05-15,SINDH,Karachi,Wheat flour,cereals and tubers,53.81,60.06791391319413
 2020-05-15,SINDH,Karachi,Wheat,cereals and tubers,44.0,47.325660495475915
-2020-05-15,SINDH,Karachi,Rice (coarse),cereals and tubers,68.84,71.08261346162766
+2020-05-15,SINDH,Karachi,Rice (coarse),cereals and tubers,68.84,71.08261346162773
 2020-05-15,SINDH,Karachi,"Rice (basmati, broken)",cereals and tubers,93.69,117.32138955244825
 2020-05-15,PUNJAB,Multan,Lentils (moong),pulses and nuts,275.69,124.38719382233124
 2020-05-15,PUNJAB,Multan,Beans(mash),pulses and nuts,213.69,160.40721583885124
-2020-05-15,PUNJAB,Lahore,Fuel (petrol-gasoline),non-food,81.93,107.53723267081683
+2020-05-15,PUNJAB,Lahore,Fuel (petrol-gasoline),non-food,81.93,107.53723267081693
 2020-05-15,KHYBER PAKHTUNKHWA,Peshawar,Lentils (masur),pulses and nuts,156.03,96.4110810552088
 2020-05-15,PUNJAB,Lahore,Sugar,miscellaneous food,84.28,65.47885164341172
 2020-05-15,BALOCHISTAN,Quetta,Lentils (moong),pulses and nuts,312.16,156.9477506409929
@@ -348,9 +348,9 @@ date,admin1,market,commodity,category,price,price_pred
 2020-05-15,BALOCHISTAN,Quetta,Beans(mash),pulses and nuts,304.91,200.41136721655727
 2020-05-15,BALOCHISTAN,Quetta,Oil (cooking),oil and fats,248.0,191.71921115336593
 2020-05-15,BALOCHISTAN,Quetta,Ghee (artificial),oil and fats,250.0,189.31782024274762
-2020-05-15,BALOCHISTAN,Quetta,"Wage (non-qualified labour, non-agricultural)",non-food,997.0,822.8214383412485
+2020-05-15,BALOCHISTAN,Quetta,"Wage (non-qualified labour, non-agricultural)",non-food,997.0,822.8214383412478
 2020-05-15,PUNJAB,Lahore,Fuel (diesel),non-food,80.46,106.6671276710596
-2020-05-15,BALOCHISTAN,Quetta,Fuel (diesel),non-food,80.54,106.9974677861417
+2020-05-15,BALOCHISTAN,Quetta,Fuel (diesel),non-food,80.54,106.9974677861418
 2020-05-15,BALOCHISTAN,Quetta,Sugar,miscellaneous food,84.75,65.34067942106778
 2020-05-15,BALOCHISTAN,Quetta,Milk,milk and dairy,100.0,103.81089654806696
 2020-05-15,BALOCHISTAN,Quetta,Poultry,"meat, fish and eggs",231.25,202.3614653848941
@@ -360,10 +360,10 @@ date,admin1,market,commodity,category,price,price_pred
 2020-05-15,BALOCHISTAN,Quetta,"Rice (basmati, broken)",cereals and tubers,114.93,125.43973446813203
 2020-05-15,KHYBER PAKHTUNKHWA,Peshawar,"Rice (basmati, broken)",cereals and tubers,86.53,117.91549070550592
 2020-05-15,KHYBER PAKHTUNKHWA,Peshawar,Wheat,cereals and tubers,40.5,45.66043297002008
-2020-05-15,BALOCHISTAN,Quetta,Fuel (petrol-gasoline),non-food,82.06,107.73840766094798
+2020-05-15,BALOCHISTAN,Quetta,Fuel (petrol-gasoline),non-food,82.06,107.73840766094808
 2020-05-15,KHYBER PAKHTUNKHWA,Peshawar,Eggs,"meat, fish and eggs",99.82,94.10118415784711
 2020-05-15,KHYBER PAKHTUNKHWA,Peshawar,Wheat flour,cereals and tubers,45.16,54.46229218704469
-2020-05-15,PUNJAB,Lahore,Milk,milk and dairy,83.2,84.95788847132047
+2020-05-15,PUNJAB,Lahore,Milk,milk and dairy,83.2,84.95788847132046
 2020-05-15,PUNJAB,Lahore,Poultry,"meat, fish and eggs",179.68,163.71726144159302
 2020-05-15,PUNJAB,Lahore,Eggs,"meat, fish and eggs",94.44,85.80259251166504
 2020-05-15,PUNJAB,Lahore,Wheat flour,cereals and tubers,40.5,52.760594870039974
@@ -372,23 +372,23 @@ date,admin1,market,commodity,category,price,price_pred
 2020-05-15,KHYBER PAKHTUNKHWA,Peshawar,Beans(mash),pulses and nuts,267.16,163.94223292306535
 2020-05-15,PUNJAB,Lahore,Wheat,cereals and tubers,41.38,43.22370429717637
 2020-05-15,KHYBER PAKHTUNKHWA,Peshawar,Ghee (artificial),oil and fats,262.0,189.09980958022524
-2020-05-15,KHYBER PAKHTUNKHWA,Peshawar,"Wage (non-qualified labour, non-agricultural)",non-food,748.0,699.366104983863
-2020-05-15,KHYBER PAKHTUNKHWA,Peshawar,Fuel (petrol-gasoline),non-food,82.04,107.84880935482605
+2020-05-15,KHYBER PAKHTUNKHWA,Peshawar,"Wage (non-qualified labour, non-agricultural)",non-food,748.0,699.3661049838623
+2020-05-15,KHYBER PAKHTUNKHWA,Peshawar,Fuel (petrol-gasoline),non-food,82.04,107.84880935482613
 2020-05-15,KHYBER PAKHTUNKHWA,Peshawar,Fuel (diesel),non-food,80.56,106.63510198877917
 2020-05-15,KHYBER PAKHTUNKHWA,Peshawar,Sugar,miscellaneous food,84.22,64.87506902645185
 2020-05-15,KHYBER PAKHTUNKHWA,Peshawar,Milk,milk and dairy,113.42,95.67162391841971
-2020-05-15,KHYBER PAKHTUNKHWA,Peshawar,Poultry,"meat, fish and eggs",194.61,180.60863835324358
+2020-05-15,KHYBER PAKHTUNKHWA,Peshawar,Poultry,"meat, fish and eggs",194.61,180.60863835324355
 2020-05-15,KHYBER PAKHTUNKHWA,Peshawar,Oil (cooking),oil and fats,260.0,192.34900267987572
 2020-06-15,PUNJAB,Multan,Poultry,"meat, fish and eggs",196.91,179.60719932978685
 2020-06-15,PUNJAB,Multan,Ghee (artificial),oil and fats,262.0,188.85778908245968
 2020-06-15,PUNJAB,Multan,"Wage (non-qualified labour, non-agricultural)",non-food,700.0,683.2140909005951
-2020-06-15,PUNJAB,Multan,Fuel (petrol-gasoline),non-food,75.08,109.74785607467408
+2020-06-15,PUNJAB,Multan,Fuel (petrol-gasoline),non-food,75.08,109.74785607467406
 2020-06-15,PUNJAB,Multan,Fuel (diesel),non-food,80.64,108.45770831592213
 2020-06-15,PUNJAB,Multan,Sugar,miscellaneous food,79.78,63.89724513437227
 2020-06-15,PUNJAB,Multan,Milk,milk and dairy,88.15,88.34606363126501
 2020-06-15,PUNJAB,Multan,Eggs,"meat, fish and eggs",108.08,85.9511945298142
 2020-06-15,PUNJAB,Multan,Oil (cooking),oil and fats,260.0,193.10362634591942
-2020-06-15,PUNJAB,Multan,Wheat,cereals and tubers,40.63,41.342370757599994
+2020-06-15,PUNJAB,Multan,Wheat,cereals and tubers,40.63,41.34237075760001
 2020-06-15,PUNJAB,Multan,"Rice (basmati, broken)",cereals and tubers,91.5,119.85525497063469
 2020-06-15,PUNJAB,Lahore,Lentils (moong),pulses and nuts,263.77,140.94293654112803
 2020-06-15,PUNJAB,Lahore,Lentils (masur),pulses and nuts,173.27,128.51585511137438
@@ -443,54 +443,54 @@ date,admin1,market,commodity,category,price,price_pred
 2020-06-15,PUNJAB,Lahore,Eggs,"meat, fish and eggs",115.95,86.70785587721863
 2020-06-15,PUNJAB,Lahore,Wheat flour,cereals and tubers,49.75,53.0295727374389
 2020-06-15,PUNJAB,Lahore,Wheat,cereals and tubers,47.44,43.481876713337115
-2020-06-15,PUNJAB,Lahore,"Rice (basmati, broken)",cereals and tubers,74.71,113.43839513987362
-2020-06-15,KHYBER PAKHTUNKHWA,Peshawar,Lentils (moong),pulses and nuts,268.54,123.92216043682077
+2020-06-15,PUNJAB,Lahore,"Rice (basmati, broken)",cereals and tubers,74.71,113.4383951398736
+2020-06-15,KHYBER PAKHTUNKHWA,Peshawar,Lentils (moong),pulses and nuts,268.54,123.92216043682076
 2020-06-15,KHYBER PAKHTUNKHWA,Peshawar,Lentils (masur),pulses and nuts,147.08,96.74613295436644
 2020-06-15,PUNJAB,Lahore,Milk,milk and dairy,83.2,85.10008714849154
 2020-06-15,KHYBER PAKHTUNKHWA,Peshawar,Oil (cooking),oil and fats,260.0,190.54127748541566
 2020-06-15,KHYBER PAKHTUNKHWA,Peshawar,Ghee (artificial),oil and fats,262.0,187.84836312523325
 2020-06-15,KHYBER PAKHTUNKHWA,Peshawar,"Wage (non-qualified labour, non-agricultural)",non-food,791.25,700.7598857614951
-2020-06-15,KHYBER PAKHTUNKHWA,Peshawar,Fuel (petrol-gasoline),non-food,74.94,109.54331040675399
+2020-06-15,KHYBER PAKHTUNKHWA,Peshawar,Fuel (petrol-gasoline),non-food,74.94,109.54331040675397
 2020-06-15,KHYBER PAKHTUNKHWA,Peshawar,Fuel (diesel),non-food,80.57,107.47931226962406
 2020-06-15,KHYBER PAKHTUNKHWA,Peshawar,Sugar,miscellaneous food,83.34,65.74993514255294
 2020-06-15,KHYBER PAKHTUNKHWA,Peshawar,Milk,milk and dairy,115.87,95.62036618738045
 2020-06-15,KHYBER PAKHTUNKHWA,Peshawar,Beans(mash),pulses and nuts,255.65,167.40921930565005
-2020-07-15,PUNJAB,Multan,"Wage (non-qualified labour, non-agricultural)",non-food,700.0,688.0340432450319
+2020-07-15,PUNJAB,Multan,"Wage (non-qualified labour, non-agricultural)",non-food,700.0,688.0340432450312
 2020-07-15,PUNJAB,Multan,Fuel (petrol-gasoline),non-food,100.55,110.472548681773
-2020-07-15,PUNJAB,Multan,Fuel (diesel),non-food,101.87,109.28814777882144
-2020-07-15,PUNJAB,Multan,Sugar,miscellaneous food,83.1,65.4078576659182
+2020-07-15,PUNJAB,Multan,Fuel (diesel),non-food,101.87,109.28814777882154
+2020-07-15,PUNJAB,Multan,Sugar,miscellaneous food,83.1,65.40785766591826
 2020-07-15,PUNJAB,Multan,Milk,milk and dairy,88.73,88.6486729858061
 2020-07-15,PUNJAB,Multan,Poultry,"meat, fish and eggs",193.45,164.12999249155033
 2020-07-15,PUNJAB,Multan,Eggs,"meat, fish and eggs",118.31,95.24468004415323
-2020-07-15,PUNJAB,Multan,Wheat flour,cereals and tubers,45.66,52.600457196956846
+2020-07-15,PUNJAB,Multan,Wheat flour,cereals and tubers,45.66,52.6004571969568
 2020-07-15,PUNJAB,Lahore,Beans(mash),pulses and nuts,248.37,193.73473619639518
-2020-07-15,PUNJAB,Multan,"Rice (basmati, broken)",cereals and tubers,93.75,119.58198490716475
+2020-07-15,PUNJAB,Multan,"Rice (basmati, broken)",cereals and tubers,93.75,119.58198490716474
 2020-07-15,PUNJAB,Lahore,Lentils (moong),pulses and nuts,243.73,140.22174910043339
 2020-07-15,PUNJAB,Lahore,Lentils (masur),pulses and nuts,148.79,128.4791821827807
 2020-07-15,PUNJAB,Lahore,Oil (cooking),oil and fats,248.0,194.11788034201444
 2020-07-15,PUNJAB,Lahore,Ghee (artificial),oil and fats,251.68,190.9375156221436
-2020-07-15,PUNJAB,Lahore,"Wage (non-qualified labour, non-agricultural)",non-food,916.0,879.3311765869596
+2020-07-15,PUNJAB,Lahore,"Wage (non-qualified labour, non-agricultural)",non-food,916.0,879.3311765869588
 2020-07-15,PUNJAB,Lahore,Fuel (petrol-gasoline),non-food,100.53,110.47734344751399
 2020-07-15,PUNJAB,Multan,Wheat,cereals and tubers,46.77,42.41625414375464
 2020-07-15,PUNJAB,Multan,Ghee (artificial),oil and fats,262.0,191.2937678038358
 2020-07-15,SINDH,Karachi,Lentils (masur),pulses and nuts,151.17,109.93364834152426
 2020-07-15,PUNJAB,Multan,Beans(mash),pulses and nuts,212.61,166.13152315648276
-2020-07-15,PUNJAB,Lahore,Fuel (diesel),non-food,101.82,109.09262272207968
+2020-07-15,PUNJAB,Lahore,Fuel (diesel),non-food,101.82,109.09262272207977
 2020-07-15,SINDH,Karachi,Beans(mash),pulses and nuts,225.91,168.60251745972397
 2020-07-15,SINDH,Karachi,Oil (cooking),oil and fats,253.93,196.9609929828393
 2020-07-15,SINDH,Karachi,Ghee (artificial),oil and fats,255.93,192.51251205480773
-2020-07-15,SINDH,Karachi,"Wage (non-qualified labour, non-agricultural)",non-food,1000.0,957.1131684053096
+2020-07-15,SINDH,Karachi,"Wage (non-qualified labour, non-agricultural)",non-food,1000.0,957.1131684053087
 2020-07-15,SINDH,Karachi,Fuel (petrol-gasoline),non-food,100.53,110.03782973447001
-2020-07-15,SINDH,Karachi,Fuel (diesel),non-food,101.88,109.03821613907802
+2020-07-15,SINDH,Karachi,Fuel (diesel),non-food,101.88,109.03821613907822
 2020-07-15,PUNJAB,Multan,Oil (cooking),oil and fats,260.0,195.68288175609283
 2020-07-15,SINDH,Karachi,Sugar,miscellaneous food,84.7,67.43499267256585
 2020-07-15,SINDH,Karachi,Poultry,"meat, fish and eggs",202.82,181.9900322397873
 2020-07-15,SINDH,Karachi,Eggs,"meat, fish and eggs",128.63,102.10228845328919
-2020-07-15,SINDH,Karachi,Wheat flour,cereals and tubers,60.18,62.050647652129605
+2020-07-15,SINDH,Karachi,Wheat flour,cereals and tubers,60.18,62.05064765212955
 2020-07-15,SINDH,Karachi,Wheat,cereals and tubers,47.6,48.116269876839496
-2020-07-15,SINDH,Karachi,"Rice (basmati, broken)",cereals and tubers,94.74,119.03024698905683
+2020-07-15,SINDH,Karachi,"Rice (basmati, broken)",cereals and tubers,94.74,119.03024698905682
 2020-07-15,PUNJAB,Multan,Lentils (moong),pulses and nuts,220.33,124.39219450354928
-2020-07-15,PUNJAB,Multan,Lentils (masur),pulses and nuts,138.16,105.25617508872729
+2020-07-15,PUNJAB,Multan,Lentils (masur),pulses and nuts,138.16,105.25617508872728
 2020-07-15,SINDH,Karachi,Milk,milk and dairy,111.64,98.53990593098439
 2020-07-15,PUNJAB,Lahore,Sugar,miscellaneous food,83.83,68.49389125005112
 2020-07-15,SINDH,Karachi,Lentils (moong),pulses and nuts,258.35,140.78338371452767
@@ -499,41 +499,41 @@ date,admin1,market,commodity,category,price,price_pred
 2020-07-15,BALOCHISTAN,Quetta,Lentils (masur),pulses and nuts,169.91,123.43829141798183
 2020-07-15,BALOCHISTAN,Quetta,Beans(mash),pulses and nuts,294.8,207.83545390563222
 2020-07-15,BALOCHISTAN,Quetta,Oil (cooking),oil and fats,248.0,192.21588298952196
-2020-07-15,BALOCHISTAN,Quetta,Ghee (artificial),oil and fats,250.0,189.53759303927973
-2020-07-15,BALOCHISTAN,Quetta,"Wage (non-qualified labour, non-agricultural)",non-food,997.0,837.208561903009
+2020-07-15,BALOCHISTAN,Quetta,Ghee (artificial),oil and fats,250.0,189.5375930392799
+2020-07-15,BALOCHISTAN,Quetta,"Wage (non-qualified labour, non-agricultural)",non-food,997.0,837.2085619030082
 2020-07-15,BALOCHISTAN,Quetta,Fuel (petrol-gasoline),non-food,100.58,110.13036237621756
 2020-07-15,KHYBER PAKHTUNKHWA,Peshawar,"Rice (basmati, broken)",cereals and tubers,88.84,118.87170018034223
-2020-07-15,BALOCHISTAN,Quetta,Fuel (diesel),non-food,101.9,109.05849792424496
+2020-07-15,BALOCHISTAN,Quetta,Fuel (diesel),non-food,101.9,109.05849792424506
 2020-07-15,BALOCHISTAN,Quetta,Milk,milk and dairy,110.0,104.66240862411786
 2020-07-15,BALOCHISTAN,Quetta,Poultry,"meat, fish and eggs",209.63,197.37378781741393
 2020-07-15,BALOCHISTAN,Quetta,Eggs,"meat, fish and eggs",129.84,106.50432293108297
-2020-07-15,BALOCHISTAN,Quetta,Wheat flour,cereals and tubers,54.57,58.50447236385957
+2020-07-15,BALOCHISTAN,Quetta,Wheat flour,cereals and tubers,54.57,58.50447236385952
 2020-07-15,BALOCHISTAN,Quetta,Wheat,cereals and tubers,49.19,43.71211678021356
 2020-07-15,BALOCHISTAN,Quetta,Rice (coarse),cereals and tubers,94.91,72.47805497293658
 2020-07-15,BALOCHISTAN,Quetta,"Rice (basmati, broken)",cereals and tubers,114.93,128.5842054491045
 2020-07-15,BALOCHISTAN,Quetta,Sugar,miscellaneous food,87.01,67.57772095218428
 2020-07-15,KHYBER PAKHTUNKHWA,Peshawar,Rice (coarse),cereals and tubers,70.0,69.04465068709919
 2020-07-15,PUNJAB,Lahore,Milk,milk and dairy,84.85,85.09367624236103
-2020-07-15,KHYBER PAKHTUNKHWA,Peshawar,Wheat flour,cereals and tubers,56.22,55.84365880599405
+2020-07-15,KHYBER PAKHTUNKHWA,Peshawar,Wheat flour,cereals and tubers,56.22,55.843658805994
 2020-07-15,PUNJAB,Lahore,Eggs,"meat, fish and eggs",126.48,97.01937947234634
-2020-07-15,PUNJAB,Lahore,Wheat flour,cereals and tubers,47.57,54.49772856630082
+2020-07-15,PUNJAB,Lahore,Wheat flour,cereals and tubers,47.57,54.49772856630077
 2020-07-15,PUNJAB,Lahore,Wheat,cereals and tubers,51.32,44.155702721704216
 2020-07-15,PUNJAB,Lahore,"Rice (basmati, broken)",cereals and tubers,74.71,114.63157418773997
 2020-07-15,KHYBER PAKHTUNKHWA,Peshawar,Wheat,cereals and tubers,52.4,46.41449781838335
 2020-07-15,KHYBER PAKHTUNKHWA,Peshawar,Lentils (masur),pulses and nuts,149.78,96.78006746213303
 2020-07-15,KHYBER PAKHTUNKHWA,Peshawar,Beans(mash),pulses and nuts,253.28,171.00742367176065
-2020-07-15,KHYBER PAKHTUNKHWA,Peshawar,Oil (cooking),oil and fats,260.0,192.99689972468306
+2020-07-15,KHYBER PAKHTUNKHWA,Peshawar,Oil (cooking),oil and fats,260.0,192.99689972468323
 2020-07-15,KHYBER PAKHTUNKHWA,Peshawar,Lentils (moong),pulses and nuts,247.39,123.72474919227324
-2020-07-15,KHYBER PAKHTUNKHWA,Peshawar,"Wage (non-qualified labour, non-agricultural)",non-food,800.0,706.7750626219433
+2020-07-15,KHYBER PAKHTUNKHWA,Peshawar,"Wage (non-qualified labour, non-agricultural)",non-food,800.0,706.7750626219427
 2020-07-15,KHYBER PAKHTUNKHWA,Peshawar,Fuel (petrol-gasoline),non-food,100.53,110.34935039668147
-2020-07-15,KHYBER PAKHTUNKHWA,Peshawar,Fuel (diesel),non-food,101.88,108.71815079121393
+2020-07-15,KHYBER PAKHTUNKHWA,Peshawar,Fuel (diesel),non-food,101.88,108.71815079121403
 2020-07-15,KHYBER PAKHTUNKHWA,Peshawar,Sugar,miscellaneous food,86.45,67.83044507822214
 2020-07-15,KHYBER PAKHTUNKHWA,Peshawar,Milk,milk and dairy,116.46,97.94941106346808
 2020-07-15,KHYBER PAKHTUNKHWA,Peshawar,Poultry,"meat, fish and eggs",197.01,174.1303224906628
 2020-07-15,KHYBER PAKHTUNKHWA,Peshawar,Eggs,"meat, fish and eggs",129.64,102.56791698668636
 2020-07-15,KHYBER PAKHTUNKHWA,Peshawar,Ghee (artificial),oil and fats,262.0,189.67546201645658
 2020-08-15,PUNJAB,Multan,Fuel (petrol-gasoline),non-food,104.45,110.63569489342882
-2020-08-15,PUNJAB,Multan,Fuel (diesel),non-food,106.91,109.16872126901403
+2020-08-15,PUNJAB,Multan,Fuel (diesel),non-food,106.91,109.16872126901411
 2020-08-15,PUNJAB,Multan,Sugar,miscellaneous food,92.98,66.58884002680148
 2020-08-15,PUNJAB,Multan,Milk,milk and dairy,91.28,89.09896554164334
 2020-08-15,PUNJAB,Multan,Poultry,"meat, fish and eggs",137.17,156.11586870941994
@@ -552,15 +552,15 @@ date,admin1,market,commodity,category,price,price_pred
 2020-08-15,PUNJAB,Multan,Ghee (artificial),oil and fats,256.64,191.98080439474512
 2020-08-15,SINDH,Karachi,Poultry,"meat, fish and eggs",156.9,175.38333356244132
 2020-08-15,PUNJAB,Multan,Beans(mash),pulses and nuts,213.17,164.19997598967842
-2020-08-15,PUNJAB,Lahore,Fuel (diesel),non-food,106.96,108.96083739989892
+2020-08-15,PUNJAB,Lahore,Fuel (diesel),non-food,106.96,108.96083739989902
 2020-08-15,SINDH,Karachi,Lentils (masur),pulses and nuts,148.94,109.90787704479418
 2020-08-15,SINDH,Karachi,Beans(mash),pulses and nuts,228.29,168.1924443403896
 2020-08-15,SINDH,Karachi,Oil (cooking),oil and fats,248.0,197.39470191763584
-2020-08-15,SINDH,Karachi,Ghee (artificial),oil and fats,250.0,193.11513259203417
-2020-08-15,SINDH,Karachi,"Wage (non-qualified labour, non-agricultural)",non-food,1000.0,972.0895665926423
+2020-08-15,SINDH,Karachi,Ghee (artificial),oil and fats,250.0,193.11513259203434
+2020-08-15,SINDH,Karachi,"Wage (non-qualified labour, non-agricultural)",non-food,1000.0,972.0895665926422
 2020-08-15,SINDH,Karachi,Fuel (petrol-gasoline),non-food,104.47,110.79505038908732
 2020-08-15,PUNJAB,Multan,Oil (cooking),oil and fats,255.31,196.64266955666122
-2020-08-15,SINDH,Karachi,Fuel (diesel),non-food,106.96,109.28846464175706
+2020-08-15,SINDH,Karachi,Fuel (diesel),non-food,106.96,109.28846464175716
 2020-08-15,SINDH,Karachi,Milk,milk and dairy,118.82,98.78769022028123
 2020-08-15,SINDH,Karachi,Eggs,"meat, fish and eggs",131.0,108.40213077422274
 2020-08-15,SINDH,Karachi,Wheat flour,cereals and tubers,67.64,62.69874668566271
@@ -578,8 +578,8 @@ date,admin1,market,commodity,category,price,price_pred
 2020-08-15,BALOCHISTAN,Quetta,Oil (cooking),oil and fats,248.0,192.9458340496004
 2020-08-15,BALOCHISTAN,Quetta,Ghee (artificial),oil and fats,250.0,190.14356126000658
 2020-08-15,BALOCHISTAN,Quetta,"Wage (non-qualified labour, non-agricultural)",non-food,997.0,843.8975530499318
-2020-08-15,BALOCHISTAN,Quetta,Fuel (diesel),non-food,106.9,109.04480928874236
-2020-08-15,KHYBER PAKHTUNKHWA,Peshawar,"Rice (basmati, broken)",cereals and tubers,90.0,119.28859393045795
+2020-08-15,BALOCHISTAN,Quetta,Fuel (diesel),non-food,106.9,109.04480928874246
+2020-08-15,KHYBER PAKHTUNKHWA,Peshawar,"Rice (basmati, broken)",cereals and tubers,90.0,119.28859393045794
 2020-08-15,BALOCHISTAN,Quetta,Sugar,miscellaneous food,98.23,68.50084472032374
 2020-08-15,BALOCHISTAN,Quetta,Poultry,"meat, fish and eggs",158.25,187.29320054860736
 2020-08-15,BALOCHISTAN,Quetta,Eggs,"meat, fish and eggs",129.84,113.30806813716639
@@ -597,13 +597,13 @@ date,admin1,market,commodity,category,price,price_pred
 2020-08-15,PUNJAB,Lahore,Wheat,cereals and tubers,54.5,44.88546441881884
 2020-08-15,PUNJAB,Lahore,"Rice (basmati, broken)",cereals and tubers,75.78,114.87014077959765
 2020-08-15,KHYBER PAKHTUNKHWA,Peshawar,Lentils (moong),pulses and nuts,234.34,123.366374009008
-2020-08-15,KHYBER PAKHTUNKHWA,Peshawar,Lentils (masur),pulses and nuts,147.0,96.99112771991574
+2020-08-15,KHYBER PAKHTUNKHWA,Peshawar,Lentils (masur),pulses and nuts,147.0,96.99112771991582
 2020-08-15,KHYBER PAKHTUNKHWA,Peshawar,Beans(mash),pulses and nuts,245.54,169.15672191960388
 2020-08-15,KHYBER PAKHTUNKHWA,Peshawar,Oil (cooking),oil and fats,256.95,193.84487178252516
 2020-08-15,PUNJAB,Lahore,Eggs,"meat, fish and eggs",122.61,101.15751472702095
 2020-08-15,KHYBER PAKHTUNKHWA,Peshawar,"Wage (non-qualified labour, non-agricultural)",non-food,800.0,713.5503901804037
 2020-08-15,KHYBER PAKHTUNKHWA,Peshawar,Fuel (petrol-gasoline),non-food,104.47,110.43830059708368
-2020-08-15,KHYBER PAKHTUNKHWA,Peshawar,Fuel (diesel),non-food,106.96,108.65205704715277
+2020-08-15,KHYBER PAKHTUNKHWA,Peshawar,Fuel (diesel),non-food,106.96,108.65205704715285
 2020-08-15,KHYBER PAKHTUNKHWA,Peshawar,Sugar,miscellaneous food,98.15,68.69497716478227
 2020-08-15,KHYBER PAKHTUNKHWA,Peshawar,Milk,milk and dairy,119.7,98.00904803036313
 2020-08-15,KHYBER PAKHTUNKHWA,Peshawar,Poultry,"meat, fish and eggs",134.42,162.01653101833517
@@ -613,7 +613,7 @@ date,admin1,market,commodity,category,price,price_pred
 2020-09-15,PUNJAB,Multan,Fuel (diesel),non-food,106.91,107.08806771169084
 2020-09-15,PUNJAB,Multan,Sugar,miscellaneous food,92.88,66.27941288291937
 2020-09-15,PUNJAB,Multan,Milk,milk and dairy,92.13,89.49119970893811
-2020-09-15,PUNJAB,Multan,Poultry,"meat, fish and eggs",153.79,144.5794337815998
+2020-09-15,PUNJAB,Multan,Poultry,"meat, fish and eggs",153.79,144.57943378159976
 2020-09-15,PUNJAB,Multan,Eggs,"meat, fish and eggs",129.95,97.89627890257589
 2020-09-15,PUNJAB,Multan,Wheat flour,cereals and tubers,43.0,54.004475836480125
 2020-09-15,PUNJAB,Lahore,Lentils (masur),pulses and nuts,141.92,126.33584526327095
@@ -622,8 +622,8 @@ date,admin1,market,commodity,category,price,price_pred
 2020-09-15,PUNJAB,Lahore,Beans(mash),pulses and nuts,246.82,186.01054723872687
 2020-09-15,PUNJAB,Lahore,Oil (cooking),oil and fats,248.0,194.84644631196358
 2020-09-15,PUNJAB,Lahore,Ghee (artificial),oil and fats,252.0,190.7622843102597
-2020-09-15,PUNJAB,Lahore,"Wage (non-qualified labour, non-agricultural)",non-food,916.0,895.4195886835017
-2020-09-15,PUNJAB,Multan,"Wage (non-qualified labour, non-agricultural)",non-food,700.0,691.8884312895129
+2020-09-15,PUNJAB,Lahore,"Wage (non-qualified labour, non-agricultural)",non-food,916.0,895.4195886835009
+2020-09-15,PUNJAB,Multan,"Wage (non-qualified labour, non-agricultural)",non-food,700.0,691.8884312895124
 2020-09-15,PUNJAB,Multan,Wheat,cereals and tubers,52.58,43.8236646078954
 2020-09-15,PUNJAB,Multan,Ghee (artificial),oil and fats,254.0,191.87003173024667
 2020-09-15,PUNJAB,Lahore,Fuel (petrol-gasoline),non-food,104.47,108.45988112259056
@@ -632,7 +632,7 @@ date,admin1,market,commodity,category,price,price_pred
 2020-09-15,SINDH,Karachi,Beans(mash),pulses and nuts,230.69,162.7024780825044
 2020-09-15,SINDH,Karachi,Oil (cooking),oil and fats,252.54,197.54282888767312
 2020-09-15,SINDH,Karachi,Ghee (artificial),oil and fats,253.64,193.43187750134385
-2020-09-15,SINDH,Karachi,"Wage (non-qualified labour, non-agricultural)",non-food,1000.0,971.8952771522942
+2020-09-15,SINDH,Karachi,"Wage (non-qualified labour, non-agricultural)",non-food,1000.0,971.8952771522933
 2020-09-15,SINDH,Karachi,Fuel (petrol-gasoline),non-food,104.47,108.67400104977455
 2020-09-15,SINDH,Karachi,Fuel (diesel),non-food,106.96,106.78307417037801
 2020-09-15,PUNJAB,Multan,Oil (cooking),oil and fats,253.0,196.16491550504034
@@ -654,7 +654,7 @@ date,admin1,market,commodity,category,price,price_pred
 2020-09-15,BALOCHISTAN,Quetta,Beans(mash),pulses and nuts,272.37,207.4288946187454
 2020-09-15,BALOCHISTAN,Quetta,Oil (cooking),oil and fats,250.0,193.2081677491616
 2020-09-15,BALOCHISTAN,Quetta,Ghee (artificial),oil and fats,250.0,190.17736438724722
-2020-09-15,BALOCHISTAN,Quetta,"Wage (non-qualified labour, non-agricultural)",non-food,997.0,856.6295993589345
+2020-09-15,BALOCHISTAN,Quetta,"Wage (non-qualified labour, non-agricultural)",non-food,997.0,856.6295993589337
 2020-09-15,KHYBER PAKHTUNKHWA,Peshawar,Rice (coarse),cereals and tubers,70.0,74.74737997899511
 2020-09-15,BALOCHISTAN,Quetta,Fuel (petrol-gasoline),non-food,104.44,109.17560250528638
 2020-09-15,BALOCHISTAN,Quetta,Sugar,miscellaneous food,96.11,68.47155159335905
@@ -667,17 +667,17 @@ date,admin1,market,commodity,category,price,price_pred
 2020-09-15,BALOCHISTAN,Quetta,Fuel (diesel),non-food,106.9,106.67464546598728
 2020-09-15,KHYBER PAKHTUNKHWA,Peshawar,Wheat,cereals and tubers,56.03,48.229073740625736
 2020-09-15,PUNJAB,Lahore,Sugar,miscellaneous food,95.7,69.2815620871227
-2020-09-15,KHYBER PAKHTUNKHWA,Peshawar,Eggs,"meat, fish and eggs",134.25,105.13443915906002
-2020-09-15,PUNJAB,Lahore,Poultry,"meat, fish and eggs",135.77,125.30465765385478
+2020-09-15,KHYBER PAKHTUNKHWA,Peshawar,Eggs,"meat, fish and eggs",134.25,105.13443915906001
+2020-09-15,PUNJAB,Lahore,Poultry,"meat, fish and eggs",135.77,125.30465765385487
 2020-09-15,PUNJAB,Lahore,Eggs,"meat, fish and eggs",132.92,98.77040746515833
 2020-09-15,PUNJAB,Lahore,Wheat flour,cereals and tubers,43.0,55.32999835392643
 2020-09-15,PUNJAB,Lahore,Wheat,cereals and tubers,55.1,46.13398119038825
 2020-09-15,KHYBER PAKHTUNKHWA,Peshawar,Lentils (moong),pulses and nuts,231.64,121.48364717005698
-2020-09-15,KHYBER PAKHTUNKHWA,Peshawar,Lentils (masur),pulses and nuts,151.02,96.08902262350787
+2020-09-15,KHYBER PAKHTUNKHWA,Peshawar,Lentils (masur),pulses and nuts,151.02,96.08902262350786
 2020-09-15,KHYBER PAKHTUNKHWA,Peshawar,Beans(mash),pulses and nuts,239.17,163.3712145454282
 2020-09-15,PUNJAB,Lahore,"Rice (basmati, broken)",cereals and tubers,76.87,115.65785041504938
 2020-09-15,KHYBER PAKHTUNKHWA,Peshawar,Ghee (artificial),oil and fats,252.0,190.83386135042548
-2020-09-15,KHYBER PAKHTUNKHWA,Peshawar,"Wage (non-qualified labour, non-agricultural)",non-food,800.0,723.4436577160457
+2020-09-15,KHYBER PAKHTUNKHWA,Peshawar,"Wage (non-qualified labour, non-agricultural)",non-food,800.0,723.443657716045
 2020-09-15,KHYBER PAKHTUNKHWA,Peshawar,Fuel (petrol-gasoline),non-food,104.47,108.54927002813375
 2020-09-15,KHYBER PAKHTUNKHWA,Peshawar,Fuel (diesel),non-food,106.96,106.71622447012474
 2020-09-15,KHYBER PAKHTUNKHWA,Peshawar,Sugar,miscellaneous food,98.0,68.67975799505966
@@ -686,7 +686,7 @@ date,admin1,market,commodity,category,price,price_pred
 2020-09-15,KHYBER PAKHTUNKHWA,Peshawar,Oil (cooking),oil and fats,260.0,194.44532020285897
 2020-09-15,KHYBER PAKHTUNKHWA,Peshawar,Wheat flour,cereals and tubers,55.54,57.27507912061996
 2020-10-15,PUNJAB,Multan,Eggs,"meat, fish and eggs",159.01,109.34058903763052
-2020-10-15,PUNJAB,Multan,"Wage (non-qualified labour, non-agricultural)",non-food,700.0,706.3752010011057
+2020-10-15,PUNJAB,Multan,"Wage (non-qualified labour, non-agricultural)",non-food,700.0,706.3752010011051
 2020-10-15,PUNJAB,Multan,Fuel (petrol-gasoline),non-food,104.45,109.88184454631727
 2020-10-15,PUNJAB,Multan,Fuel (diesel),non-food,104.54,107.15243842284721
 2020-10-15,PUNJAB,Multan,Sugar,miscellaneous food,98.36,65.66605311389782
@@ -694,12 +694,12 @@ date,admin1,market,commodity,category,price,price_pred
 2020-10-15,PUNJAB,Multan,Poultry,"meat, fish and eggs",188.63,150.50176472489392
 2020-10-15,PUNJAB,Lahore,Ghee (artificial),oil and fats,252.0,189.49478990695468
 2020-10-15,PUNJAB,Multan,Rice (coarse),cereals and tubers,67.17,61.71195102416947
-2020-10-15,PUNJAB,Multan,"Rice (basmati, broken)",cereals and tubers,93.75,121.02330927242369
+2020-10-15,PUNJAB,Multan,"Rice (basmati, broken)",cereals and tubers,93.75,121.02330927242379
 2020-10-15,PUNJAB,Lahore,Lentils (moong),pulses and nuts,237.4,136.466956529928
 2020-10-15,PUNJAB,Lahore,Lentils (masur),pulses and nuts,141.92,126.64963898960414
 2020-10-15,PUNJAB,Lahore,Beans(mash),pulses and nuts,248.01,189.9910987398025
 2020-10-15,PUNJAB,Lahore,Oil (cooking),oil and fats,250.99,193.23718369843243
-2020-10-15,PUNJAB,Multan,Ghee (artificial),oil and fats,254.0,190.9388160676946
+2020-10-15,PUNJAB,Multan,Ghee (artificial),oil and fats,254.0,190.93881606769477
 2020-10-15,PUNJAB,Multan,Wheat flour,cereals and tubers,43.0,55.455047829696824
 2020-10-15,PUNJAB,Multan,Oil (cooking),oil and fats,253.0,195.0208081342373
 2020-10-15,SINDH,Karachi,Poultry,"meat, fish and eggs",210.0,163.77049710971727
@@ -709,16 +709,16 @@ date,admin1,market,commodity,category,price,price_pred
 2020-10-15,SINDH,Karachi,Beans(mash),pulses and nuts,235.67,166.2480886043437
 2020-10-15,SINDH,Karachi,Oil (cooking),oil and fats,253.0,196.39057781585274
 2020-10-15,SINDH,Karachi,Ghee (artificial),oil and fats,254.0,192.2784348643192
-2020-10-15,SINDH,Karachi,"Wage (non-qualified labour, non-agricultural)",non-food,1000.0,976.8968112508473
+2020-10-15,SINDH,Karachi,"Wage (non-qualified labour, non-agricultural)",non-food,1000.0,976.8968112508464
 2020-10-15,SINDH,Karachi,Fuel (petrol-gasoline),non-food,104.47,110.00829603683049
 2020-10-15,PUNJAB,Multan,Beans(mash),pulses and nuts,229.62,165.75235702986168
 2020-10-15,SINDH,Karachi,Fuel (diesel),non-food,104.55,106.86652725544538
 2020-10-15,SINDH,Karachi,Milk,milk and dairy,120.0,100.87496365119621
-2020-10-15,PUNJAB,Lahore,"Wage (non-qualified labour, non-agricultural)",non-food,916.0,922.40205675567
+2020-10-15,PUNJAB,Lahore,"Wage (non-qualified labour, non-agricultural)",non-food,916.0,922.4020567556692
 2020-10-15,SINDH,Karachi,Eggs,"meat, fish and eggs",158.78,112.75912653666448
 2020-10-15,SINDH,Karachi,Wheat flour,cereals and tubers,70.1,64.67797156789415
-2020-10-15,SINDH,Karachi,Wheat,cereals and tubers,57.0,50.03256437740977
-2020-10-15,SINDH,Karachi,"Rice (basmati, broken)",cereals and tubers,97.71,118.94169288238642
+2020-10-15,SINDH,Karachi,Wheat,cereals and tubers,57.0,50.03256437740976
+2020-10-15,SINDH,Karachi,"Rice (basmati, broken)",cereals and tubers,97.71,118.94169288238652
 2020-10-15,PUNJAB,Multan,Lentils (moong),pulses and nuts,216.95,120.18943407940584
 2020-10-15,SINDH,Karachi,Sugar,miscellaneous food,97.68,67.52260131918771
 2020-10-15,PUNJAB,Lahore,Fuel (petrol-gasoline),non-food,104.47,109.5976898656224
@@ -730,7 +730,7 @@ date,admin1,market,commodity,category,price,price_pred
 2020-10-15,BALOCHISTAN,Quetta,Beans(mash),pulses and nuts,268.89,209.1469886458368
 2020-10-15,BALOCHISTAN,Quetta,Oil (cooking),oil and fats,252.4,191.0940006308353
 2020-10-15,BALOCHISTAN,Quetta,Ghee (artificial),oil and fats,252.39,188.1174068802054
-2020-10-15,BALOCHISTAN,Quetta,"Wage (non-qualified labour, non-agricultural)",non-food,997.0,862.1410045970821
+2020-10-15,BALOCHISTAN,Quetta,"Wage (non-qualified labour, non-agricultural)",non-food,997.0,862.1410045970813
 2020-10-15,KHYBER PAKHTUNKHWA,Peshawar,Wheat,cereals and tubers,57.03,49.35817431157659
 2020-10-15,BALOCHISTAN,Quetta,Fuel (petrol-gasoline),non-food,104.44,109.63004994790023
 2020-10-15,BALOCHISTAN,Quetta,Sugar,miscellaneous food,100.58,68.07439819502254
@@ -741,7 +741,7 @@ date,admin1,market,commodity,category,price,price_pred
 2020-10-15,BALOCHISTAN,Quetta,Rice (coarse),cereals and tubers,94.91,68.93466735282576
 2020-10-15,BALOCHISTAN,Quetta,"Rice (basmati, broken)",cereals and tubers,109.81,131.138345716586
 2020-10-15,BALOCHISTAN,Quetta,Fuel (diesel),non-food,104.5,107.20385142408212
-2020-10-15,KHYBER PAKHTUNKHWA,Peshawar,Wheat flour,cereals and tubers,61.12,58.95805870078465
+2020-10-15,KHYBER PAKHTUNKHWA,Peshawar,Wheat flour,cereals and tubers,61.12,58.95805870078464
 2020-10-15,PUNJAB,Lahore,Fuel (diesel),non-food,104.56,106.77944728163264
 2020-10-15,KHYBER PAKHTUNKHWA,Peshawar,Poultry,"meat, fish and eggs",181.22,152.56292484391327
 2020-10-15,PUNJAB,Lahore,Milk,milk and dairy,90.0,86.31915640027262
@@ -755,7 +755,7 @@ date,admin1,market,commodity,category,price,price_pred
 2020-10-15,PUNJAB,Lahore,Wheat,cereals and tubers,60.4,47.09965003920094
 2020-10-15,KHYBER PAKHTUNKHWA,Peshawar,Oil (cooking),oil and fats,253.0,193.25783815956814
 2020-10-15,KHYBER PAKHTUNKHWA,Peshawar,Ghee (artificial),oil and fats,252.0,189.65487664300642
-2020-10-15,KHYBER PAKHTUNKHWA,Peshawar,"Wage (non-qualified labour, non-agricultural)",non-food,800.0,727.948694201147
+2020-10-15,KHYBER PAKHTUNKHWA,Peshawar,"Wage (non-qualified labour, non-agricultural)",non-food,800.0,727.9486942011464
 2020-10-15,KHYBER PAKHTUNKHWA,Peshawar,Fuel (petrol-gasoline),non-food,104.47,109.57645387419268
 2020-10-15,KHYBER PAKHTUNKHWA,Peshawar,Fuel (diesel),non-food,104.56,106.71422398935312
 2020-10-15,KHYBER PAKHTUNKHWA,Peshawar,Sugar,miscellaneous food,103.88,68.13062553723032
@@ -769,11 +769,11 @@ date,admin1,market,commodity,category,price,price_pred
 2020-11-15,PUNJAB,Multan,Eggs,"meat, fish and eggs",165.03,123.25964017087989
 2020-11-15,PUNJAB,Multan,Wheat flour,cereals and tubers,43.0,56.95885761407617
 2020-11-15,PUNJAB,Lahore,"Wage (non-qualified labour, non-agricultural)",non-food,916.0,920.5176118080836
-2020-11-15,PUNJAB,Multan,Rice (coarse),cereals and tubers,61.19,64.27628373435425
+2020-11-15,PUNJAB,Multan,Rice (coarse),cereals and tubers,61.19,64.27628373435431
 2020-11-15,PUNJAB,Multan,"Rice (basmati, broken)",cereals and tubers,93.75,121.49880284999462
 2020-11-15,PUNJAB,Lahore,Lentils (moong),pulses and nuts,235.56,133.51251214245744
 2020-11-15,PUNJAB,Lahore,Lentils (masur),pulses and nuts,141.92,125.82325530974788
-2020-11-15,PUNJAB,Lahore,Beans(mash),pulses and nuts,247.65,192.02754728371028
+2020-11-15,PUNJAB,Lahore,Beans(mash),pulses and nuts,247.65,192.02754728371025
 2020-11-15,PUNJAB,Lahore,Oil (cooking),oil and fats,253.0,194.5936643199318
 2020-11-15,PUNJAB,Lahore,Ghee (artificial),oil and fats,252.0,190.93571185223618
 2020-11-15,PUNJAB,Multan,"Wage (non-qualified labour, non-agricultural)",non-food,700.0,723.7327980287257
@@ -785,7 +785,7 @@ date,admin1,market,commodity,category,price,price_pred
 2020-11-15,SINDH,Karachi,Lentils (masur),pulses and nuts,157.81,108.85186444306676
 2020-11-15,SINDH,Karachi,Beans(mash),pulses and nuts,245.26,167.87656494164523
 2020-11-15,SINDH,Karachi,Oil (cooking),oil and fats,253.0,196.5996242876178
-2020-11-15,SINDH,Karachi,Ghee (artificial),oil and fats,254.0,192.40413647758055
+2020-11-15,SINDH,Karachi,Ghee (artificial),oil and fats,254.0,192.40413647758072
 2020-11-15,SINDH,Karachi,"Wage (non-qualified labour, non-agricultural)",non-food,1000.0,995.4582041348528
 2020-11-15,SINDH,Karachi,Fuel (petrol-gasoline),non-food,102.05,112.90304156489057
 2020-11-15,PUNJAB,Multan,Oil (cooking),oil and fats,253.0,195.4847126508811
@@ -799,7 +799,7 @@ date,admin1,market,commodity,category,price,price_pred
 2020-11-15,PUNJAB,Multan,Lentils (masur),pulses and nuts,148.71,105.31477863211718
 2020-11-15,SINDH,Karachi,Sugar,miscellaneous food,100.8,67.19479891054377
 2020-11-15,SINDH,Karachi,Lentils (moong),pulses and nuts,252.34,138.18997010511404
-2020-11-15,PUNJAB,Lahore,Fuel (diesel),non-food,102.83,108.11174692934723
+2020-11-15,PUNJAB,Lahore,Fuel (diesel),non-food,102.83,108.11174692934722
 2020-11-15,PUNJAB,Lahore,Milk,milk and dairy,90.0,86.53990098007768
 2020-11-15,BALOCHISTAN,Quetta,Lentils (moong),pulses and nuts,254.95,152.78207500545264
 2020-11-15,BALOCHISTAN,Quetta,Lentils (masur),pulses and nuts,164.83,123.34657998055401
@@ -814,7 +814,7 @@ date,admin1,market,commodity,category,price,price_pred
 2020-11-15,BALOCHISTAN,Quetta,Poultry,"meat, fish and eggs",238.27,180.747895719975
 2020-11-15,BALOCHISTAN,Quetta,Eggs,"meat, fish and eggs",183.66,134.4278346715302
 2020-11-15,BALOCHISTAN,Quetta,Wheat,cereals and tubers,57.25,45.93190387715375
-2020-11-15,BALOCHISTAN,Quetta,Rice (coarse),cereals and tubers,94.91,69.20836558352235
+2020-11-15,BALOCHISTAN,Quetta,Rice (coarse),cereals and tubers,94.91,69.20836558352242
 2020-11-15,BALOCHISTAN,Quetta,"Rice (basmati, broken)",cereals and tubers,104.92,131.8483417161501
 2020-11-15,KHYBER PAKHTUNKHWA,Peshawar,"Rice (basmati, broken)",cereals and tubers,80.0,120.69034995123734
 2020-11-15,KHYBER PAKHTUNKHWA,Peshawar,Wheat,cereals and tubers,55.73,50.61753598249868
@@ -838,12 +838,12 @@ date,admin1,market,commodity,category,price,price_pred
 2020-11-15,KHYBER PAKHTUNKHWA,Peshawar,Poultry,"meat, fish and eggs",215.86,157.72637083270732
 2020-11-15,KHYBER PAKHTUNKHWA,Peshawar,Oil (cooking),oil and fats,253.0,193.76482764577156
 2020-12-15,PUNJAB,Multan,Fuel (petrol-gasoline),non-food,103.03,118.65563895328697
-2020-12-15,PUNJAB,Multan,Fuel (diesel),non-food,107.7,107.15893455131382
+2020-12-15,PUNJAB,Multan,Fuel (diesel),non-food,107.7,107.15893455131392
 2020-12-15,PUNJAB,Multan,Sugar,miscellaneous food,81.66,62.47592223431018
 2020-12-15,PUNJAB,Multan,Milk,milk and dairy,94.31,90.88290275599348
 2020-12-15,PUNJAB,Multan,Poultry,"meat, fish and eggs",226.19,159.06248268177032
 2020-12-15,PUNJAB,Multan,Eggs,"meat, fish and eggs",193.08,126.67039580391888
-2020-12-15,PUNJAB,Multan,Wheat flour,cereals and tubers,47.77,56.82446766628044
+2020-12-15,PUNJAB,Multan,Wheat flour,cereals and tubers,47.77,56.824467666280434
 2020-12-15,PUNJAB,Lahore,Fuel (petrol-gasoline),non-food,102.99,118.53535769821539
 2020-12-15,PUNJAB,Multan,"Rice (basmati, broken)",cereals and tubers,93.75,120.93179542593863
 2020-12-15,PUNJAB,Lahore,Lentils (moong),pulses and nuts,225.65,134.36855458098188
@@ -858,31 +858,31 @@ date,admin1,market,commodity,category,price,price_pred
 2020-12-15,SINDH,Karachi,Poultry,"meat, fish and eggs",248.43,175.65145264498935
 2020-12-15,PUNJAB,Multan,Beans(mash),pulses and nuts,228.72,180.11167230924454
 2020-12-15,SINDH,Karachi,Lentils (moong),pulses and nuts,247.08,138.30483158263388
-2020-12-15,PUNJAB,Lahore,Fuel (diesel),non-food,107.7,107.20333112777062
-2020-12-15,SINDH,Karachi,Beans(mash),pulses and nuts,244.78,171.61558170920443
+2020-12-15,PUNJAB,Lahore,Fuel (diesel),non-food,107.7,107.20333112777071
+2020-12-15,SINDH,Karachi,Beans(mash),pulses and nuts,244.78,171.61558170920458
 2020-12-15,SINDH,Karachi,Oil (cooking),oil and fats,259.0,196.94154450340497
-2020-12-15,SINDH,Karachi,Ghee (artificial),oil and fats,264.0,193.14661068751056
+2020-12-15,SINDH,Karachi,Ghee (artificial),oil and fats,264.0,193.14661068751073
 2020-12-15,SINDH,Karachi,"Wage (non-qualified labour, non-agricultural)",non-food,1000.0,990.7561107379136
 2020-12-15,SINDH,Karachi,Fuel (petrol-gasoline),non-food,103.0,117.18102352872398
-2020-12-15,PUNJAB,Multan,Oil (cooking),oil and fats,253.0,195.72553663423795
-2020-12-15,SINDH,Karachi,Fuel (diesel),non-food,107.74,107.78194529619569
+2020-12-15,PUNJAB,Multan,Oil (cooking),oil and fats,253.0,195.72553663423793
+2020-12-15,SINDH,Karachi,Fuel (diesel),non-food,107.74,107.78194529619577
 2020-12-15,SINDH,Karachi,Milk,milk and dairy,120.0,101.24731885476852
 2020-12-15,SINDH,Karachi,Eggs,"meat, fish and eggs",197.03,131.51910937350567
 2020-12-15,SINDH,Karachi,Wheat flour,cereals and tubers,60.49,65.36083435511017
-2020-12-15,SINDH,Karachi,Wheat,cereals and tubers,54.6,51.84648967313687
+2020-12-15,SINDH,Karachi,Wheat,cereals and tubers,54.6,51.8464896731369
 2020-12-15,SINDH,Karachi,"Rice (basmati, broken)",cereals and tubers,99.43,119.33221945699923
 2020-12-15,PUNJAB,Multan,Lentils (moong),pulses and nuts,205.61,125.45246646476865
 2020-12-15,PUNJAB,Multan,Lentils (masur),pulses and nuts,148.71,106.45066311105903
 2020-12-15,SINDH,Karachi,Sugar,miscellaneous food,83.32,65.54752866117309
 2020-12-15,SINDH,Karachi,Lentils (masur),pulses and nuts,157.68,108.50121110889192
 2020-12-15,PUNJAB,Lahore,Sugar,miscellaneous food,84.27,65.6598622941046
-2020-12-15,PUNJAB,Lahore,Poultry,"meat, fish and eggs",203.62,147.24195376518938
-2020-12-15,BALOCHISTAN,Quetta,Lentils (masur),pulses and nuts,161.43,122.5226240692126
+2020-12-15,PUNJAB,Lahore,Poultry,"meat, fish and eggs",203.62,147.2419537651895
+2020-12-15,BALOCHISTAN,Quetta,Lentils (masur),pulses and nuts,161.43,122.52262406921258
 2020-12-15,BALOCHISTAN,Quetta,Beans(mash),pulses and nuts,270.94,217.47438604435075
 2020-12-15,BALOCHISTAN,Quetta,Oil (cooking),oil and fats,259.0,192.90120009694076
 2020-12-15,BALOCHISTAN,Quetta,Ghee (artificial),oil and fats,259.57,189.82119451880283
 2020-12-15,BALOCHISTAN,Quetta,"Wage (non-qualified labour, non-agricultural)",non-food,997.0,853.5749418675448
-2020-12-15,BALOCHISTAN,Quetta,Fuel (diesel),non-food,107.66,107.48298162956343
+2020-12-15,BALOCHISTAN,Quetta,Fuel (diesel),non-food,107.66,107.48298162956353
 2020-12-15,BALOCHISTAN,Quetta,Sugar,miscellaneous food,84.31,65.25370238149098
 2020-12-15,BALOCHISTAN,Quetta,Milk,milk and dairy,120.0,106.19670516800247
 2020-12-15,BALOCHISTAN,Quetta,Poultry,"meat, fish and eggs",240.24,183.0443754236391
@@ -898,28 +898,28 @@ date,admin1,market,commodity,category,price,price_pred
 2020-12-15,KHYBER PAKHTUNKHWA,Peshawar,Wheat flour,cereals and tubers,51.92,60.104623892981216
 2020-12-15,KHYBER PAKHTUNKHWA,Peshawar,Wheat,cereals and tubers,49.66,52.2059185737758
 2020-12-15,PUNJAB,Lahore,Wheat flour,cereals and tubers,43.0,56.959775105787095
-2020-12-15,PUNJAB,Lahore,Wheat,cereals and tubers,54.75,49.8973299700037
-2020-12-15,PUNJAB,Lahore,"Rice (basmati, broken)",cereals and tubers,76.87,113.51365847280749
+2020-12-15,PUNJAB,Lahore,Wheat,cereals and tubers,54.75,49.897329970003696
+2020-12-15,PUNJAB,Lahore,"Rice (basmati, broken)",cereals and tubers,76.87,113.51365847280748
 2020-12-15,KHYBER PAKHTUNKHWA,Peshawar,Lentils (moong),pulses and nuts,200.0,119.34688839687342
 2020-12-15,KHYBER PAKHTUNKHWA,Peshawar,Lentils (masur),pulses and nuts,158.66,97.3951384607607
 2020-12-15,KHYBER PAKHTUNKHWA,Peshawar,Beans(mash),pulses and nuts,230.0,177.10495623957428
 2020-12-15,KHYBER PAKHTUNKHWA,Peshawar,Oil (cooking),oil and fats,256.58,193.5803097528432
 2020-12-15,PUNJAB,Lahore,Eggs,"meat, fish and eggs",193.62,124.24212798082597
 2020-12-15,KHYBER PAKHTUNKHWA,Peshawar,"Wage (non-qualified labour, non-agricultural)",non-food,800.0,748.9133541445825
-2020-12-15,KHYBER PAKHTUNKHWA,Peshawar,Fuel (petrol-gasoline),non-food,102.98,117.93645056441544
-2020-12-15,KHYBER PAKHTUNKHWA,Peshawar,Fuel (diesel),non-food,107.73,107.00784959735628
+2020-12-15,KHYBER PAKHTUNKHWA,Peshawar,Fuel (petrol-gasoline),non-food,102.98,117.93645056441554
+2020-12-15,KHYBER PAKHTUNKHWA,Peshawar,Fuel (diesel),non-food,107.73,107.00784959735638
 2020-12-15,KHYBER PAKHTUNKHWA,Peshawar,Sugar,miscellaneous food,86.26,64.85079946218556
 2020-12-15,KHYBER PAKHTUNKHWA,Peshawar,Milk,milk and dairy,122.72,96.90788435888862
 2020-12-15,KHYBER PAKHTUNKHWA,Peshawar,Poultry,"meat, fish and eggs",215.97,162.89006448793677
 2020-12-15,KHYBER PAKHTUNKHWA,Peshawar,Eggs,"meat, fish and eggs",199.99,131.89068953896134
 2020-12-15,KHYBER PAKHTUNKHWA,Peshawar,Ghee (artificial),oil and fats,252.0,190.8599647515038
 2021-01-15,PUNJAB,Multan,Fuel (petrol-gasoline),non-food,108.11,113.38696885432834
-2021-01-15,PUNJAB,Multan,Fuel (diesel),non-food,112.23,107.34820801278934
+2021-01-15,PUNJAB,Multan,Fuel (diesel),non-food,112.23,107.34820801278944
 2021-01-15,PUNJAB,Multan,Sugar,miscellaneous food,89.68,61.17833730730347
 2021-01-15,PUNJAB,Multan,Milk,milk and dairy,94.31,90.92538596354545
 2021-01-15,PUNJAB,Multan,Poultry,"meat, fish and eggs",184.01,165.1802771557024
 2021-01-15,PUNJAB,Multan,Eggs,"meat, fish and eggs",145.62,119.32555067747641
-2021-01-15,PUNJAB,Multan,Wheat flour,cereals and tubers,43.0,57.962803774759095
+2021-01-15,PUNJAB,Multan,Wheat flour,cereals and tubers,43.0,57.962803774759045
 2021-01-15,PUNJAB,Lahore,Lentils (masur),pulses and nuts,145.59,119.87344403749336
 2021-01-15,PUNJAB,Multan,"Rice (basmati, broken)",cereals and tubers,93.75,123.92869051451954
 2021-01-15,PUNJAB,Lahore,Lentils (moong),pulses and nuts,227.18,125.35345179243552
@@ -929,7 +929,7 @@ date,admin1,market,commodity,category,price,price_pred
 2021-01-15,PUNJAB,Lahore,"Wage (non-qualified labour, non-agricultural)",non-food,916.0,929.1075581495638
 2021-01-15,PUNJAB,Multan,"Wage (non-qualified labour, non-agricultural)",non-food,700.0,727.3484793067947
 2021-01-15,PUNJAB,Multan,Wheat,cereals and tubers,56.75,47.550167855332326
-2021-01-15,SINDH,Karachi,Lentils (moong),pulses and nuts,244.21,124.94016794693921
+2021-01-15,SINDH,Karachi,Lentils (moong),pulses and nuts,244.21,124.9401679469392
 2021-01-15,PUNJAB,Lahore,Fuel (petrol-gasoline),non-food,108.1,113.38717251880544
 2021-01-15,PUNJAB,Multan,Beans(mash),pulses and nuts,233.12,158.28503136074153
 2021-01-15,SINDH,Karachi,Lentils (masur),pulses and nuts,157.3,100.71976764689549
@@ -938,45 +938,45 @@ date,admin1,market,commodity,category,price,price_pred
 2021-01-15,SINDH,Karachi,Ghee (artificial),oil and fats,282.75,190.28245168272954
 2021-01-15,SINDH,Karachi,"Wage (non-qualified labour, non-agricultural)",non-food,1000.0,1009.8501429788689
 2021-01-15,SINDH,Karachi,Fuel (petrol-gasoline),non-food,108.11,112.56679162217725
-2021-01-15,SINDH,Karachi,Fuel (diesel),non-food,112.23,106.39059859075827
+2021-01-15,SINDH,Karachi,Fuel (diesel),non-food,112.23,106.39059859075836
 2021-01-15,PUNJAB,Multan,Oil (cooking),oil and fats,271.0,192.97133201465797
-2021-01-15,SINDH,Karachi,Sugar,miscellaneous food,90.81,62.9776043214006
+2021-01-15,SINDH,Karachi,Sugar,miscellaneous food,90.81,62.977604321400655
 2021-01-15,SINDH,Karachi,Poultry,"meat, fish and eggs",200.53,183.22195859587828
 2021-01-15,SINDH,Karachi,Eggs,"meat, fish and eggs",173.13,124.4009671345919
-2021-01-15,SINDH,Karachi,Wheat flour,cereals and tubers,61.89,65.64284649849152
+2021-01-15,SINDH,Karachi,Wheat flour,cereals and tubers,61.89,65.64284649849147
 2021-01-15,SINDH,Karachi,Wheat,cereals and tubers,57.0,51.71012097025104
 2021-01-15,SINDH,Karachi,"Rice (basmati, broken)",cereals and tubers,99.43,120.5276769945136
 2021-01-15,PUNJAB,Multan,Lentils (moong),pulses and nuts,227.95,113.0851855720807
 2021-01-15,PUNJAB,Multan,Lentils (masur),pulses and nuts,148.71,99.52341269309558
 2021-01-15,SINDH,Karachi,Milk,milk and dairy,120.0,99.6086115701898
-2021-01-15,PUNJAB,Lahore,Fuel (diesel),non-food,112.19,106.63813505260289
+2021-01-15,PUNJAB,Lahore,Fuel (diesel),non-food,112.19,106.63813505260299
 2021-01-15,PUNJAB,Multan,Ghee (artificial),oil and fats,276.0,190.34493969597045
 2021-01-15,PUNJAB,Lahore,Milk,milk and dairy,100.0,88.53088464481273
 2021-01-15,BALOCHISTAN,Quetta,Lentils (moong),pulses and nuts,267.36,144.62364784485717
 2021-01-15,BALOCHISTAN,Quetta,Lentils (masur),pulses and nuts,163.69,112.92387680215434
 2021-01-15,BALOCHISTAN,Quetta,Beans(mash),pulses and nuts,273.71,192.93827834600333
 2021-01-15,BALOCHISTAN,Quetta,Oil (cooking),oil and fats,274.62,188.7771411462646
-2021-01-15,BALOCHISTAN,Quetta,Ghee (artificial),oil and fats,276.53,187.6978990003983
+2021-01-15,BALOCHISTAN,Quetta,Ghee (artificial),oil and fats,276.53,187.69789900039848
 2021-01-15,BALOCHISTAN,Quetta,"Wage (non-qualified labour, non-agricultural)",non-food,997.0,850.4893575211646
 2021-01-15,BALOCHISTAN,Quetta,Fuel (petrol-gasoline),non-food,108.09,112.97889738915181
 2021-01-15,KHYBER PAKHTUNKHWA,Peshawar,"Rice (basmati, broken)",cereals and tubers,80.79,123.46007079381056
-2021-01-15,BALOCHISTAN,Quetta,Fuel (diesel),non-food,111.71,106.47850465338539
+2021-01-15,BALOCHISTAN,Quetta,Fuel (diesel),non-food,111.71,106.47850465338547
 2021-01-15,BALOCHISTAN,Quetta,Milk,milk and dairy,120.0,105.15869923946507
 2021-01-15,BALOCHISTAN,Quetta,Poultry,"meat, fish and eggs",193.16,185.77044222796656
 2021-01-15,BALOCHISTAN,Quetta,Eggs,"meat, fish and eggs",184.64,137.51180069471593
-2021-01-15,BALOCHISTAN,Quetta,Wheat flour,cereals and tubers,49.68,62.00679768490465
+2021-01-15,BALOCHISTAN,Quetta,Wheat flour,cereals and tubers,49.68,62.00679768490459
 2021-01-15,BALOCHISTAN,Quetta,Wheat,cereals and tubers,60.25,51.27621300596075
 2021-01-15,BALOCHISTAN,Quetta,Rice (coarse),cereals and tubers,89.91,67.33890613822373
-2021-01-15,BALOCHISTAN,Quetta,"Rice (basmati, broken)",cereals and tubers,104.92,132.62814411621966
+2021-01-15,BALOCHISTAN,Quetta,"Rice (basmati, broken)",cereals and tubers,104.92,132.62814411621963
 2021-01-15,BALOCHISTAN,Quetta,Sugar,miscellaneous food,95.03,63.35278778479438
 2021-01-15,KHYBER PAKHTUNKHWA,Peshawar,Wheat,cereals and tubers,52.08,52.58352547409644
 2021-01-15,PUNJAB,Lahore,Sugar,miscellaneous food,93.41,64.12682128212602
 2021-01-15,KHYBER PAKHTUNKHWA,Peshawar,Eggs,"meat, fish and eggs",169.11,126.46906410603584
 2021-01-15,PUNJAB,Lahore,Poultry,"meat, fish and eggs",164.24,150.64038128928422
-2021-01-15,PUNJAB,Lahore,Eggs,"meat, fish and eggs",156.24,116.78843720606645
-2021-01-15,PUNJAB,Lahore,Wheat flour,cereals and tubers,43.0,58.08602274144194
+2021-01-15,PUNJAB,Lahore,Eggs,"meat, fish and eggs",156.24,116.78843720606656
+2021-01-15,PUNJAB,Lahore,Wheat flour,cereals and tubers,43.0,58.08602274144189
 2021-01-15,PUNJAB,Lahore,Wheat,cereals and tubers,61.08,49.63301708561074
-2021-01-15,KHYBER PAKHTUNKHWA,Peshawar,Wheat flour,cereals and tubers,51.03,61.15292608459378
+2021-01-15,KHYBER PAKHTUNKHWA,Peshawar,Wheat flour,cereals and tubers,51.03,61.15292608459372
 2021-01-15,KHYBER PAKHTUNKHWA,Peshawar,Lentils (moong),pulses and nuts,200.0,110.56787849784736
 2021-01-15,KHYBER PAKHTUNKHWA,Peshawar,Lentils (masur),pulses and nuts,158.66,92.5965144053133
 2021-01-15,KHYBER PAKHTUNKHWA,Peshawar,Beans(mash),pulses and nuts,235.74,156.69576760231544
@@ -984,7 +984,7 @@ date,admin1,market,commodity,category,price,price_pred
 2021-01-15,KHYBER PAKHTUNKHWA,Peshawar,Ghee (artificial),oil and fats,270.33,190.1974919184498
 2021-01-15,KHYBER PAKHTUNKHWA,Peshawar,"Wage (non-qualified labour, non-agricultural)",non-food,800.0,753.9404845495668
 2021-01-15,KHYBER PAKHTUNKHWA,Peshawar,Fuel (petrol-gasoline),non-food,108.1,112.89920876865274
-2021-01-15,KHYBER PAKHTUNKHWA,Peshawar,Fuel (diesel),non-food,112.2,107.0543999253674
+2021-01-15,KHYBER PAKHTUNKHWA,Peshawar,Fuel (diesel),non-food,112.2,107.0543999253676
 2021-01-15,KHYBER PAKHTUNKHWA,Peshawar,Sugar,miscellaneous food,93.22,63.44371319532063
 2021-01-15,KHYBER PAKHTUNKHWA,Peshawar,Milk,milk and dairy,121.85,96.54594374952886
 2021-01-15,KHYBER PAKHTUNKHWA,Peshawar,Poultry,"meat, fish and eggs",179.34,168.5312146272412
@@ -1001,27 +1001,27 @@ date,admin1,market,commodity,category,price,price_pred
 2021-02-15,PUNJAB,Multan,Rice (coarse),cereals and tubers,65.81,60.80234522962142
 2021-02-15,PUNJAB,Multan,"Rice (basmati, broken)",cereals and tubers,93.75,125.86460996123263
 2021-02-15,PUNJAB,Lahore,Lentils (moong),pulses and nuts,235.54,127.09864936082724
-2021-02-15,PUNJAB,Lahore,Lentils (masur),pulses and nuts,156.12,119.83654647745809
-2021-02-15,PUNJAB,Lahore,Beans(mash),pulses and nuts,271.45,184.73540285225545
+2021-02-15,PUNJAB,Lahore,Lentils (masur),pulses and nuts,156.12,119.83654647745799
+2021-02-15,PUNJAB,Lahore,Beans(mash),pulses and nuts,271.45,184.7354028522556
 2021-02-15,PUNJAB,Lahore,Oil (cooking),oil and fats,299.0,193.53727135017854
 2021-02-15,PUNJAB,Multan,Ghee (artificial),oil and fats,296.74,190.59521131203266
-2021-02-15,PUNJAB,Multan,Wheat flour,cereals and tubers,44.3,56.96017738747778
+2021-02-15,PUNJAB,Multan,Wheat flour,cereals and tubers,44.3,56.96017738747773
 2021-02-15,PUNJAB,Multan,Oil (cooking),oil and fats,291.74,194.05320075333213
 2021-02-15,SINDH,Karachi,Milk,milk and dairy,120.0,99.66526871546844
-2021-02-15,PUNJAB,Multan,Lentils (masur),pulses and nuts,148.71,98.8231291420773
+2021-02-15,PUNJAB,Multan,Lentils (masur),pulses and nuts,148.71,98.8231291420772
 2021-02-15,PUNJAB,Lahore,"Wage (non-qualified labour, non-agricultural)",non-food,921.0,938.5200282507067
 2021-02-15,SINDH,Karachi,Lentils (moong),pulses and nuts,245.38,126.44049255818466
-2021-02-15,SINDH,Karachi,Lentils (masur),pulses and nuts,157.53,100.76127338084868
-2021-02-15,SINDH,Karachi,Beans(mash),pulses and nuts,246.36,151.75128792239497
+2021-02-15,SINDH,Karachi,Lentils (masur),pulses and nuts,157.53,100.76127338084859
+2021-02-15,SINDH,Karachi,Beans(mash),pulses and nuts,246.36,151.7512879223951
 2021-02-15,SINDH,Karachi,Oil (cooking),oil and fats,299.0,194.05948651786898
 2021-02-15,SINDH,Karachi,Ghee (artificial),oil and fats,304.0,190.52806085760812
 2021-02-15,SINDH,Karachi,"Wage (non-qualified labour, non-agricultural)",non-food,1000.0,1011.7834933586191
-2021-02-15,PUNJAB,Multan,Beans(mash),pulses and nuts,245.68,154.28016112066427
+2021-02-15,PUNJAB,Multan,Beans(mash),pulses and nuts,245.68,154.28016112066442
 2021-02-15,SINDH,Karachi,Fuel (petrol-gasoline),non-food,111.75,114.65408883835902
 2021-02-15,SINDH,Karachi,Sugar,miscellaneous food,93.78,63.584336325205086
 2021-02-15,SINDH,Karachi,Poultry,"meat, fish and eggs",253.99,178.00036913624334
-2021-02-15,SINDH,Karachi,Eggs,"meat, fish and eggs",152.27,114.97490201621186
-2021-02-15,SINDH,Karachi,Wheat flour,cereals and tubers,63.99,65.46236201219976
+2021-02-15,SINDH,Karachi,Eggs,"meat, fish and eggs",152.27,114.97490201621184
+2021-02-15,SINDH,Karachi,Wheat flour,cereals and tubers,63.99,65.4623620121997
 2021-02-15,SINDH,Karachi,Wheat,cereals and tubers,57.5,51.883984943556435
 2021-02-15,SINDH,Karachi,"Rice (basmati, broken)",cereals and tubers,103.29,122.31870029254465
 2021-02-15,PUNJAB,Multan,Lentils (moong),pulses and nuts,230.72,113.26031109284351
@@ -1031,8 +1031,8 @@ date,admin1,market,commodity,category,price,price_pred
 2021-02-15,PUNJAB,Lahore,Sugar,miscellaneous food,95.45,65.07045953271879
 2021-02-15,KHYBER PAKHTUNKHWA,Peshawar,"Rice (basmati, broken)",cereals and tubers,87.67,124.68693559562146
 2021-02-15,BALOCHISTAN,Quetta,Lentils (moong),pulses and nuts,271.21,144.16594416435163
-2021-02-15,BALOCHISTAN,Quetta,Lentils (masur),pulses and nuts,167.43,111.77154400633106
-2021-02-15,BALOCHISTAN,Quetta,Beans(mash),pulses and nuts,271.21,190.88249503761466
+2021-02-15,BALOCHISTAN,Quetta,Lentils (masur),pulses and nuts,167.43,111.77154400633096
+2021-02-15,BALOCHISTAN,Quetta,Beans(mash),pulses and nuts,271.21,190.88249503761483
 2021-02-15,BALOCHISTAN,Quetta,Oil (cooking),oil and fats,299.0,189.9192297573464
 2021-02-15,BALOCHISTAN,Quetta,Ghee (artificial),oil and fats,304.0,188.37508516656192
 2021-02-15,BALOCHISTAN,Quetta,"Wage (non-qualified labour, non-agricultural)",non-food,997.0,853.3541490191762
@@ -1042,21 +1042,21 @@ date,admin1,market,commodity,category,price,price_pred
 2021-02-15,BALOCHISTAN,Quetta,Milk,milk and dairy,120.0,105.59047297586811
 2021-02-15,BALOCHISTAN,Quetta,Poultry,"meat, fish and eggs",254.07,180.22150446749842
 2021-02-15,BALOCHISTAN,Quetta,Eggs,"meat, fish and eggs",157.39,134.94662996575954
-2021-02-15,BALOCHISTAN,Quetta,Wheat flour,cereals and tubers,48.0,61.35231110346273
+2021-02-15,BALOCHISTAN,Quetta,Wheat flour,cereals and tubers,48.0,61.352311103462675
 2021-02-15,BALOCHISTAN,Quetta,Wheat,cereals and tubers,61.0,51.218189788673854
 2021-02-15,BALOCHISTAN,Quetta,Rice (coarse),cereals and tubers,89.91,65.74346310854045
-2021-02-15,BALOCHISTAN,Quetta,Fuel (diesel),non-food,115.86,108.10411020969529
-2021-02-15,KHYBER PAKHTUNKHWA,Peshawar,Wheat flour,cereals and tubers,50.91,60.282366218185096
+2021-02-15,BALOCHISTAN,Quetta,Fuel (diesel),non-food,115.86,108.10411020969539
+2021-02-15,KHYBER PAKHTUNKHWA,Peshawar,Wheat flour,cereals and tubers,50.91,60.28236621818505
 2021-02-15,BALOCHISTAN,Quetta,"Rice (basmati, broken)",cereals and tubers,104.92,133.5986891444905
 2021-02-15,KHYBER PAKHTUNKHWA,Peshawar,Poultry,"meat, fish and eggs",222.8,165.21881946270497
 2021-02-15,PUNJAB,Lahore,Milk,milk and dairy,98.02,88.72937350225057
 2021-02-15,PUNJAB,Lahore,Poultry,"meat, fish and eggs",210.36,145.84250586670157
 2021-02-15,PUNJAB,Lahore,Eggs,"meat, fish and eggs",146.14,110.03014203970886
-2021-02-15,PUNJAB,Lahore,Wheat flour,cereals and tubers,43.0,58.0684051292213
+2021-02-15,PUNJAB,Lahore,Wheat flour,cereals and tubers,43.0,58.06840512922125
 2021-02-15,KHYBER PAKHTUNKHWA,Peshawar,Eggs,"meat, fish and eggs",150.0,121.72114069650488
 2021-02-15,PUNJAB,Lahore,"Rice (basmati, broken)",cereals and tubers,76.87,117.86809172857835
 2021-02-15,KHYBER PAKHTUNKHWA,Peshawar,Lentils (moong),pulses and nuts,210.69,111.29749047615095
-2021-02-15,KHYBER PAKHTUNKHWA,Peshawar,Lentils (masur),pulses and nuts,159.33,91.58737813161713
+2021-02-15,KHYBER PAKHTUNKHWA,Peshawar,Lentils (masur),pulses and nuts,159.33,91.58737813161704
 2021-02-15,PUNJAB,Lahore,Wheat,cereals and tubers,60.25,49.60348289681572
 2021-02-15,KHYBER PAKHTUNKHWA,Peshawar,Oil (cooking),oil and fats,291.74,192.9304110795514
 2021-02-15,KHYBER PAKHTUNKHWA,Peshawar,Ghee (artificial),oil and fats,282.75,189.654328078972
@@ -1065,7 +1065,7 @@ date,admin1,market,commodity,category,price,price_pred
 2021-02-15,KHYBER PAKHTUNKHWA,Peshawar,Fuel (diesel),non-food,115.87,108.36226079940367
 2021-02-15,KHYBER PAKHTUNKHWA,Peshawar,Sugar,miscellaneous food,94.28,63.992638999898375
 2021-02-15,KHYBER PAKHTUNKHWA,Peshawar,Milk,milk and dairy,121.85,96.97560308176863
-2021-02-15,KHYBER PAKHTUNKHWA,Peshawar,Beans(mash),pulses and nuts,246.71,153.9740872705916
+2021-02-15,KHYBER PAKHTUNKHWA,Peshawar,Beans(mash),pulses and nuts,246.71,153.97408727059175
 2021-03-15,PUNJAB,Multan,"Wage (non-qualified labour, non-agricultural)",non-food,700.0,726.9634489893402
 2021-03-15,PUNJAB,Multan,Fuel (petrol-gasoline),non-food,112.4,113.31446534605908
 2021-03-15,PUNJAB,Multan,Fuel (diesel),non-food,116.6,108.89011131879815
@@ -1074,11 +1074,11 @@ date,admin1,market,commodity,category,price,price_pred
 2021-03-15,PUNJAB,Multan,Poultry,"meat, fish and eggs",260.02,166.64565607792835
 2021-03-15,PUNJAB,Multan,Eggs,"meat, fish and eggs",158.2,95.10346381017891
 2021-03-15,PUNJAB,Lahore,Ghee (artificial),oil and fats,304.0,190.45880002962795
-2021-03-15,PUNJAB,Multan,Wheat,cereals and tubers,57.25,46.90660636283539
+2021-03-15,PUNJAB,Multan,Wheat,cereals and tubers,57.25,46.90660636283538
 2021-03-15,PUNJAB,Multan,Rice (coarse),cereals and tubers,69.14,59.94891645159795
 2021-03-15,PUNJAB,Multan,"Rice (basmati, broken)",cereals and tubers,93.75,127.69856172074701
 2021-03-15,PUNJAB,Lahore,Lentils (moong),pulses and nuts,235.54,126.76436815510456
-2021-03-15,PUNJAB,Lahore,Lentils (masur),pulses and nuts,158.44,119.11597916247116
+2021-03-15,PUNJAB,Lahore,Lentils (masur),pulses and nuts,158.44,119.11597916247126
 2021-03-15,PUNJAB,Lahore,Beans(mash),pulses and nuts,287.06,182.58425334398393
 2021-03-15,PUNJAB,Lahore,Oil (cooking),oil and fats,299.0,193.38665751636643
 2021-03-15,PUNJAB,Multan,Ghee (artificial),oil and fats,305.49,190.84460645664217
@@ -1093,11 +1093,11 @@ date,admin1,market,commodity,category,price,price_pred
 2021-03-15,SINDH,Karachi,Oil (cooking),oil and fats,301.23,193.9871836271038
 2021-03-15,SINDH,Karachi,Ghee (artificial),oil and fats,305.49,190.4373947931328
 2021-03-15,SINDH,Karachi,"Wage (non-qualified labour, non-agricultural)",non-food,1000.0,1018.3671998022886
-2021-03-15,PUNJAB,Multan,Beans(mash),pulses and nuts,253.29,151.4620796457698
+2021-03-15,PUNJAB,Multan,Beans(mash),pulses and nuts,253.29,151.46207964576976
 2021-03-15,SINDH,Karachi,Fuel (petrol-gasoline),non-food,112.43,112.35628200405787
 2021-03-15,SINDH,Karachi,Sugar,miscellaneous food,99.91,63.98473890995091
 2021-03-15,SINDH,Karachi,Poultry,"meat, fish and eggs",283.13,185.44411707769055
-2021-03-15,SINDH,Karachi,Eggs,"meat, fish and eggs",160.69,100.13696383363029
+2021-03-15,SINDH,Karachi,Eggs,"meat, fish and eggs",160.69,100.13696383363028
 2021-03-15,SINDH,Karachi,Wheat flour,cereals and tubers,64.01,65.243172896143
 2021-03-15,SINDH,Karachi,Wheat,cereals and tubers,57.5,51.88783984122238
 2021-03-15,SINDH,Karachi,"Rice (basmati, broken)",cereals and tubers,107.56,123.78287401638985
@@ -1109,7 +1109,7 @@ date,admin1,market,commodity,category,price,price_pred
 2021-03-15,KHYBER PAKHTUNKHWA,Peshawar,"Rice (basmati, broken)",cereals and tubers,90.0,125.98398372005929
 2021-03-15,BALOCHISTAN,Quetta,Lentils (moong),pulses and nuts,272.46,142.8384080692928
 2021-03-15,BALOCHISTAN,Quetta,Lentils (masur),pulses and nuts,171.19,110.31080886936937
-2021-03-15,BALOCHISTAN,Quetta,Beans(mash),pulses and nuts,272.46,187.20479193421392
+2021-03-15,BALOCHISTAN,Quetta,Beans(mash),pulses and nuts,272.46,187.2047919342139
 2021-03-15,BALOCHISTAN,Quetta,Oil (cooking),oil and fats,303.47,189.75790156901718
 2021-03-15,BALOCHISTAN,Quetta,Ghee (artificial),oil and fats,304.0,187.65605458235035
 2021-03-15,BALOCHISTAN,Quetta,"Wage (non-qualified labour, non-agricultural)",non-food,997.0,860.3478189083584
@@ -1143,33 +1143,33 @@ date,admin1,market,commodity,category,price,price_pred
 2021-03-15,KHYBER PAKHTUNKHWA,Peshawar,Sugar,miscellaneous food,100.0,64.3761309321253
 2021-03-15,KHYBER PAKHTUNKHWA,Peshawar,Milk,milk and dairy,122.27,97.05572781873472
 2021-03-15,KHYBER PAKHTUNKHWA,Peshawar,Beans(mash),pulses and nuts,268.18,150.87458363621644
-2021-04-15,PUNJAB,Multan,"Wage (non-qualified labour, non-agricultural)",non-food,700.0,733.2612191242002
+2021-04-15,PUNJAB,Multan,"Wage (non-qualified labour, non-agricultural)",non-food,700.0,733.2612191241996
 2021-04-15,PUNJAB,Multan,Fuel (petrol-gasoline),non-food,110.17,115.70857897342628
 2021-04-15,PUNJAB,Multan,Fuel (diesel),non-food,112.67,109.95273158438768
 2021-04-15,PUNJAB,Multan,Sugar,miscellaneous food,95.97,63.691754238172486
 2021-04-15,PUNJAB,Multan,Milk,milk and dairy,96.55,90.57950394386197
 2021-04-15,PUNJAB,Multan,Poultry,"meat, fish and eggs",258.57,173.78467360712696
-2021-04-15,PUNJAB,Multan,Eggs,"meat, fish and eggs",152.48,84.6852230800505
+2021-04-15,PUNJAB,Multan,Eggs,"meat, fish and eggs",152.48,84.68522308005049
 2021-04-15,PUNJAB,Lahore,Ghee (artificial),oil and fats,307.58,190.4894940253961
-2021-04-15,PUNJAB,Multan,Wheat,cereals and tubers,48.12,45.200669335166964
+2021-04-15,PUNJAB,Multan,Wheat,cereals and tubers,48.12,45.200669335166985
 2021-04-15,PUNJAB,Multan,Rice (coarse),cereals and tubers,69.43,61.80327153169147
 2021-04-15,PUNJAB,Multan,"Rice (basmati, broken)",cereals and tubers,93.75,130.03529618429553
 2021-04-15,PUNJAB,Lahore,Lentils (moong),pulses and nuts,235.54,135.14868283419875
-2021-04-15,PUNJAB,Lahore,Lentils (masur),pulses and nuts,158.44,121.83982431264624
+2021-04-15,PUNJAB,Lahore,Lentils (masur),pulses and nuts,158.44,121.83982431264613
 2021-04-15,PUNJAB,Lahore,Beans(mash),pulses and nuts,287.06,186.69449858036066
 2021-04-15,PUNJAB,Lahore,Oil (cooking),oil and fats,308.0,193.1468204576071
 2021-04-15,PUNJAB,Multan,Ghee (artificial),oil and fats,310.0,191.080796009085
 2021-04-15,PUNJAB,Multan,Wheat flour,cereals and tubers,49.18,56.96802169741629
 2021-04-15,PUNJAB,Multan,Oil (cooking),oil and fats,304.37,194.56375856896855
 2021-04-15,SINDH,Karachi,Milk,milk and dairy,128.06,99.46286257463693
-2021-04-15,PUNJAB,Multan,Lentils (masur),pulses and nuts,143.26,99.21638500706551
-2021-04-15,PUNJAB,Lahore,"Wage (non-qualified labour, non-agricultural)",non-food,923.0,938.4054788503288
+2021-04-15,PUNJAB,Multan,Lentils (masur),pulses and nuts,143.26,99.21638500706543
+2021-04-15,PUNJAB,Lahore,"Wage (non-qualified labour, non-agricultural)",non-food,923.0,938.405478850328
 2021-04-15,SINDH,Karachi,Lentils (moong),pulses and nuts,249.08,133.14578931439945
-2021-04-15,SINDH,Karachi,Lentils (masur),pulses and nuts,161.07,100.63999048785497
+2021-04-15,SINDH,Karachi,Lentils (masur),pulses and nuts,161.07,100.63999048785487
 2021-04-15,SINDH,Karachi,Beans(mash),pulses and nuts,257.18,150.16657011428097
 2021-04-15,SINDH,Karachi,Oil (cooking),oil and fats,308.0,193.42069617232588
 2021-04-15,SINDH,Karachi,Ghee (artificial),oil and fats,310.0,190.39073694909712
-2021-04-15,SINDH,Karachi,"Wage (non-qualified labour, non-agricultural)",non-food,1000.0,1025.6190181764346
+2021-04-15,SINDH,Karachi,"Wage (non-qualified labour, non-agricultural)",non-food,1000.0,1025.6190181764337
 2021-04-15,PUNJAB,Multan,Beans(mash),pulses and nuts,249.32,151.70102969351794
 2021-04-15,SINDH,Karachi,Fuel (petrol-gasoline),non-food,110.16,115.21397186117109
 2021-04-15,SINDH,Karachi,Sugar,miscellaneous food,99.76,65.35747765120621
@@ -1182,14 +1182,14 @@ date,admin1,market,commodity,category,price,price_pred
 2021-04-15,SINDH,Karachi,Fuel (diesel),non-food,112.67,109.17461683655601
 2021-04-15,PUNJAB,Lahore,Fuel (petrol-gasoline),non-food,110.12,115.9066238888984
 2021-04-15,PUNJAB,Lahore,Fuel (diesel),non-food,112.49,109.68194468990157
-2021-04-15,PUNJAB,Lahore,Sugar,miscellaneous food,95.3,66.60874245406306
+2021-04-15,PUNJAB,Lahore,Sugar,miscellaneous food,95.3,66.60874245406305
 2021-04-15,KHYBER PAKHTUNKHWA,Peshawar,"Rice (basmati, broken)",cereals and tubers,90.0,128.4185989569285
 2021-04-15,BALOCHISTAN,Quetta,Lentils (moong),pulses and nuts,269.97,150.13011525495418
-2021-04-15,BALOCHISTAN,Quetta,Lentils (masur),pulses and nuts,171.93,113.48046297964844
+2021-04-15,BALOCHISTAN,Quetta,Lentils (masur),pulses and nuts,171.93,113.48046297964834
 2021-04-15,BALOCHISTAN,Quetta,Beans(mash),pulses and nuts,269.97,191.0672346911165
 2021-04-15,BALOCHISTAN,Quetta,Oil (cooking),oil and fats,308.0,189.40569403556404
 2021-04-15,BALOCHISTAN,Quetta,Ghee (artificial),oil and fats,310.0,187.2985776614238
-2021-04-15,BALOCHISTAN,Quetta,"Wage (non-qualified labour, non-agricultural)",non-food,1087.0,872.515703354738
+2021-04-15,BALOCHISTAN,Quetta,"Wage (non-qualified labour, non-agricultural)",non-food,1087.0,872.5157033547372
 2021-04-15,KHYBER PAKHTUNKHWA,Peshawar,Wheat,cereals and tubers,48.4,51.24856221614337
 2021-04-15,BALOCHISTAN,Quetta,Fuel (petrol-gasoline),non-food,110.16,115.22094860188925
 2021-04-15,BALOCHISTAN,Quetta,Sugar,miscellaneous food,100.0,65.80910440288878
@@ -1210,11 +1210,11 @@ date,admin1,market,commodity,category,price,price_pred
 2021-04-15,KHYBER PAKHTUNKHWA,Peshawar,Eggs,"meat, fish and eggs",166.4,96.63380672729416
 2021-04-15,PUNJAB,Lahore,"Rice (basmati, broken)",cereals and tubers,82.06,122.28281547191513
 2021-04-15,KHYBER PAKHTUNKHWA,Peshawar,Lentils (moong),pulses and nuts,206.49,117.06019510642439
-2021-04-15,KHYBER PAKHTUNKHWA,Peshawar,Lentils (masur),pulses and nuts,147.68,91.60361748905983
+2021-04-15,KHYBER PAKHTUNKHWA,Peshawar,Lentils (masur),pulses and nuts,147.68,91.60361748905974
 2021-04-15,PUNJAB,Lahore,Wheat,cereals and tubers,54.14,48.52627267524257
 2021-04-15,KHYBER PAKHTUNKHWA,Peshawar,Oil (cooking),oil and fats,306.18,193.0422906799025
 2021-04-15,KHYBER PAKHTUNKHWA,Peshawar,Ghee (artificial),oil and fats,304.0,190.13622059000554
-2021-04-15,KHYBER PAKHTUNKHWA,Peshawar,"Wage (non-qualified labour, non-agricultural)",non-food,800.0,759.6244710618327
+2021-04-15,KHYBER PAKHTUNKHWA,Peshawar,"Wage (non-qualified labour, non-agricultural)",non-food,800.0,759.624471061832
 2021-04-15,KHYBER PAKHTUNKHWA,Peshawar,Fuel (petrol-gasoline),non-food,110.15,115.8388721713709
 2021-04-15,KHYBER PAKHTUNKHWA,Peshawar,Fuel (diesel),non-food,112.67,109.769361386079
 2021-04-15,KHYBER PAKHTUNKHWA,Peshawar,Sugar,miscellaneous food,100.7,65.88870118279532
@@ -1223,7 +1223,7 @@ date,admin1,market,commodity,category,price,price_pred
 2021-05-15,PUNJAB,Multan,Ghee (artificial),oil and fats,310.0,189.47614829381502
 2021-05-15,PUNJAB,Multan,"Wage (non-qualified labour, non-agricultural)",non-food,700.0,735.8869996613275
 2021-05-15,PUNJAB,Multan,Fuel (petrol-gasoline),non-food,109.12,118.57838367664985
-2021-05-15,PUNJAB,Multan,Fuel (diesel),non-food,111.3,110.67087783700235
+2021-05-15,PUNJAB,Multan,Fuel (diesel),non-food,111.3,110.67087783700245
 2021-05-15,PUNJAB,Multan,Sugar,miscellaneous food,96.45,64.23595639157728
 2021-05-15,PUNJAB,Multan,Milk,milk and dairy,96.55,90.96420242397895
 2021-05-15,PUNJAB,Multan,Poultry,"meat, fish and eggs",301.02,182.12779358049664
@@ -1232,8 +1232,8 @@ date,admin1,market,commodity,category,price,price_pred
 2021-05-15,PUNJAB,Multan,Wheat,cereals and tubers,46.69,43.926049794266504
 2021-05-15,PUNJAB,Multan,"Rice (basmati, broken)",cereals and tubers,93.75,131.39926002044544
 2021-05-15,PUNJAB,Lahore,Lentils (moong),pulses and nuts,235.54,138.1249411016922
-2021-05-15,PUNJAB,Lahore,Lentils (masur),pulses and nuts,158.44,123.53293627835286
-2021-05-15,PUNJAB,Lahore,Beans(mash),pulses and nuts,287.06,192.38200567734003
+2021-05-15,PUNJAB,Lahore,Lentils (masur),pulses and nuts,158.44,123.53293627835276
+2021-05-15,PUNJAB,Lahore,Beans(mash),pulses and nuts,287.06,192.38200567734
 2021-05-15,PUNJAB,Lahore,Oil (cooking),oil and fats,308.0,191.6293394717115
 2021-05-15,PUNJAB,Multan,Oil (cooking),oil and fats,308.0,192.8990855774764
 2021-05-15,PUNJAB,Multan,Eggs,"meat, fish and eggs",135.34,85.946490056182
@@ -1242,12 +1242,12 @@ date,admin1,market,commodity,category,price,price_pred
 2021-05-15,PUNJAB,Multan,Lentils (moong),pulses and nuts,199.35,122.09002204217252
 2021-05-15,PUNJAB,Lahore,"Wage (non-qualified labour, non-agricultural)",non-food,923.0,942.4543269609696
 2021-05-15,SINDH,Karachi,Lentils (moong),pulses and nuts,246.99,134.68606364799828
-2021-05-15,SINDH,Karachi,Lentils (masur),pulses and nuts,158.32,102.97085036446177
+2021-05-15,SINDH,Karachi,Lentils (masur),pulses and nuts,158.32,102.97085036446168
 2021-05-15,SINDH,Karachi,Beans(mash),pulses and nuts,256.82,157.26622154496098
 2021-05-15,SINDH,Karachi,Oil (cooking),oil and fats,308.0,194.62170377518058
-2021-05-15,SINDH,Karachi,Ghee (artificial),oil and fats,310.0,191.13587625607835
+2021-05-15,SINDH,Karachi,Ghee (artificial),oil and fats,310.0,191.13587625607832
 2021-05-15,SINDH,Karachi,"Wage (non-qualified labour, non-agricultural)",non-food,1000.0,1033.3394850631666
-2021-05-15,PUNJAB,Multan,Lentils (masur),pulses and nuts,145.47,100.7062163977207
+2021-05-15,PUNJAB,Multan,Lentils (masur),pulses and nuts,145.47,100.70621639772061
 2021-05-15,SINDH,Karachi,Fuel (petrol-gasoline),non-food,109.09,118.61995208391272
 2021-05-15,SINDH,Karachi,Sugar,miscellaneous food,101.01,66.60504972262287
 2021-05-15,SINDH,Karachi,Poultry,"meat, fish and eggs",328.46,199.49706706620043
@@ -1256,13 +1256,13 @@ date,admin1,market,commodity,category,price,price_pred
 2021-05-15,SINDH,Karachi,Wheat,cereals and tubers,58.0,50.93322520555399
 2021-05-15,SINDH,Karachi,Rice (coarse),cereals and tubers,79.95,76.30249112947104
 2021-05-15,SINDH,Karachi,"Rice (basmati, broken)",cereals and tubers,110.79,129.81399283188125
-2021-05-15,SINDH,Karachi,Fuel (diesel),non-food,111.29,110.58204139773318
+2021-05-15,SINDH,Karachi,Fuel (diesel),non-food,111.29,110.58204139773328
 2021-05-15,PUNJAB,Lahore,Fuel (petrol-gasoline),non-food,109.1,118.26937971113583
 2021-05-15,PUNJAB,Lahore,Milk,milk and dairy,96.07,88.0362054684448
 2021-05-15,PUNJAB,Lahore,Sugar,miscellaneous food,92.2,67.09453879963272
 2021-05-15,KHYBER PAKHTUNKHWA,Peshawar,"Rice (basmati, broken)",cereals and tubers,90.0,130.47135499847886
 2021-05-15,BALOCHISTAN,Quetta,Lentils (moong),pulses and nuts,264.92,154.04925335479436
-2021-05-15,BALOCHISTAN,Quetta,Lentils (masur),pulses and nuts,164.95,116.35656717229804
+2021-05-15,BALOCHISTAN,Quetta,Lentils (masur),pulses and nuts,164.95,116.35656717229794
 2021-05-15,BALOCHISTAN,Quetta,Beans(mash),pulses and nuts,274.92,198.67348105595948
 2021-05-15,BALOCHISTAN,Quetta,Oil (cooking),oil and fats,308.0,190.72620859488288
 2021-05-15,BALOCHISTAN,Quetta,Ghee (artificial),oil and fats,310.0,188.92295017054093
@@ -1276,22 +1276,22 @@ date,admin1,market,commodity,category,price,price_pred
 2021-05-15,BALOCHISTAN,Quetta,Wheat flour,cereals and tubers,62.25,61.93903358632829
 2021-05-15,BALOCHISTAN,Quetta,Wheat,cereals and tubers,60.66,48.24539729293218
 2021-05-15,BALOCHISTAN,Quetta,"Rice (basmati, broken)",cereals and tubers,94.91,138.79679445664533
-2021-05-15,BALOCHISTAN,Quetta,Fuel (diesel),non-food,111.28,110.83548075028801
+2021-05-15,BALOCHISTAN,Quetta,Fuel (diesel),non-food,111.28,110.83548075028821
 2021-05-15,KHYBER PAKHTUNKHWA,Peshawar,Wheat flour,cereals and tubers,51.59,59.305555588518864
-2021-05-15,PUNJAB,Lahore,Fuel (diesel),non-food,111.2,110.4932912926888
+2021-05-15,PUNJAB,Lahore,Fuel (diesel),non-food,111.2,110.4932912926889
 2021-05-15,KHYBER PAKHTUNKHWA,Peshawar,Poultry,"meat, fish and eggs",283.07,183.88410385927756
 2021-05-15,PUNJAB,Lahore,Poultry,"meat, fish and eggs",277.2,166.6863898702425
 2021-05-15,PUNJAB,Lahore,Eggs,"meat, fish and eggs",140.91,88.05585027278673
 2021-05-15,PUNJAB,Lahore,Wheat flour,cereals and tubers,53.07,57.45252846138549
 2021-05-15,PUNJAB,Lahore,Wheat,cereals and tubers,51.58,46.51858298727409
 2021-05-15,KHYBER PAKHTUNKHWA,Peshawar,Lentils (moong),pulses and nuts,200.0,120.1893810971256
-2021-05-15,KHYBER PAKHTUNKHWA,Peshawar,Lentils (masur),pulses and nuts,142.44,92.41611605947037
+2021-05-15,KHYBER PAKHTUNKHWA,Peshawar,Lentils (masur),pulses and nuts,142.44,92.41611605947028
 2021-05-15,KHYBER PAKHTUNKHWA,Peshawar,Beans(mash),pulses and nuts,255.0,162.52059231609007
 2021-05-15,PUNJAB,Lahore,"Rice (basmati, broken)",cereals and tubers,88.78,124.69568653674328
 2021-05-15,KHYBER PAKHTUNKHWA,Peshawar,Ghee (artificial),oil and fats,304.0,188.7053942242515
 2021-05-15,KHYBER PAKHTUNKHWA,Peshawar,"Wage (non-qualified labour, non-agricultural)",non-food,800.0,762.0984535550776
 2021-05-15,KHYBER PAKHTUNKHWA,Peshawar,Fuel (petrol-gasoline),non-food,109.08,118.6120515489264
-2021-05-15,KHYBER PAKHTUNKHWA,Peshawar,Fuel (diesel),non-food,111.3,110.46011684505605
+2021-05-15,KHYBER PAKHTUNKHWA,Peshawar,Fuel (diesel),non-food,111.3,110.46011684505615
 2021-05-15,KHYBER PAKHTUNKHWA,Peshawar,Sugar,miscellaneous food,100.8,66.4758578789475
 2021-05-15,KHYBER PAKHTUNKHWA,Peshawar,Milk,milk and dairy,125.15,99.13813646186618
 2021-05-15,KHYBER PAKHTUNKHWA,Peshawar,Oil (cooking),oil and fats,308.0,191.3527381394902
@@ -1300,14 +1300,14 @@ date,admin1,market,commodity,category,price,price_pred
 2021-06-15,PUNJAB,Multan,Ghee (artificial),oil and fats,310.0,188.46387852128709
 2021-06-15,PUNJAB,Multan,"Wage (non-qualified labour, non-agricultural)",non-food,725.0,744.497622077919
 2021-06-15,PUNJAB,Multan,Fuel (petrol-gasoline),non-food,110.17,120.70062191679533
-2021-06-15,PUNJAB,Multan,Fuel (diesel),non-food,112.21,112.3481002961333
+2021-06-15,PUNJAB,Multan,Fuel (diesel),non-food,112.21,112.3481002961334
 2021-06-15,PUNJAB,Multan,Sugar,miscellaneous food,96.05,65.47390623471858
 2021-06-15,PUNJAB,Multan,Milk,milk and dairy,97.69,91.54714588741065
 2021-06-15,PUNJAB,Lahore,Ghee (artificial),oil and fats,310.0,187.9242857652888
-2021-06-15,PUNJAB,Multan,Wheat,cereals and tubers,48.75,44.49383819016418
+2021-06-15,PUNJAB,Multan,Wheat,cereals and tubers,48.75,44.493838190164205
 2021-06-15,PUNJAB,Multan,"Rice (basmati, broken)",cereals and tubers,97.07,132.61766902842302
 2021-06-15,PUNJAB,Lahore,Lentils (moong),pulses and nuts,213.54,138.340014757255
-2021-06-15,PUNJAB,Lahore,Lentils (masur),pulses and nuts,158.44,123.19057157603751
+2021-06-15,PUNJAB,Lahore,Lentils (masur),pulses and nuts,158.44,123.1905715760374
 2021-06-15,PUNJAB,Lahore,Beans(mash),pulses and nuts,280.89,193.02805440243296
 2021-06-15,PUNJAB,Lahore,Oil (cooking),oil and fats,308.0,190.29373640624829
 2021-06-15,PUNJAB,Multan,Oil (cooking),oil and fats,308.0,192.10345326018506
@@ -1316,14 +1316,14 @@ date,admin1,market,commodity,category,price,price_pred
 2021-06-15,SINDH,Karachi,Poultry,"meat, fish and eggs",227.34,196.19273932675762
 2021-06-15,PUNJAB,Multan,Lentils (moong),pulses and nuts,175.3,123.53936635788077
 2021-06-15,SINDH,Karachi,Lentils (moong),pulses and nuts,244.18,136.65656586436322
-2021-06-15,SINDH,Karachi,Lentils (masur),pulses and nuts,157.83,104.0146417211127
+2021-06-15,SINDH,Karachi,Lentils (masur),pulses and nuts,157.83,104.0146417211126
 2021-06-15,SINDH,Karachi,Beans(mash),pulses and nuts,254.61,163.71236105293355
 2021-06-15,SINDH,Karachi,Oil (cooking),oil and fats,313.94,193.74635911540446
 2021-06-15,SINDH,Karachi,Ghee (artificial),oil and fats,316.92,190.46113030412738
 2021-06-15,SINDH,Karachi,"Wage (non-qualified labour, non-agricultural)",non-food,1000.0,1037.5205751549897
 2021-06-15,SINDH,Karachi,Fuel (petrol-gasoline),non-food,110.15,120.28539667978225
-2021-06-15,PUNJAB,Multan,Lentils (masur),pulses and nuts,147.72,101.44440696099264
-2021-06-15,SINDH,Karachi,Fuel (diesel),non-food,112.18,111.85611244923315
+2021-06-15,PUNJAB,Multan,Lentils (masur),pulses and nuts,147.72,101.44440696099255
+2021-06-15,SINDH,Karachi,Fuel (diesel),non-food,112.18,111.85611244923325
 2021-06-15,SINDH,Karachi,Milk,milk and dairy,128.43,100.49620386209575
 2021-06-15,PUNJAB,Lahore,"Wage (non-qualified labour, non-agricultural)",non-food,923.0,945.4806499055882
 2021-06-15,SINDH,Karachi,Eggs,"meat, fish and eggs",155.41,94.814295685021
@@ -1332,18 +1332,18 @@ date,admin1,market,commodity,category,price,price_pred
 2021-06-15,SINDH,Karachi,Rice (coarse),cereals and tubers,79.95,69.7956157713084
 2021-06-15,SINDH,Karachi,"Rice (basmati, broken)",cereals and tubers,112.3,131.16297412260752
 2021-06-15,SINDH,Karachi,Sugar,miscellaneous food,100.85,67.39942965225914
-2021-06-15,PUNJAB,Lahore,Fuel (diesel),non-food,112.15,111.31224135084183
+2021-06-15,PUNJAB,Lahore,Fuel (diesel),non-food,112.15,111.31224135084193
 2021-06-15,PUNJAB,Multan,Eggs,"meat, fish and eggs",141.5,88.20835472139754
 2021-06-15,PUNJAB,Lahore,Fuel (petrol-gasoline),non-food,110.21,119.8957773106152
 2021-06-15,KHYBER PAKHTUNKHWA,Peshawar,"Rice (basmati, broken)",cereals and tubers,90.0,131.61161418062213
 2021-06-15,BALOCHISTAN,Quetta,Lentils (moong),pulses and nuts,272.44,153.58442452956416
-2021-06-15,BALOCHISTAN,Quetta,Lentils (masur),pulses and nuts,178.69,118.54216497186117
+2021-06-15,BALOCHISTAN,Quetta,Lentils (masur),pulses and nuts,178.69,118.54216497186106
 2021-06-15,BALOCHISTAN,Quetta,Beans(mash),pulses and nuts,288.71,204.5788064088252
 2021-06-15,BALOCHISTAN,Quetta,Oil (cooking),oil and fats,317.09,189.18725715551318
 2021-06-15,BALOCHISTAN,Quetta,Ghee (artificial),oil and fats,310.0,187.4392803351973
 2021-06-15,BALOCHISTAN,Quetta,Fuel (petrol-gasoline),non-food,110.15,120.39311005838361
 2021-06-15,KHYBER PAKHTUNKHWA,Peshawar,Wheat,cereals and tubers,49.25,49.08152964828398
-2021-06-15,BALOCHISTAN,Quetta,Fuel (diesel),non-food,112.17,112.01014280815899
+2021-06-15,BALOCHISTAN,Quetta,Fuel (diesel),non-food,112.17,112.01014280815909
 2021-06-15,BALOCHISTAN,Quetta,Milk,milk and dairy,120.0,107.72278965705077
 2021-06-15,BALOCHISTAN,Quetta,Poultry,"meat, fish and eggs",238.9,209.437275477054
 2021-06-15,BALOCHISTAN,Quetta,Eggs,"meat, fish and eggs",164.95,106.50383311856068
@@ -1352,7 +1352,7 @@ date,admin1,market,commodity,category,price,price_pred
 2021-06-15,BALOCHISTAN,Quetta,"Rice (basmati, broken)",cereals and tubers,97.32,140.1511052898716
 2021-06-15,PUNJAB,Lahore,Sugar,miscellaneous food,100.0,67.72181719748082
 2021-06-15,BALOCHISTAN,Quetta,Sugar,miscellaneous food,100.0,68.08233312025492
-2021-06-15,KHYBER PAKHTUNKHWA,Peshawar,Wheat flour,cereals and tubers,55.06,59.14543624406849
+2021-06-15,KHYBER PAKHTUNKHWA,Peshawar,Wheat flour,cereals and tubers,55.06,59.14543624406854
 2021-06-15,BALOCHISTAN,Quetta,"Wage (non-qualified labour, non-agricultural)",non-food,1097.0,899.5358408356134
 2021-06-15,KHYBER PAKHTUNKHWA,Peshawar,Poultry,"meat, fish and eggs",212.6,183.56438224816878
 2021-06-15,KHYBER PAKHTUNKHWA,Peshawar,Eggs,"meat, fish and eggs",151.62,95.97265952651013
@@ -1362,19 +1362,19 @@ date,admin1,market,commodity,category,price,price_pred
 2021-06-15,PUNJAB,Lahore,Wheat,cereals and tubers,52.88,46.796435502727846
 2021-06-15,PUNJAB,Lahore,"Rice (basmati, broken)",cereals and tubers,88.78,125.51752983597666
 2021-06-15,KHYBER PAKHTUNKHWA,Peshawar,Lentils (moong),pulses and nuts,200.0,121.63357685241756
-2021-06-15,KHYBER PAKHTUNKHWA,Peshawar,Lentils (masur),pulses and nuts,154.92,92.73728448595827
-2021-06-15,PUNJAB,Lahore,Milk,milk and dairy,96.07,88.18355649359408
+2021-06-15,KHYBER PAKHTUNKHWA,Peshawar,Lentils (masur),pulses and nuts,154.92,92.73728448595818
+2021-06-15,PUNJAB,Lahore,Milk,milk and dairy,96.07,88.18355649359407
 2021-06-15,KHYBER PAKHTUNKHWA,Peshawar,Oil (cooking),oil and fats,308.0,189.55437599076964
 2021-06-15,KHYBER PAKHTUNKHWA,Peshawar,Ghee (artificial),oil and fats,304.0,187.4565579765364
 2021-06-15,KHYBER PAKHTUNKHWA,Peshawar,"Wage (non-qualified labour, non-agricultural)",non-food,800.0,763.6172548919728
 2021-06-15,KHYBER PAKHTUNKHWA,Peshawar,Fuel (petrol-gasoline),non-food,110.13,120.47566272204311
-2021-06-15,KHYBER PAKHTUNKHWA,Peshawar,Fuel (diesel),non-food,112.2,111.33460905751473
+2021-06-15,KHYBER PAKHTUNKHWA,Peshawar,Fuel (diesel),non-food,112.2,111.33460905751483
 2021-06-15,KHYBER PAKHTUNKHWA,Peshawar,Sugar,miscellaneous food,96.77,67.3723112695918
 2021-06-15,KHYBER PAKHTUNKHWA,Peshawar,Milk,milk and dairy,126.48,99.08502148663761
-2021-06-15,KHYBER PAKHTUNKHWA,Peshawar,Beans(mash),pulses and nuts,257.07,165.95751439774736
+2021-06-15,KHYBER PAKHTUNKHWA,Peshawar,Beans(mash),pulses and nuts,257.07,165.95751439774733
 2021-07-15,PUNJAB,Multan,Fuel (petrol-gasoline),non-food,114.32,121.49763838257329
-2021-07-15,PUNJAB,Multan,Fuel (diesel),non-food,115.06,113.20832772963129
-2021-07-15,PUNJAB,Multan,Sugar,miscellaneous food,101.77,67.02179304954817
+2021-07-15,PUNJAB,Multan,Fuel (diesel),non-food,115.06,113.20832772963139
+2021-07-15,PUNJAB,Multan,Sugar,miscellaneous food,101.77,67.02179304954822
 2021-07-15,PUNJAB,Multan,Milk,milk and dairy,99.53,91.86071982141978
 2021-07-15,PUNJAB,Multan,Poultry,"meat, fish and eggs",191.69,167.10660608995542
 2021-07-15,PUNJAB,Multan,Eggs,"meat, fish and eggs",150.52,97.745896012492
@@ -1382,7 +1382,7 @@ date,admin1,market,commodity,category,price,price_pred
 2021-07-15,PUNJAB,Multan,Wheat,cereals and tubers,49.42,45.649582109612425
 2021-07-15,PUNJAB,Lahore,Beans(mash),pulses and nuts,274.79,192.05474707432626
 2021-07-15,PUNJAB,Lahore,Lentils (moong),pulses and nuts,188.83,137.63214614292875
-2021-07-15,PUNJAB,Lahore,Lentils (masur),pulses and nuts,158.44,123.1554182556094
+2021-07-15,PUNJAB,Lahore,Lentils (masur),pulses and nuts,158.44,123.15541825560929
 2021-07-15,PUNJAB,Lahore,Oil (cooking),oil and fats,315.74,193.1124539652455
 2021-07-15,PUNJAB,Lahore,Ghee (artificial),oil and fats,350.0,190.53926726663232
 2021-07-15,PUNJAB,Lahore,"Wage (non-qualified labour, non-agricultural)",non-food,1000.0,958.2061885243229
@@ -1390,15 +1390,15 @@ date,admin1,market,commodity,category,price,price_pred
 2021-07-15,PUNJAB,Multan,"Wage (non-qualified labour, non-agricultural)",non-food,800.0,749.7499186958522
 2021-07-15,PUNJAB,Multan,"Rice (basmati, broken)",cereals and tubers,98.13,132.31530065215523
 2021-07-15,PUNJAB,Multan,Ghee (artificial),oil and fats,310.0,190.89477639453
-2021-07-15,PUNJAB,Lahore,Fuel (diesel),non-food,115.02,113.00578916389611
+2021-07-15,PUNJAB,Lahore,Fuel (diesel),non-food,115.02,113.00578916389621
 2021-07-15,PUNJAB,Multan,Beans(mash),pulses and nuts,217.69,164.69089791180437
-2021-07-15,SINDH,Karachi,Lentils (masur),pulses and nuts,156.65,105.37835166637635
+2021-07-15,SINDH,Karachi,Lentils (masur),pulses and nuts,156.65,105.37835166637626
 2021-07-15,SINDH,Karachi,Beans(mash),pulses and nuts,238.1,167.14046475380843
-2021-07-15,SINDH,Karachi,Oil (cooking),oil and fats,340.64,195.94084080937316
-2021-07-15,SINDH,Karachi,Ghee (artificial),oil and fats,344.64,192.1109786469211
+2021-07-15,SINDH,Karachi,Oil (cooking),oil and fats,340.64,195.94084080937313
+2021-07-15,SINDH,Karachi,Ghee (artificial),oil and fats,344.64,192.11097864692107
 2021-07-15,SINDH,Karachi,"Wage (non-qualified labour, non-agricultural)",non-food,1000.0,1042.9651370303645
 2021-07-15,SINDH,Karachi,Fuel (petrol-gasoline),non-food,114.27,121.01953476237333
-2021-07-15,SINDH,Karachi,Fuel (diesel),non-food,115.02,112.94943100974781
+2021-07-15,SINDH,Karachi,Fuel (diesel),non-food,115.02,112.94943100974801
 2021-07-15,PUNJAB,Multan,Oil (cooking),oil and fats,308.0,194.66934951242166
 2021-07-15,SINDH,Karachi,Sugar,miscellaneous food,104.67,69.09894750387953
 2021-07-15,SINDH,Karachi,Poultry,"meat, fish and eggs",183.33,185.29055030181684
@@ -1407,26 +1407,26 @@ date,admin1,market,commodity,category,price,price_pred
 2021-07-15,SINDH,Karachi,Wheat,cereals and tubers,56.0,51.78410156415157
 2021-07-15,SINDH,Karachi,"Rice (basmati, broken)",cereals and tubers,115.05,131.704812637825
 2021-07-15,PUNJAB,Multan,Lentils (moong),pulses and nuts,150.5,122.09493037124864
-2021-07-15,PUNJAB,Multan,Lentils (masur),pulses and nuts,147.72,100.89469785537908
+2021-07-15,PUNJAB,Multan,Lentils (masur),pulses and nuts,147.72,100.894697855379
 2021-07-15,SINDH,Karachi,Milk,milk and dairy,128.43,102.11034621358135
 2021-07-15,SINDH,Karachi,Lentils (moong),pulses and nuts,216.11,138.18340853825507
 2021-07-15,PUNJAB,Lahore,Sugar,miscellaneous food,103.54,70.18397434703293
 2021-07-15,PUNJAB,Lahore,Poultry,"meat, fish and eggs",166.96,157.395712426782
 2021-07-15,BALOCHISTAN,Quetta,Lentils (moong),pulses and nuts,237.68,150.73073593530424
-2021-07-15,BALOCHISTAN,Quetta,Lentils (masur),pulses and nuts,175.94,118.32340578500971
-2021-07-15,BALOCHISTAN,Quetta,Beans(mash),pulses and nuts,277.91,206.033189073848
+2021-07-15,BALOCHISTAN,Quetta,Lentils (masur),pulses and nuts,175.94,118.32340578500961
+2021-07-15,BALOCHISTAN,Quetta,Beans(mash),pulses and nuts,277.91,206.03318907384818
 2021-07-15,BALOCHISTAN,Quetta,Oil (cooking),oil and fats,343.36,191.22030793764577
-2021-07-15,BALOCHISTAN,Quetta,Ghee (artificial),oil and fats,321.15,189.14226457546525
+2021-07-15,BALOCHISTAN,Quetta,Ghee (artificial),oil and fats,321.15,189.14226457546542
 2021-07-15,BALOCHISTAN,Quetta,"Wage (non-qualified labour, non-agricultural)",non-food,1097.0,912.3052229476799
 2021-07-15,BALOCHISTAN,Quetta,Fuel (petrol-gasoline),non-food,114.28,121.12130210258391
-2021-07-15,BALOCHISTAN,Quetta,Fuel (diesel),non-food,115.01,112.97044030516352
+2021-07-15,BALOCHISTAN,Quetta,Fuel (diesel),non-food,115.01,112.97044030516362
 2021-07-15,BALOCHISTAN,Quetta,Sugar,miscellaneous food,105.11,69.24519759615076
 2021-07-15,BALOCHISTAN,Quetta,Milk,milk and dairy,120.0,108.45468827259754
 2021-07-15,BALOCHISTAN,Quetta,Poultry,"meat, fish and eggs",232.63,200.95330117671833
 2021-07-15,BALOCHISTAN,Quetta,Eggs,"meat, fish and eggs",162.78,109.30122784051036
 2021-07-15,BALOCHISTAN,Quetta,Wheat,cereals and tubers,59.5,47.04422642745632
 2021-07-15,BALOCHISTAN,Quetta,Rice (coarse),cereals and tubers,89.91,77.8004054344342
-2021-07-15,BALOCHISTAN,Quetta,"Rice (basmati, broken)",cereals and tubers,104.92,142.27609465025185
+2021-07-15,BALOCHISTAN,Quetta,"Rice (basmati, broken)",cereals and tubers,104.92,142.27609465025182
 2021-07-15,KHYBER PAKHTUNKHWA,Peshawar,"Rice (basmati, broken)",cereals and tubers,95.87,131.5293834652887
 2021-07-15,KHYBER PAKHTUNKHWA,Peshawar,Rice (coarse),cereals and tubers,70.0,74.11487268168283
 2021-07-15,PUNJAB,Lahore,Milk,milk and dairy,96.07,88.17691329824763
@@ -1436,13 +1436,13 @@ date,admin1,market,commodity,category,price,price_pred
 2021-07-15,PUNJAB,Lahore,Wheat flour,cereals and tubers,54.53,59.34414328057943
 2021-07-15,PUNJAB,Lahore,Wheat,cereals and tubers,52.83,47.52162626550234
 2021-07-15,PUNJAB,Lahore,"Rice (basmati, broken)",cereals and tubers,88.78,126.83776084378987
-2021-07-15,KHYBER PAKHTUNKHWA,Peshawar,Lentils (masur),pulses and nuts,150.0,92.76981285690748
+2021-07-15,KHYBER PAKHTUNKHWA,Peshawar,Lentils (masur),pulses and nuts,150.0,92.76981285690741
 2021-07-15,KHYBER PAKHTUNKHWA,Peshawar,Beans(mash),pulses and nuts,256.66,169.52451659375294
-2021-07-15,KHYBER PAKHTUNKHWA,Peshawar,Oil (cooking),oil and fats,330.27,191.99727942553318
+2021-07-15,KHYBER PAKHTUNKHWA,Peshawar,Oil (cooking),oil and fats,330.27,191.99727942553335
 2021-07-15,KHYBER PAKHTUNKHWA,Peshawar,Lentils (moong),pulses and nuts,200.0,121.4398113814109
 2021-07-15,KHYBER PAKHTUNKHWA,Peshawar,"Wage (non-qualified labour, non-agricultural)",non-food,800.0,770.1719863130977
 2021-07-15,KHYBER PAKHTUNKHWA,Peshawar,Fuel (petrol-gasoline),non-food,114.26,121.36214498742657
-2021-07-15,KHYBER PAKHTUNKHWA,Peshawar,Fuel (diesel),non-food,115.0,112.61788487659139
+2021-07-15,KHYBER PAKHTUNKHWA,Peshawar,Fuel (diesel),non-food,115.0,112.61788487659148
 2021-07-15,KHYBER PAKHTUNKHWA,Peshawar,Sugar,miscellaneous food,101.54,69.50415767645872
 2021-07-15,KHYBER PAKHTUNKHWA,Peshawar,Milk,milk and dairy,126.48,101.49845568263581
 2021-07-15,KHYBER PAKHTUNKHWA,Peshawar,Poultry,"meat, fish and eggs",185.65,177.2882991526495
@@ -1454,41 +1454,41 @@ date,admin1,market,commodity,category,price,price_pred
 2021-08-15,PUNJAB,Multan,Sugar,miscellaneous food,103.04,68.2319160869142
 2021-08-15,PUNJAB,Multan,Milk,milk and dairy,100.0,92.32732802790755
 2021-08-15,PUNJAB,Multan,Poultry,"meat, fish and eggs",168.96,158.94714049998686
-2021-08-15,PUNJAB,Multan,Wheat flour,cereals and tubers,53.54,58.295807123753406
+2021-08-15,PUNJAB,Multan,Wheat flour,cereals and tubers,53.54,58.2958071237534
 2021-08-15,PUNJAB,Lahore,"Wage (non-qualified labour, non-agricultural)",non-food,1000.0,958.2356287482107
 2021-08-15,PUNJAB,Multan,"Rice (basmati, broken)",cereals and tubers,99.18,133.12824413908027
-2021-08-15,PUNJAB,Lahore,Lentils (moong),pulses and nuts,187.17,135.48307533239534
-2021-08-15,PUNJAB,Lahore,Lentils (masur),pulses and nuts,169.39,121.79830507141462
+2021-08-15,PUNJAB,Lahore,Lentils (moong),pulses and nuts,187.17,135.48307533239532
+2021-08-15,PUNJAB,Lahore,Lentils (masur),pulses and nuts,169.39,121.7983050714145
 2021-08-15,PUNJAB,Lahore,Beans(mash),pulses and nuts,273.96,188.8973404857484
 2021-08-15,PUNJAB,Lahore,Oil (cooking),oil and fats,333.0,193.42389107288298
 2021-08-15,PUNJAB,Lahore,Ghee (artificial),oil and fats,350.0,190.51868505560464
 2021-08-15,PUNJAB,Multan,"Wage (non-qualified labour, non-agricultural)",non-food,800.0,755.4124707900243
 2021-08-15,PUNJAB,Multan,Wheat,cereals and tubers,49.58,46.53419137428357
-2021-08-15,PUNJAB,Multan,Ghee (artificial),oil and fats,329.3,191.5803799973143
+2021-08-15,PUNJAB,Multan,Ghee (artificial),oil and fats,329.3,191.58037999731428
 2021-08-15,SINDH,Karachi,Poultry,"meat, fish and eggs",165.77,178.56403446719798
 2021-08-15,PUNJAB,Multan,Beans(mash),pulses and nuts,218.23,162.77610033927883
 2021-08-15,PUNJAB,Lahore,Fuel (petrol-gasoline),non-food,120.29,121.3552608545288
-2021-08-15,SINDH,Karachi,Lentils (masur),pulses and nuts,158.99,105.35364824926349
+2021-08-15,SINDH,Karachi,Lentils (masur),pulses and nuts,158.99,105.35364824926339
 2021-08-15,SINDH,Karachi,Beans(mash),pulses and nuts,237.23,166.73394762238445
-2021-08-15,SINDH,Karachi,Oil (cooking),oil and fats,336.93,196.37230336479385
-2021-08-15,SINDH,Karachi,Ghee (artificial),oil and fats,340.41,192.7123422669976
+2021-08-15,SINDH,Karachi,Oil (cooking),oil and fats,336.93,196.37230336479382
+2021-08-15,SINDH,Karachi,Ghee (artificial),oil and fats,340.41,192.71234226699778
 2021-08-15,SINDH,Karachi,"Wage (non-qualified labour, non-agricultural)",non-food,1000.0,1059.2849011954513
 2021-08-15,SINDH,Karachi,Fuel (petrol-gasoline),non-food,120.3,121.85232555400724
 2021-08-15,PUNJAB,Multan,Oil (cooking),oil and fats,318.18,195.62416612759952
 2021-08-15,SINDH,Karachi,Fuel (diesel),non-food,117.06,113.20865595848136
-2021-08-15,SINDH,Karachi,Milk,milk and dairy,128.74,102.36710858134838
+2021-08-15,SINDH,Karachi,Milk,milk and dairy,128.74,102.36710858134836
 2021-08-15,SINDH,Karachi,Eggs,"meat, fish and eggs",163.28,111.24887392427301
 2021-08-15,SINDH,Karachi,Wheat flour,cereals and tubers,62.77,68.27446766519952
 2021-08-15,SINDH,Karachi,Wheat,cereals and tubers,56.0,52.514714805524505
 2021-08-15,SINDH,Karachi,"Rice (basmati, broken)",cereals and tubers,116.19,132.72226495636994
-2021-08-15,PUNJAB,Multan,Lentils (moong),pulses and nuts,153.97,119.97120456008857
-2021-08-15,PUNJAB,Multan,Lentils (masur),pulses and nuts,150.83,100.66421615279486
+2021-08-15,PUNJAB,Multan,Lentils (moong),pulses and nuts,153.97,119.97120456008855
+2021-08-15,PUNJAB,Multan,Lentils (masur),pulses and nuts,150.83,100.66421615279476
 2021-08-15,SINDH,Karachi,Sugar,miscellaneous food,107.71,70.12521831033274
 2021-08-15,SINDH,Karachi,Lentils (moong),pulses and nuts,210.09,136.8924121445898
 2021-08-15,PUNJAB,Lahore,Fuel (diesel),non-food,117.1,112.8692766852184
-2021-08-15,PUNJAB,Lahore,Milk,milk and dairy,101.83,87.97316991418127
+2021-08-15,PUNJAB,Lahore,Milk,milk and dairy,101.83,87.97316991418126
 2021-08-15,BALOCHISTAN,Quetta,Lentils (moong),pulses and nuts,229.85,149.73728409972466
-2021-08-15,BALOCHISTAN,Quetta,Lentils (masur),pulses and nuts,174.95,118.53906486423918
+2021-08-15,BALOCHISTAN,Quetta,Lentils (masur),pulses and nuts,174.95,118.53906486423907
 2021-08-15,BALOCHISTAN,Quetta,Beans(mash),pulses and nuts,274.97,205.6470063039296
 2021-08-15,BALOCHISTAN,Quetta,Oil (cooking),oil and fats,333.0,191.94647824322462
 2021-08-15,BALOCHISTAN,Quetta,Ghee (artificial),oil and fats,326.96,189.74696889660373
@@ -1499,12 +1499,12 @@ date,admin1,market,commodity,category,price,price_pred
 2021-08-15,BALOCHISTAN,Quetta,Poultry,"meat, fish and eggs",179.88,190.6898953219316
 2021-08-15,BALOCHISTAN,Quetta,Eggs,"meat, fish and eggs",173.65,116.28364587268828
 2021-08-15,BALOCHISTAN,Quetta,Wheat,cereals and tubers,59.5,47.74701865739757
-2021-08-15,BALOCHISTAN,Quetta,Rice (coarse),cereals and tubers,89.91,73.02210956530708
+2021-08-15,BALOCHISTAN,Quetta,Rice (coarse),cereals and tubers,89.91,73.02210956530715
 2021-08-15,BALOCHISTAN,Quetta,"Rice (basmati, broken)",cereals and tubers,104.92,143.731483556724
 2021-08-15,PUNJAB,Lahore,Sugar,miscellaneous food,106.23,71.11963952140825
 2021-08-15,KHYBER PAKHTUNKHWA,Peshawar,"Rice (basmati, broken)",cereals and tubers,100.0,131.9906688497836
 2021-08-15,KHYBER PAKHTUNKHWA,Peshawar,Wheat,cereals and tubers,50.22,50.46665163546939
-2021-08-15,BALOCHISTAN,Quetta,"Wage (non-qualified labour, non-agricultural)",non-food,1097.0,919.5942090346332
+2021-08-15,BALOCHISTAN,Quetta,"Wage (non-qualified labour, non-agricultural)",non-food,1097.0,919.5942090346331
 2021-08-15,KHYBER PAKHTUNKHWA,Peshawar,Eggs,"meat, fish and eggs",158.29,110.48283872904162
 2021-08-15,KHYBER PAKHTUNKHWA,Peshawar,Wheat flour,cereals and tubers,56.2,61.56995169701043
 2021-08-15,PUNJAB,Lahore,Eggs,"meat, fish and eggs",154.21,103.81400736299167
@@ -1514,16 +1514,16 @@ date,admin1,market,commodity,category,price,price_pred
 2021-08-15,KHYBER PAKHTUNKHWA,Peshawar,Lentils (moong),pulses and nuts,180.0,121.0880546395817
 2021-08-15,KHYBER PAKHTUNKHWA,Peshawar,Lentils (masur),pulses and nuts,156.25,92.97212745669522
 2021-08-15,KHYBER PAKHTUNKHWA,Peshawar,Beans(mash),pulses and nuts,256.66,167.6898633772014
-2021-08-15,PUNJAB,Lahore,Poultry,"meat, fish and eggs",141.43,142.0558112302691
+2021-08-15,PUNJAB,Lahore,Poultry,"meat, fish and eggs",141.43,142.05581123026906
 2021-08-15,KHYBER PAKHTUNKHWA,Peshawar,Ghee (artificial),oil and fats,350.0,189.96722697788522
-2021-08-15,KHYBER PAKHTUNKHWA,Peshawar,"Wage (non-qualified labour, non-agricultural)",non-food,800.0,777.5550530900484
+2021-08-15,KHYBER PAKHTUNKHWA,Peshawar,"Wage (non-qualified labour, non-agricultural)",non-food,800.0,777.5550530900491
 2021-08-15,KHYBER PAKHTUNKHWA,Peshawar,Fuel (petrol-gasoline),non-food,120.29,121.45997236093686
 2021-08-15,KHYBER PAKHTUNKHWA,Peshawar,Fuel (diesel),non-food,117.0,112.5494203414097
 2021-08-15,KHYBER PAKHTUNKHWA,Peshawar,Sugar,miscellaneous food,103.83,70.39002204593675
 2021-08-15,KHYBER PAKHTUNKHWA,Peshawar,Milk,milk and dairy,126.48,101.5602535023033
 2021-08-15,KHYBER PAKHTUNKHWA,Peshawar,Poultry,"meat, fish and eggs",162.01,164.95481549684342
 2021-08-15,KHYBER PAKHTUNKHWA,Peshawar,Oil (cooking),oil and fats,346.0,192.8408594434858
-2021-09-15,PUNJAB,Multan,"Wage (non-qualified labour, non-agricultural)",non-food,800.0,753.9500409882652
+2021-09-15,PUNJAB,Multan,"Wage (non-qualified labour, non-agricultural)",non-food,800.0,753.9500409882645
 2021-09-15,PUNJAB,Multan,Fuel (petrol-gasoline),non-food,121.83,119.63574907146965
 2021-09-15,PUNJAB,Multan,Fuel (diesel),non-food,118.58,110.92933050684721
 2021-09-15,PUNJAB,Multan,Sugar,miscellaneous food,106.36,67.9148538448346
@@ -1540,13 +1540,13 @@ date,admin1,market,commodity,category,price,price_pred
 2021-09-15,PUNJAB,Multan,Ghee (artificial),oil and fats,351.54,191.4698383771516
 2021-09-15,PUNJAB,Multan,Wheat flour,cereals and tubers,57.32,58.80702620355483
 2021-09-15,PUNJAB,Multan,Oil (cooking),oil and fats,346.82,195.14888658540713
-2021-09-15,PUNJAB,Lahore,"Wage (non-qualified labour, non-agricultural)",non-food,1000.0,975.7377129884876
+2021-09-15,PUNJAB,Lahore,"Wage (non-qualified labour, non-agricultural)",non-food,1000.0,975.7377129884867
 2021-09-15,PUNJAB,Multan,Beans(mash),pulses and nuts,225.6,158.35099281533786
 2021-09-15,SINDH,Karachi,Lentils (masur),pulses and nuts,184.82,104.20133500647326
 2021-09-15,SINDH,Karachi,Beans(mash),pulses and nuts,243.53,161.29158812710062
 2021-09-15,SINDH,Karachi,Oil (cooking),oil and fats,349.0,196.5196631166723
 2021-09-15,SINDH,Karachi,Ghee (artificial),oil and fats,354.0,193.02842652489554
-2021-09-15,SINDH,Karachi,"Wage (non-qualified labour, non-agricultural)",non-food,1028.0,1059.0731842120629
+2021-09-15,SINDH,Karachi,"Wage (non-qualified labour, non-agricultural)",non-food,1028.0,1059.073184212062
 2021-09-15,SINDH,Karachi,Fuel (petrol-gasoline),non-food,121.77,119.51959684724255
 2021-09-15,SINDH,Karachi,Fuel (diesel),non-food,118.52,110.61339680788618
 2021-09-15,SINDH,Karachi,Lentils (moong),pulses and nuts,205.61,134.3863734124398
@@ -1567,7 +1567,7 @@ date,admin1,market,commodity,category,price,price_pred
 2021-09-15,BALOCHISTAN,Quetta,Beans(mash),pulses and nuts,274.97,205.63015530434055
 2021-09-15,BALOCHISTAN,Quetta,Oil (cooking),oil and fats,342.51,192.2074531950983
 2021-09-15,BALOCHISTAN,Quetta,Ghee (artificial),oil and fats,346.69,189.7807015188952
-2021-09-15,BALOCHISTAN,Quetta,"Wage (non-qualified labour, non-agricultural)",non-food,1097.0,933.4683054964662
+2021-09-15,BALOCHISTAN,Quetta,"Wage (non-qualified labour, non-agricultural)",non-food,1097.0,933.4683054964653
 2021-09-15,BALOCHISTAN,Quetta,Fuel (petrol-gasoline),non-food,121.81,120.0712578071929
 2021-09-15,BALOCHISTAN,Quetta,Fuel (diesel),non-food,118.52,110.50107875188976
 2021-09-15,BALOCHISTAN,Quetta,Sugar,miscellaneous food,109.6,70.16108346050885
@@ -1583,7 +1583,7 @@ date,admin1,market,commodity,category,price,price_pred
 2021-09-15,KHYBER PAKHTUNKHWA,Peshawar,Poultry,"meat, fish and eggs",210.25,149.2291479455185
 2021-09-15,KHYBER PAKHTUNKHWA,Peshawar,Eggs,"meat, fish and eggs",173.81,107.8953696165415
 2021-09-15,PUNJAB,Lahore,Milk,milk and dairy,101.92,88.55829180801396
-2021-09-15,PUNJAB,Lahore,Poultry,"meat, fish and eggs",192.97,127.57714632124552
+2021-09-15,PUNJAB,Lahore,Poultry,"meat, fish and eggs",192.97,127.57714632124564
 2021-09-15,PUNJAB,Lahore,Eggs,"meat, fish and eggs",175.11,101.36421239197057
 2021-09-15,PUNJAB,Lahore,Wheat flour,cereals and tubers,57.99,60.250425777562164
 2021-09-15,PUNJAB,Lahore,"Rice (basmati, broken)",cereals and tubers,89.64,127.97331690329183
@@ -1592,14 +1592,14 @@ date,admin1,market,commodity,category,price,price_pred
 2021-09-15,PUNJAB,Lahore,Wheat,cereals and tubers,55.75,49.65070595947544
 2021-09-15,KHYBER PAKHTUNKHWA,Peshawar,Oil (cooking),oil and fats,347.8,193.43819786344974
 2021-09-15,KHYBER PAKHTUNKHWA,Peshawar,Ghee (artificial),oil and fats,350.8,190.43582919204613
-2021-09-15,KHYBER PAKHTUNKHWA,Peshawar,"Wage (non-qualified labour, non-agricultural)",non-food,800.0,788.3357355334645
+2021-09-15,KHYBER PAKHTUNKHWA,Peshawar,"Wage (non-qualified labour, non-agricultural)",non-food,800.0,788.3357355334638
 2021-09-15,KHYBER PAKHTUNKHWA,Peshawar,Fuel (petrol-gasoline),non-food,121.77,119.38241774941929
 2021-09-15,KHYBER PAKHTUNKHWA,Peshawar,Fuel (diesel),non-food,118.53,110.5441492002662
 2021-09-15,KHYBER PAKHTUNKHWA,Peshawar,Sugar,miscellaneous food,106.85,70.3744273440166
-2021-09-15,KHYBER PAKHTUNKHWA,Peshawar,Milk,milk and dairy,126.48,101.8537902505684
+2021-09-15,KHYBER PAKHTUNKHWA,Peshawar,Milk,milk and dairy,126.48,101.85379025056838
 2021-09-15,KHYBER PAKHTUNKHWA,Peshawar,Beans(mash),pulses and nuts,251.32,161.95452557842071
 2021-10-15,PUNJAB,Multan,Poultry,"meat, fish and eggs",243.23,153.23122076558158
-2021-10-15,PUNJAB,Multan,"Wage (non-qualified labour, non-agricultural)",non-food,800.0,769.7362575571503
+2021-10-15,PUNJAB,Multan,"Wage (non-qualified labour, non-agricultural)",non-food,800.0,769.7362575571502
 2021-10-15,PUNJAB,Multan,Fuel (petrol-gasoline),non-food,132.97,120.84798235221011
 2021-10-15,PUNJAB,Multan,Fuel (diesel),non-food,128.65,110.99601020371175
 2021-10-15,PUNJAB,Multan,Sugar,miscellaneous food,95.02,67.28635945637366
@@ -1607,13 +1607,13 @@ date,admin1,market,commodity,category,price,price_pred
 2021-10-15,PUNJAB,Multan,Eggs,"meat, fish and eggs",160.67,112.21197699506497
 2021-10-15,PUNJAB,Lahore,Ghee (artificial),oil and fats,357.93,189.0995507198702
 2021-10-15,PUNJAB,Multan,Wheat,cereals and tubers,55.79,48.75198685737298
-2021-10-15,PUNJAB,Multan,"Rice (basmati, broken)",cereals and tubers,100.87,133.91009995971453
+2021-10-15,PUNJAB,Multan,"Rice (basmati, broken)",cereals and tubers,100.87,133.91009995971464
 2021-10-15,PUNJAB,Lahore,Lentils (moong),pulses and nuts,176.6,133.94669675212106
 2021-10-15,PUNJAB,Lahore,Lentils (masur),pulses and nuts,185.62,121.40168544579257
 2021-10-15,PUNJAB,Lahore,Beans(mash),pulses and nuts,277.46,188.34357292466308
 2021-10-15,PUNJAB,Lahore,Oil (cooking),oil and fats,352.69,192.2363188573336
-2021-10-15,PUNJAB,Multan,Ghee (artificial),oil and fats,354.0,190.5405649997759
-2021-10-15,PUNJAB,Multan,Wheat flour,cereals and tubers,55.0,60.38659574652247
+2021-10-15,PUNJAB,Multan,Ghee (artificial),oil and fats,354.0,190.54056499977608
+2021-10-15,PUNJAB,Multan,Wheat flour,cereals and tubers,55.0,60.38659574652246
 2021-10-15,PUNJAB,Multan,Oil (cooking),oil and fats,349.0,194.01070507638664
 2021-10-15,SINDH,Karachi,Milk,milk and dairy,129.37,104.53001111976171
 2021-10-15,PUNJAB,Multan,Lentils (masur),pulses and nuts,166.29,98.9684470124255
@@ -1631,7 +1631,7 @@ date,admin1,market,commodity,category,price,price_pred
 2021-10-15,SINDH,Karachi,Eggs,"meat, fish and eggs",177.96,115.72028854317952
 2021-10-15,SINDH,Karachi,Wheat flour,cereals and tubers,73.41,70.4297025361857
 2021-10-15,SINDH,Karachi,Wheat,cereals and tubers,64.17,53.846472344312986
-2021-10-15,SINDH,Karachi,"Rice (basmati, broken)",cereals and tubers,116.65,131.6068291225223
+2021-10-15,SINDH,Karachi,"Rice (basmati, broken)",cereals and tubers,116.65,131.6068291225224
 2021-10-15,PUNJAB,Multan,Lentils (moong),pulses and nuts,138.69,117.96978615781336
 2021-10-15,SINDH,Karachi,Fuel (diesel),non-food,128.61,110.6998433658741
 2021-10-15,PUNJAB,Lahore,Fuel (petrol-gasoline),non-food,132.88,120.53546921612569
@@ -1651,7 +1651,7 @@ date,admin1,market,commodity,category,price,price_pred
 2021-10-15,BALOCHISTAN,Quetta,Poultry,"meat, fish and eggs",291.25,175.6457053265631
 2021-10-15,BALOCHISTAN,Quetta,Eggs,"meat, fish and eggs",188.59,126.36021108508476
 2021-10-15,BALOCHISTAN,Quetta,Wheat,cereals and tubers,60.71,48.44356913580959
-2021-10-15,BALOCHISTAN,Quetta,Rice (coarse),cereals and tubers,89.91,73.99681283583439
+2021-10-15,BALOCHISTAN,Quetta,Rice (coarse),cereals and tubers,89.91,73.99681283583438
 2021-10-15,KHYBER PAKHTUNKHWA,Peshawar,Wheat,cereals and tubers,58.16,53.12067452681072
 2021-10-15,KHYBER PAKHTUNKHWA,Peshawar,Wheat flour,cereals and tubers,57.98,64.2011249850091
 2021-10-15,BALOCHISTAN,Quetta,"Rice (basmati, broken)",cereals and tubers,104.92,145.10220460035808
@@ -1675,7 +1675,7 @@ date,admin1,market,commodity,category,price,price_pred
 2021-10-15,KHYBER PAKHTUNKHWA,Peshawar,Beans(mash),pulses and nuts,250.0,166.2841310971094
 2021-11-15,PUNJAB,Multan,Milk,milk and dairy,102.14,94.37134537236464
 2021-11-15,PUNJAB,Multan,Ghee (artificial),oil and fats,380.04,190.9770704885143
-2021-11-15,PUNJAB,Multan,"Wage (non-qualified labour, non-agricultural)",non-food,800.0,788.6508114051483
+2021-11-15,PUNJAB,Multan,"Wage (non-qualified labour, non-agricultural)",non-food,800.0,788.6508114051476
 2021-11-15,PUNJAB,Multan,Fuel (petrol-gasoline),non-food,144.29,124.21626463655582
 2021-11-15,PUNJAB,Multan,Fuel (diesel),non-food,141.04,112.2353964958173
 2021-11-15,PUNJAB,Multan,Sugar,miscellaneous food,90.0,66.48365576221974
@@ -1688,7 +1688,7 @@ date,admin1,market,commodity,category,price,price_pred
 2021-11-15,PUNJAB,Lahore,Lentils (masur),pulses and nuts,201.89,120.60954444673547
 2021-11-15,PUNJAB,Lahore,Beans(mash),pulses and nuts,279.05,190.36236221206067
 2021-11-15,PUNJAB,Multan,Oil (cooking),oil and fats,379.19,194.47220681675614
-2021-11-15,PUNJAB,Multan,Eggs,"meat, fish and eggs",176.4,126.4965556616367
+2021-11-15,PUNJAB,Multan,Eggs,"meat, fish and eggs",176.4,126.49655566163669
 2021-11-15,PUNJAB,Multan,Beans(mash),pulses and nuts,229.32,170.01721618994338
 2021-11-15,SINDH,Karachi,Milk,milk and dairy,135.97,104.63730544772977
 2021-11-15,PUNJAB,Multan,Lentils (moong),pulses and nuts,139.82,121.47362985302667
@@ -1697,8 +1697,8 @@ date,admin1,market,commodity,category,price,price_pred
 2021-11-15,SINDH,Karachi,Lentils (masur),pulses and nuts,191.34,104.34139341202513
 2021-11-15,SINDH,Karachi,Beans(mash),pulses and nuts,247.21,166.4208074017771
 2021-11-15,SINDH,Karachi,Oil (cooking),oil and fats,399.44,195.58134380993414
-2021-11-15,SINDH,Karachi,Ghee (artificial),oil and fats,398.15,192.0028291142993
-2021-11-15,SINDH,Karachi,"Wage (non-qualified labour, non-agricultural)",non-food,1181.0,1084.7496790931716
+2021-11-15,SINDH,Karachi,Ghee (artificial),oil and fats,398.15,192.00282911429946
+2021-11-15,SINDH,Karachi,"Wage (non-qualified labour, non-agricultural)",non-food,1181.0,1084.7496790931707
 2021-11-15,PUNJAB,Multan,Lentils (masur),pulses and nuts,173.25,100.95087305648805
 2021-11-15,SINDH,Karachi,Fuel (petrol-gasoline),non-food,144.25,124.17069290089597
 2021-11-15,SINDH,Karachi,Sugar,miscellaneous food,115.93,68.85282697364805
@@ -1710,7 +1710,7 @@ date,admin1,market,commodity,category,price,price_pred
 2021-11-15,SINDH,Karachi,"Rice (basmati, broken)",cereals and tubers,116.8,132.1152620707261
 2021-11-15,SINDH,Karachi,Fuel (diesel),non-food,141.06,112.26669283644841
 2021-11-15,PUNJAB,Lahore,Fuel (petrol-gasoline),non-food,144.24,123.96331084200864
-2021-11-15,PUNJAB,Lahore,"Wage (non-qualified labour, non-agricultural)",non-food,1000.0,1003.0870003992276
+2021-11-15,PUNJAB,Lahore,"Wage (non-qualified labour, non-agricultural)",non-food,1000.0,1003.0870003992268
 2021-11-15,PUNJAB,Lahore,Sugar,miscellaneous food,90.0,69.53864125525945
 2021-11-15,KHYBER PAKHTUNKHWA,Peshawar,Wheat,cereals and tubers,56.58,54.476035464804404
 2021-11-15,KHYBER PAKHTUNKHWA,Peshawar,"Rice (basmati, broken)",cereals and tubers,95.0,133.5416865007649
@@ -1720,7 +1720,7 @@ date,admin1,market,commodity,category,price,price_pred
 2021-11-15,BALOCHISTAN,Quetta,Oil (cooking),oil and fats,399.44,190.60382684930465
 2021-11-15,BALOCHISTAN,Quetta,Ghee (artificial),oil and fats,388.54,188.12821461922664
 2021-11-15,KHYBER PAKHTUNKHWA,Peshawar,Wheat flour,cereals and tubers,55.42,65.46125112765066
-2021-11-15,BALOCHISTAN,Quetta,"Wage (non-qualified labour, non-agricultural)",non-food,1097.0,937.033629666634
+2021-11-15,BALOCHISTAN,Quetta,"Wage (non-qualified labour, non-agricultural)",non-food,1097.0,937.0336296666333
 2021-11-15,BALOCHISTAN,Quetta,Fuel (diesel),non-food,141.05,112.28426087952231
 2021-11-15,BALOCHISTAN,Quetta,Sugar,miscellaneous food,118.95,69.0470724338796
 2021-11-15,BALOCHISTAN,Quetta,Milk,milk and dairy,120.0,109.4562008200269
@@ -1735,22 +1735,22 @@ date,admin1,market,commodity,category,price,price_pred
 2021-11-15,KHYBER PAKHTUNKHWA,Peshawar,Poultry,"meat, fish and eggs",245.73,160.58685021932456
 2021-11-15,PUNJAB,Lahore,Milk,milk and dairy,102.3,89.67553974076037
 2021-11-15,PUNJAB,Lahore,Poultry,"meat, fish and eggs",231.21,142.5416577954706
-2021-11-15,PUNJAB,Lahore,Eggs,"meat, fish and eggs",182.22,124.95529077816006
+2021-11-15,PUNJAB,Lahore,Eggs,"meat, fish and eggs",182.22,124.95529077816005
 2021-11-15,PUNJAB,Lahore,Wheat flour,cereals and tubers,55.0,62.490329542943556
-2021-11-15,PUNJAB,Lahore,Wheat,cereals and tubers,61.46,51.73007720745445
+2021-11-15,PUNJAB,Lahore,Wheat,cereals and tubers,61.46,51.73007720745444
 2021-11-15,PUNJAB,Lahore,"Rice (basmati, broken)",cereals and tubers,93.34,127.32593861234513
 2021-11-15,KHYBER PAKHTUNKHWA,Peshawar,Lentils (moong),pulses and nuts,145.0,118.05155163331042
 2021-11-15,PUNJAB,Lahore,Fuel (diesel),non-food,141.04,111.98972923001885
 2021-11-15,KHYBER PAKHTUNKHWA,Peshawar,Beans(mash),pulses and nuts,250.82,169.46027258454853
 2021-11-15,KHYBER PAKHTUNKHWA,Peshawar,Oil (cooking),oil and fats,384.25,192.7612298923762
 2021-11-15,KHYBER PAKHTUNKHWA,Peshawar,Ghee (artificial),oil and fats,365.93,189.84649473002702
-2021-11-15,KHYBER PAKHTUNKHWA,Peshawar,"Wage (non-qualified labour, non-agricultural)",non-food,800.0,802.4196263510157
+2021-11-15,KHYBER PAKHTUNKHWA,Peshawar,"Wage (non-qualified labour, non-agricultural)",non-food,800.0,802.419626351015
 2021-11-15,KHYBER PAKHTUNKHWA,Peshawar,Fuel (petrol-gasoline),non-food,144.24,123.70371623994525
 2021-11-15,KHYBER PAKHTUNKHWA,Peshawar,Fuel (diesel),non-food,141.04,111.87530510878142
 2021-11-15,KHYBER PAKHTUNKHWA,Peshawar,Lentils (masur),pulses and nuts,180.0,92.11771308975828
 2021-11-15,KHYBER PAKHTUNKHWA,Peshawar,Sugar,miscellaneous food,99.17,68.76834234222122
 2021-12-15,PUNJAB,Multan,Fuel (petrol-gasoline),non-food,143.33,130.49739582932438
-2021-12-15,PUNJAB,Multan,Fuel (diesel),non-food,140.11,111.00273934914398
+2021-12-15,PUNJAB,Multan,Fuel (diesel),non-food,140.11,111.00273934914408
 2021-12-15,PUNJAB,Multan,Sugar,miscellaneous food,89.87,64.01751226824594
 2021-12-15,PUNJAB,Multan,Milk,milk and dairy,102.14,94.17590343357288
 2021-12-15,PUNJAB,Multan,Poultry,"meat, fish and eggs",198.39,161.9471934025792
@@ -1758,24 +1758,24 @@ date,admin1,market,commodity,category,price,price_pred
 2021-12-15,PUNJAB,Multan,Wheat flour,cereals and tubers,55.0,61.877796373253496
 2021-12-15,PUNJAB,Lahore,Lentils (moong),pulses and nuts,176.6,131.88704790622697
 2021-12-15,PUNJAB,Multan,"Rice (basmati, broken)",cereals and tubers,103.14,133.80884154590825
-2021-12-15,PUNJAB,Multan,"Wage (non-qualified labour, non-agricultural)",non-food,800.0,790.2383860284161
+2021-12-15,PUNJAB,Multan,"Wage (non-qualified labour, non-agricultural)",non-food,800.0,790.2383860284154
 2021-12-15,PUNJAB,Lahore,Lentils (masur),pulses and nuts,212.33,120.35795593478318
 2021-12-15,PUNJAB,Lahore,Beans(mash),pulses and nuts,294.26,198.25281189102446
 2021-12-15,PUNJAB,Lahore,Oil (cooking),oil and fats,412.0,195.0312754523537
 2021-12-15,PUNJAB,Lahore,Ghee (artificial),oil and fats,408.0,192.56471263490855
-2021-12-15,PUNJAB,Lahore,"Wage (non-qualified labour, non-agricultural)",non-food,1000.0,1009.6032222973729
+2021-12-15,PUNJAB,Lahore,"Wage (non-qualified labour, non-agricultural)",non-food,1000.0,1009.603222297372
 2021-12-15,PUNJAB,Lahore,Fuel (petrol-gasoline),non-food,143.29,130.36511058192787
 2021-12-15,PUNJAB,Multan,Wheat,cereals and tubers,57.25,51.13373336606888
 2021-12-15,PUNJAB,Multan,Ghee (artificial),oil and fats,408.0,191.8380603565331
-2021-12-15,PUNJAB,Multan,Lentils (moong),pulses and nuts,156.71,123.13562132293028
+2021-12-15,PUNJAB,Multan,Lentils (moong),pulses and nuts,156.71,123.13562132293026
 2021-12-15,PUNJAB,Multan,Beans(mash),pulses and nuts,249.25,178.5498168765129
 2021-12-15,SINDH,Karachi,Lentils (moong),pulses and nuts,197.51,135.75063008963266
-2021-12-15,PUNJAB,Lahore,Fuel (diesel),non-food,140.11,111.04872843652211
+2021-12-15,PUNJAB,Lahore,Fuel (diesel),non-food,140.11,111.04872843652221
 2021-12-15,SINDH,Karachi,Lentils (masur),pulses and nuts,208.31,104.00527002378945
-2021-12-15,SINDH,Karachi,Beans(mash),pulses and nuts,261.25,170.12740093114962
+2021-12-15,SINDH,Karachi,Beans(mash),pulses and nuts,261.25,170.1274009311498
 2021-12-15,SINDH,Karachi,Oil (cooking),oil and fats,412.0,195.92149306261823
-2021-12-15,SINDH,Karachi,Ghee (artificial),oil and fats,408.0,192.7437547069651
-2021-12-15,SINDH,Karachi,"Wage (non-qualified labour, non-agricultural)",non-food,1181.0,1079.6258132370176
+2021-12-15,SINDH,Karachi,Ghee (artificial),oil and fats,408.0,192.74375470696526
+2021-12-15,SINDH,Karachi,"Wage (non-qualified labour, non-agricultural)",non-food,1181.0,1079.6258132370167
 2021-12-15,PUNJAB,Multan,Oil (cooking),oil and fats,412.0,194.7117834612041
 2021-12-15,SINDH,Karachi,Fuel (petrol-gasoline),non-food,143.3,128.875614728546
 2021-12-15,SINDH,Karachi,Sugar,miscellaneous food,95.02,67.16491041912799
@@ -1785,17 +1785,17 @@ date,admin1,market,commodity,category,price,price_pred
 2021-12-15,SINDH,Karachi,Wheat,cereals and tubers,66.0,55.79867046740425
 2021-12-15,SINDH,Karachi,"Rice (basmati, broken)",cereals and tubers,116.8,132.03893970483674
 2021-12-15,PUNJAB,Multan,Lentils (masur),pulses and nuts,191.69,102.03969013733716
-2021-12-15,SINDH,Karachi,Fuel (diesel),non-food,140.12,111.64809756976646
+2021-12-15,SINDH,Karachi,Fuel (diesel),non-food,140.12,111.64809756976656
 2021-12-15,SINDH,Karachi,Poultry,"meat, fish and eggs",237.18,178.8370160791047
 2021-12-15,PUNJAB,Lahore,Sugar,miscellaneous food,91.79,67.28001587843373
-2021-12-15,PUNJAB,Lahore,Poultry,"meat, fish and eggs",184.93,149.91229082656335
+2021-12-15,PUNJAB,Lahore,Poultry,"meat, fish and eggs",184.93,149.9122908265635
 2021-12-15,BALOCHISTAN,Quetta,Lentils (moong),pulses and nuts,214.77,151.80103786062685
 2021-12-15,BALOCHISTAN,Quetta,Lentils (masur),pulses and nuts,196.61,117.44568074500859
 2021-12-15,BALOCHISTAN,Quetta,Beans(mash),pulses and nuts,292.87,215.5885362991984
 2021-12-15,BALOCHISTAN,Quetta,Oil (cooking),oil and fats,412.0,191.90207547047083
 2021-12-15,BALOCHISTAN,Quetta,Ghee (artificial),oil and fats,408.0,189.4252745325603
-2021-12-15,BALOCHISTAN,Quetta,"Wage (non-qualified labour, non-agricultural)",non-food,1097.0,930.1396486831915
-2021-12-15,BALOCHISTAN,Quetta,Fuel (diesel),non-food,140.11,111.33841003786819
+2021-12-15,BALOCHISTAN,Quetta,"Wage (non-qualified labour, non-agricultural)",non-food,1097.0,930.1396486831907
+2021-12-15,BALOCHISTAN,Quetta,Fuel (diesel),non-food,140.11,111.33841003786829
 2021-12-15,KHYBER PAKHTUNKHWA,Peshawar,"Rice (basmati, broken)",cereals and tubers,101.88,134.04501250451827
 2021-12-15,BALOCHISTAN,Quetta,Sugar,miscellaneous food,94.93,66.8638339917367
 2021-12-15,BALOCHISTAN,Quetta,Poultry,"meat, fish and eggs",217.12,186.3640147456579
@@ -1815,20 +1815,20 @@ date,admin1,market,commodity,category,price,price_pred
 2021-12-15,PUNJAB,Lahore,"Rice (basmati, broken)",cereals and tubers,97.93,125.60080735083778
 2021-12-15,KHYBER PAKHTUNKHWA,Peshawar,Lentils (moong),pulses and nuts,144.6,117.14280053501002
 2021-12-15,KHYBER PAKHTUNKHWA,Peshawar,Lentils (masur),pulses and nuts,201.74,93.35939729234629
-2021-12-15,KHYBER PAKHTUNKHWA,Peshawar,Beans(mash),pulses and nuts,264.06,175.56917383013916
-2021-12-15,KHYBER PAKHTUNKHWA,Peshawar,Oil (cooking),oil and fats,409.4,192.57766770304494
+2021-12-15,KHYBER PAKHTUNKHWA,Peshawar,Beans(mash),pulses and nuts,264.06,175.56917383013914
+2021-12-15,KHYBER PAKHTUNKHWA,Peshawar,Oil (cooking),oil and fats,409.4,192.5776677030449
 2021-12-15,PUNJAB,Lahore,Eggs,"meat, fish and eggs",181.71,127.50484453677399
-2021-12-15,KHYBER PAKHTUNKHWA,Peshawar,"Wage (non-qualified labour, non-agricultural)",non-food,800.0,816.0900349231292
-2021-12-15,KHYBER PAKHTUNKHWA,Peshawar,Fuel (petrol-gasoline),non-food,143.28,129.70643289923242
-2021-12-15,KHYBER PAKHTUNKHWA,Peshawar,Fuel (diesel),non-food,140.1,110.84623495840934
+2021-12-15,KHYBER PAKHTUNKHWA,Peshawar,"Wage (non-qualified labour, non-agricultural)",non-food,800.0,816.0900349231284
+2021-12-15,KHYBER PAKHTUNKHWA,Peshawar,Fuel (petrol-gasoline),non-food,143.28,129.70643289923254
+2021-12-15,KHYBER PAKHTUNKHWA,Peshawar,Fuel (diesel),non-food,140.1,110.84623495840944
 2021-12-15,KHYBER PAKHTUNKHWA,Peshawar,Sugar,miscellaneous food,91.39,66.45098946448326
-2021-12-15,KHYBER PAKHTUNKHWA,Peshawar,Milk,milk and dairy,132.67,100.41919087727072
+2021-12-15,KHYBER PAKHTUNKHWA,Peshawar,Milk,milk and dairy,132.67,100.41919087727071
 2021-12-15,KHYBER PAKHTUNKHWA,Peshawar,Poultry,"meat, fish and eggs",199.33,165.84419111427448
 2021-12-15,KHYBER PAKHTUNKHWA,Peshawar,Eggs,"meat, fish and eggs",185.55,135.35426460265134
 2021-12-15,KHYBER PAKHTUNKHWA,Peshawar,Ghee (artificial),oil and fats,392.35,190.46187814789656
 2022-01-15,PUNJAB,Multan,"Wage (non-qualified labour, non-agricultural)",non-food,800.0,792.5908152042001
-2022-01-15,PUNJAB,Multan,Fuel (petrol-gasoline),non-food,146.85,124.70291582430238
-2022-01-15,PUNJAB,Multan,Fuel (diesel),non-food,143.63,111.19880207408482
+2022-01-15,PUNJAB,Multan,Fuel (petrol-gasoline),non-food,146.85,124.70291582430237
+2022-01-15,PUNJAB,Multan,Fuel (diesel),non-food,143.63,111.19880207408481
 2022-01-15,PUNJAB,Multan,Sugar,miscellaneous food,89.72,62.68790950268444
 2022-01-15,PUNJAB,Multan,Milk,milk and dairy,105.16,94.21992595409796
 2022-01-15,PUNJAB,Multan,Poultry,"meat, fish and eggs",187.04,168.1759384099689
@@ -1838,10 +1838,10 @@ date,admin1,market,commodity,category,price,price_pred
 2022-01-15,PUNJAB,Multan,"Rice (basmati, broken)",cereals and tubers,104.33,137.124851687205
 2022-01-15,PUNJAB,Lahore,Lentils (moong),pulses and nuts,176.6,123.03843524487695
 2022-01-15,PUNJAB,Lahore,Beans(mash),pulses and nuts,297.49,183.33894959812903
-2022-01-15,PUNJAB,Lahore,Oil (cooking),oil and fats,412.0,192.28054808204905
+2022-01-15,PUNJAB,Lahore,Oil (cooking),oil and fats,412.0,192.28054808204902
 2022-01-15,PUNJAB,Lahore,Ghee (artificial),oil and fats,408.0,190.59044459733312
 2022-01-15,PUNJAB,Lahore,"Wage (non-qualified labour, non-agricultural)",non-food,1000.0,1012.4474552115382
-2022-01-15,SINDH,Karachi,Lentils (moong),pulses and nuts,199.8,122.63278388917237
+2022-01-15,SINDH,Karachi,Lentils (moong),pulses and nuts,199.8,122.63278388917236
 2022-01-15,PUNJAB,Multan,Wheat,cereals and tubers,57.25,51.17484642753281
 2022-01-15,PUNJAB,Multan,Ghee (artificial),oil and fats,408.0,189.94792730703887
 2022-01-15,PUNJAB,Lahore,Fuel (petrol-gasoline),non-food,146.79,124.70313981436404
@@ -1854,11 +1854,11 @@ date,admin1,market,commodity,category,price,price_pred
 2022-01-15,SINDH,Karachi,Fuel (petrol-gasoline),non-food,146.81,123.80088542896348
 2022-01-15,SINDH,Karachi,Fuel (diesel),non-food,143.62,110.20684307862561
 2022-01-15,PUNJAB,Multan,Oil (cooking),oil and fats,412.0,191.97184414251586
-2022-01-15,SINDH,Karachi,Sugar,miscellaneous food,94.15,64.5315733339573
+2022-01-15,SINDH,Karachi,Sugar,miscellaneous food,94.15,64.53157333395735
 2022-01-15,SINDH,Karachi,Poultry,"meat, fish and eggs",200.57,186.54481851443327
 2022-01-15,SINDH,Karachi,Eggs,"meat, fish and eggs",184.34,127.66785495792831
 2022-01-15,SINDH,Karachi,Wheat flour,cereals and tubers,57.62,71.48038258534682
-2022-01-15,SINDH,Karachi,Wheat,cereals and tubers,67.0,55.65190658112447
+2022-01-15,SINDH,Karachi,Wheat,cereals and tubers,67.0,55.651906581124464
 2022-01-15,SINDH,Karachi,"Rice (basmati, broken)",cereals and tubers,116.95,133.36169182018165
 2022-01-15,PUNJAB,Multan,Lentils (moong),pulses and nuts,152.71,110.99673828850223
 2022-01-15,PUNJAB,Multan,Lentils (masur),pulses and nuts,205.5,95.39948268822738
@@ -1869,7 +1869,7 @@ date,admin1,market,commodity,category,price,price_pred
 2022-01-15,BALOCHISTAN,Quetta,Lentils (masur),pulses and nuts,219.96,108.24467468067452
 2022-01-15,BALOCHISTAN,Quetta,Beans(mash),pulses and nuts,316.19,191.26519578365168
 2022-01-15,BALOCHISTAN,Quetta,Oil (cooking),oil and fats,412.0,187.79937693049487
-2022-01-15,BALOCHISTAN,Quetta,Ghee (artificial),oil and fats,408.0,187.30640768259067
+2022-01-15,BALOCHISTAN,Quetta,Ghee (artificial),oil and fats,408.0,187.30640768259084
 2022-01-15,BALOCHISTAN,Quetta,"Wage (non-qualified labour, non-agricultural)",non-food,1097.0,926.777290911013
 2022-01-15,BALOCHISTAN,Quetta,Fuel (petrol-gasoline),non-food,146.85,124.25411908790151
 2022-01-15,BALOCHISTAN,Quetta,Fuel (diesel),non-food,143.61,110.29790234305246
@@ -1887,9 +1887,9 @@ date,admin1,market,commodity,category,price,price_pred
 2022-01-15,KHYBER PAKHTUNKHWA,Peshawar,Wheat flour,cereals and tubers,55.0,66.59117917503241
 2022-01-15,KHYBER PAKHTUNKHWA,Peshawar,Wheat,cereals and tubers,59.5,56.59188941124584
 2022-01-15,PUNJAB,Lahore,Poultry,"meat, fish and eggs",176.68,153.3723512394912
-2022-01-15,PUNJAB,Lahore,Eggs,"meat, fish and eggs",166.1,119.8554127465556
+2022-01-15,PUNJAB,Lahore,Eggs,"meat, fish and eggs",166.1,119.8554127465557
 2022-01-15,PUNJAB,Lahore,Wheat flour,cereals and tubers,55.0,63.2515399604866
-2022-01-15,PUNJAB,Lahore,Wheat,cereals and tubers,65.52,53.41646815672403
+2022-01-15,PUNJAB,Lahore,Wheat,cereals and tubers,65.52,53.41646815672402
 2022-01-15,KHYBER PAKHTUNKHWA,Peshawar,Lentils (moong),pulses and nuts,142.0,108.52592062041452
 2022-01-15,KHYBER PAKHTUNKHWA,Peshawar,Lentils (masur),pulses and nuts,205.0,88.75961277815706
 2022-01-15,KHYBER PAKHTUNKHWA,Peshawar,Beans(mash),pulses and nuts,260.0,155.33696540600064
@@ -1897,7 +1897,7 @@ date,admin1,market,commodity,category,price,price_pred
 2022-01-15,KHYBER PAKHTUNKHWA,Peshawar,Ghee (artificial),oil and fats,408.0,189.800787069054
 2022-01-15,KHYBER PAKHTUNKHWA,Peshawar,"Wage (non-qualified labour, non-agricultural)",non-food,800.0,821.5680932393041
 2022-01-15,KHYBER PAKHTUNKHWA,Peshawar,Fuel (petrol-gasoline),non-food,146.8,124.16647759404505
-2022-01-15,KHYBER PAKHTUNKHWA,Peshawar,Fuel (diesel),non-food,143.61,110.89445505268783
+2022-01-15,KHYBER PAKHTUNKHWA,Peshawar,Fuel (diesel),non-food,143.61,110.89445505268793
 2022-01-15,KHYBER PAKHTUNKHWA,Peshawar,Sugar,miscellaneous food,90.69,65.00918341936917
 2022-01-15,KHYBER PAKHTUNKHWA,Peshawar,Milk,milk and dairy,132.89,100.04413591267217
 2022-01-15,KHYBER PAKHTUNKHWA,Peshawar,Poultry,"meat, fish and eggs",195.74,171.5876475046204
@@ -1917,7 +1917,7 @@ date,admin1,market,commodity,category,price,price_pred
 2022-02-15,PUNJAB,Lahore,Lentils (masur),pulses and nuts,217.99,114.8709055661868
 2022-02-15,PUNJAB,Lahore,Beans(mash),pulses and nuts,297.49,183.1334523020031
 2022-02-15,PUNJAB,Multan,Ghee (artificial),oil and fats,420.8,190.19767691851123
-2022-02-15,PUNJAB,Multan,Wheat flour,cereals and tubers,55.0,62.02557458990898
+2022-02-15,PUNJAB,Multan,Wheat flour,cereals and tubers,55.0,62.02557458990892
 2022-02-15,PUNJAB,Multan,Oil (cooking),oil and fats,424.32,193.04810938209908
 2022-02-15,SINDH,Karachi,Milk,milk and dairy,139.37,103.27648476885894
 2022-02-15,PUNJAB,Multan,Lentils (masur),pulses and nuts,209.64,94.72821663439709
@@ -1925,7 +1925,7 @@ date,admin1,market,commodity,category,price,price_pred
 2022-02-15,SINDH,Karachi,Lentils (moong),pulses and nuts,199.34,124.10540063715547
 2022-02-15,SINDH,Karachi,Lentils (masur),pulses and nuts,227.9,96.58605041190364
 2022-02-15,SINDH,Karachi,Beans(mash),pulses and nuts,279.6,150.43536225013384
-2022-02-15,SINDH,Karachi,Oil (cooking),oil and fats,422.0,193.05436258975118
+2022-02-15,SINDH,Karachi,Oil (cooking),oil and fats,422.0,193.05436258975115
 2022-02-15,SINDH,Karachi,Ghee (artificial),oil and fats,428.0,190.13066652329906
 2022-02-15,SINDH,Karachi,"Wage (non-qualified labour, non-agricultural)",non-food,1183.0,1102.5393282949415
 2022-02-15,PUNJAB,Multan,Beans(mash),pulses and nuts,256.62,152.9423060848435
@@ -1933,7 +1933,7 @@ date,admin1,market,commodity,category,price,price_pred
 2022-02-15,SINDH,Karachi,Sugar,miscellaneous food,89.3,65.15327641744946
 2022-02-15,SINDH,Karachi,Poultry,"meat, fish and eggs",242.1,181.22853183368176
 2022-02-15,SINDH,Karachi,Eggs,"meat, fish and eggs",156.8,117.99425239617858
-2022-02-15,SINDH,Karachi,Wheat flour,cereals and tubers,55.58,71.28384783984104
+2022-02-15,SINDH,Karachi,Wheat flour,cereals and tubers,55.58,71.28384783984099
 2022-02-15,SINDH,Karachi,Wheat,cereals and tubers,64.5,55.83902394651956
 2022-02-15,SINDH,Karachi,"Rice (basmati, broken)",cereals and tubers,120.68,135.34342666375338
 2022-02-15,PUNJAB,Multan,Lentils (moong),pulses and nuts,152.17,111.16862960651548
@@ -1948,16 +1948,16 @@ date,admin1,market,commodity,category,price,price_pred
 2022-02-15,BALOCHISTAN,Quetta,Beans(mash),pulses and nuts,293.19,189.22723939501537
 2022-02-15,BALOCHISTAN,Quetta,Oil (cooking),oil and fats,419.48,188.9355501358854
 2022-02-15,BALOCHISTAN,Quetta,"Wage (non-qualified labour, non-agricultural)",non-food,1097.0,929.8990509660591
-2022-02-15,KHYBER PAKHTUNKHWA,Peshawar,Wheat flour,cereals and tubers,55.0,65.64320151053897
+2022-02-15,KHYBER PAKHTUNKHWA,Peshawar,Wheat flour,cereals and tubers,55.0,65.64320151053892
 2022-02-15,BALOCHISTAN,Quetta,Fuel (petrol-gasoline),non-food,154.26,126.49698164723591
 2022-02-15,BALOCHISTAN,Quetta,Sugar,miscellaneous food,94.0,65.8893222543976
 2022-02-15,BALOCHISTAN,Quetta,Milk,milk and dairy,125.0,109.41637959318874
-2022-02-15,BALOCHISTAN,Quetta,Poultry,"meat, fish and eggs",235.0,183.48994902646956
+2022-02-15,BALOCHISTAN,Quetta,Poultry,"meat, fish and eggs",235.0,183.48994902646953
 2022-02-15,BALOCHISTAN,Quetta,Eggs,"meat, fish and eggs",179.6,138.4904569342304
-2022-02-15,BALOCHISTAN,Quetta,Wheat flour,cereals and tubers,73.0,66.80829525379457
+2022-02-15,BALOCHISTAN,Quetta,Wheat flour,cereals and tubers,73.0,66.80829525379451
 2022-02-15,BALOCHISTAN,Quetta,Wheat,cereals and tubers,63.25,55.12247621724605
 2022-02-15,PUNJAB,Lahore,Fuel (diesel),non-food,149.79,112.2780876669381
-2022-02-15,BALOCHISTAN,Quetta,Fuel (diesel),non-food,149.79,111.98181858024844
+2022-02-15,BALOCHISTAN,Quetta,Fuel (diesel),non-food,149.79,111.98181858024854
 2022-02-15,KHYBER PAKHTUNKHWA,Peshawar,Eggs,"meat, fish and eggs",174.8,124.91765372645428
 2022-02-15,BALOCHISTAN,Quetta,Ghee (artificial),oil and fats,415.48,187.982181406175
 2022-02-15,KHYBER PAKHTUNKHWA,Peshawar,Milk,milk and dairy,133.43,100.48936328278592
@@ -1965,7 +1965,7 @@ date,admin1,market,commodity,category,price,price_pred
 2022-02-15,PUNJAB,Lahore,Milk,milk and dairy,110.7,91.94434439560528
 2022-02-15,PUNJAB,Lahore,Poultry,"meat, fish and eggs",206.36,148.48746294979316
 2022-02-15,PUNJAB,Lahore,Eggs,"meat, fish and eggs",147.54,112.91963831541383
-2022-02-15,PUNJAB,Lahore,Wheat flour,cereals and tubers,55.0,63.232355636086524
+2022-02-15,PUNJAB,Lahore,Wheat flour,cereals and tubers,55.0,63.23235563608647
 2022-02-15,PUNJAB,Lahore,Wheat,cereals and tubers,63.96,53.38468262064463
 2022-02-15,PUNJAB,Lahore,"Rice (basmati, broken)",cereals and tubers,98.51,130.41890888891106
 2022-02-15,KHYBER PAKHTUNKHWA,Peshawar,Lentils (moong),pulses and nuts,142.0,109.24205818872856
@@ -1978,16 +1978,16 @@ date,admin1,market,commodity,category,price,price_pred
 2022-02-15,KHYBER PAKHTUNKHWA,Peshawar,Fuel (diesel),non-food,149.79,112.24922906489174
 2022-02-15,KHYBER PAKHTUNKHWA,Peshawar,Sugar,miscellaneous food,88.38,65.57165393876568
 2022-02-15,KHYBER PAKHTUNKHWA,Peshawar,Lentils (masur),pulses and nuts,205.0,87.79229186474127
-2022-03-15,PUNJAB,Multan,"Wage (non-qualified labour, non-agricultural)",non-food,800.0,792.1712481027738
+2022-03-15,PUNJAB,Multan,"Wage (non-qualified labour, non-agricultural)",non-food,800.0,792.1712481027737
 2022-03-15,PUNJAB,Multan,Fuel (petrol-gasoline),non-food,150.38,124.62317651228068
 2022-03-15,PUNJAB,Multan,Fuel (diesel),non-food,144.61,112.79601365047007
 2022-03-15,PUNJAB,Multan,Sugar,miscellaneous food,84.64,64.2510611311945
 2022-03-15,PUNJAB,Multan,Milk,milk and dairy,107.69,94.4139048520969
 2022-03-15,PUNJAB,Multan,Poultry,"meat, fish and eggs",285.41,169.6678930162639
 2022-03-15,PUNJAB,Multan,Eggs,"meat, fish and eggs",119.87,97.60097130577935
-2022-03-15,PUNJAB,Multan,Wheat flour,cereals and tubers,55.0,62.450116178070104
+2022-03-15,PUNJAB,Multan,Wheat flour,cereals and tubers,55.0,62.45011617807005
 2022-03-15,PUNJAB,Lahore,Lentils (moong),pulses and nuts,176.6,124.4232949279724
-2022-03-15,PUNJAB,Multan,Rice (coarse),cereals and tubers,60.0,64.35120267825768
+2022-03-15,PUNJAB,Multan,Rice (coarse),cereals and tubers,60.0,64.35120267825774
 2022-03-15,PUNJAB,Multan,"Rice (basmati, broken)",cereals and tubers,104.33,141.2961459039646
 2022-03-15,PUNJAB,Lahore,Lentils (masur),pulses and nuts,219.68,114.1801962423036
 2022-03-15,PUNJAB,Lahore,Beans(mash),pulses and nuts,297.49,181.00095669052257
@@ -2009,12 +2009,12 @@ date,admin1,market,commodity,category,price,price_pred
 2022-03-15,SINDH,Karachi,Sugar,miscellaneous food,87.72,65.56355891452208
 2022-03-15,SINDH,Karachi,Poultry,"meat, fish and eggs",322.53,188.8072774133379
 2022-03-15,SINDH,Karachi,Eggs,"meat, fish and eggs",135.06,102.7666558316035
-2022-03-15,SINDH,Karachi,Wheat flour,cereals and tubers,60.51,71.04516651034328
+2022-03-15,SINDH,Karachi,Wheat flour,cereals and tubers,60.51,71.04516651034322
 2022-03-15,SINDH,Karachi,Wheat,cereals and tubers,60.12,55.843172697301
 2022-03-15,SINDH,Karachi,"Rice (basmati, broken)",cereals and tubers,123.94,136.96350837278305
 2022-03-15,PUNJAB,Multan,Lentils (moong),pulses and nuts,151.0,111.93153611893203
 2022-03-15,PUNJAB,Multan,Lentils (masur),pulses and nuts,213.67,94.33390736639538
-2022-03-15,SINDH,Karachi,Milk,milk and dairy,147.76,102.42160078691613
+2022-03-15,SINDH,Karachi,Milk,milk and dairy,147.76,102.42160078691612
 2022-03-15,PUNJAB,Lahore,Fuel (petrol-gasoline),non-food,150.6,124.90361766697347
 2022-03-15,KHYBER PAKHTUNKHWA,Peshawar,Eggs,"meat, fish and eggs",140.21,106.462899761342
 2022-03-15,PUNJAB,Lahore,Sugar,miscellaneous food,90.0,67.16338321276385
@@ -2030,39 +2030,39 @@ date,admin1,market,commodity,category,price,price_pred
 2022-03-15,BALOCHISTAN,Quetta,Milk,milk and dairy,125.0,109.1138150115165
 2022-03-15,BALOCHISTAN,Quetta,Poultry,"meat, fish and eggs",320.01,187.97092947808716
 2022-03-15,BALOCHISTAN,Quetta,Eggs,"meat, fish and eggs",152.89,128.97674465367973
-2022-03-15,BALOCHISTAN,Quetta,Wheat flour,cereals and tubers,70.8,66.95666021012158
+2022-03-15,BALOCHISTAN,Quetta,Wheat flour,cereals and tubers,70.8,66.95666021012153
 2022-03-15,BALOCHISTAN,Quetta,Wheat,cereals and tubers,63.0,55.373233043815574
-2022-03-15,BALOCHISTAN,Quetta,Rice (coarse),cereals and tubers,89.91,72.41567474174589
+2022-03-15,BALOCHISTAN,Quetta,Rice (coarse),cereals and tubers,89.91,72.41567474174596
 2022-03-15,BALOCHISTAN,Quetta,"Rice (basmati, broken)",cereals and tubers,114.93,148.00653132043635
 2022-03-15,BALOCHISTAN,Quetta,Sugar,miscellaneous food,89.4,67.1562974234727
 2022-03-15,KHYBER PAKHTUNKHWA,Peshawar,Wheat,cereals and tubers,58.67,55.744819750410215
 2022-03-15,BALOCHISTAN,Quetta,Fuel (petrol-gasoline),non-food,150.39,123.98257285835479
 2022-03-15,KHYBER PAKHTUNKHWA,Peshawar,Poultry,"meat, fish and eggs",278.64,172.29677600276122
-2022-03-15,KHYBER PAKHTUNKHWA,Peshawar,Wheat flour,cereals and tubers,55.0,65.57016983542633
+2022-03-15,KHYBER PAKHTUNKHWA,Peshawar,Wheat flour,cereals and tubers,55.0,65.57016983542627
 2022-03-15,PUNJAB,Lahore,Milk,milk and dairy,110.7,92.01820907885725
 2022-03-15,PUNJAB,Lahore,Poultry,"meat, fish and eggs",262.26,153.3914036981848
-2022-03-15,PUNJAB,Lahore,Eggs,"meat, fish and eggs",129.13,95.85617812573973
-2022-03-15,PUNJAB,Lahore,Wheat flour,cereals and tubers,55.0,63.37729113888342
+2022-03-15,PUNJAB,Lahore,Eggs,"meat, fish and eggs",129.13,95.85617812573972
+2022-03-15,PUNJAB,Lahore,Wheat flour,cereals and tubers,55.0,63.377291138883365
 2022-03-15,PUNJAB,Lahore,"Rice (basmati, broken)",cereals and tubers,98.51,132.41755657126933
 2022-03-15,KHYBER PAKHTUNKHWA,Peshawar,Lentils (moong),pulses and nuts,142.0,108.50266976006124
 2022-03-15,KHYBER PAKHTUNKHWA,Peshawar,Lentils (masur),pulses and nuts,205.0,86.97747507343314
 2022-03-15,PUNJAB,Lahore,Wheat,cereals and tubers,63.12,53.609153177409866
 2022-03-15,KHYBER PAKHTUNKHWA,Peshawar,Oil (cooking),oil and fats,445.56,192.25135481958137
 2022-03-15,KHYBER PAKHTUNKHWA,Peshawar,Ghee (artificial),oil and fats,471.06,189.17572322156474
-2022-03-15,KHYBER PAKHTUNKHWA,Peshawar,"Wage (non-qualified labour, non-agricultural)",non-food,800.0,826.6199643461907
+2022-03-15,KHYBER PAKHTUNKHWA,Peshawar,"Wage (non-qualified labour, non-agricultural)",non-food,800.0,826.6199643461906
 2022-03-15,KHYBER PAKHTUNKHWA,Peshawar,Fuel (petrol-gasoline),non-food,150.35,123.58182084103893
 2022-03-15,KHYBER PAKHTUNKHWA,Peshawar,Fuel (diesel),non-food,144.62,112.20950792027016
 2022-03-15,KHYBER PAKHTUNKHWA,Peshawar,Sugar,miscellaneous food,88.02,65.9646085138745
 2022-03-15,KHYBER PAKHTUNKHWA,Peshawar,Milk,milk and dairy,136.03,100.57239121501888
 2022-03-15,KHYBER PAKHTUNKHWA,Peshawar,Beans(mash),pulses and nuts,260.0,149.56626038824416
-2022-04-15,PUNJAB,Multan,Eggs,"meat, fish and eggs",120.12,86.90913765619221
+2022-04-15,PUNJAB,Multan,Eggs,"meat, fish and eggs",120.12,86.9091376561922
 2022-04-15,PUNJAB,Multan,Fuel (petrol-gasoline),non-food,150.38,127.25622114839699
 2022-04-15,PUNJAB,Multan,Fuel (diesel),non-food,144.61,113.8967502419847
 2022-04-15,PUNJAB,Multan,Sugar,miscellaneous food,84.47,65.2633448616644
 2022-04-15,PUNJAB,Multan,Milk,milk and dairy,107.69,93.86151143720507
 2022-04-15,PUNJAB,Multan,Poultry,"meat, fish and eggs",268.6,176.93638168193235
 2022-04-15,PUNJAB,Multan,Wheat flour,cereals and tubers,49.0,62.03411648450119
-2022-04-15,PUNJAB,Lahore,"Wage (non-qualified labour, non-agricultural)",non-food,1000.0,1022.579388882379
+2022-04-15,PUNJAB,Lahore,"Wage (non-qualified labour, non-agricultural)",non-food,1000.0,1022.5793888823781
 2022-04-15,PUNJAB,Multan,Rice (coarse),cereals and tubers,60.0,66.34173039184697
 2022-04-15,PUNJAB,Multan,"Rice (basmati, broken)",cereals and tubers,104.33,143.8817002692706
 2022-04-15,PUNJAB,Lahore,Lentils (moong),pulses and nuts,176.6,132.65276881932203
@@ -2070,14 +2070,14 @@ date,admin1,market,commodity,category,price,price_pred
 2022-04-15,PUNJAB,Lahore,Beans(mash),pulses and nuts,297.49,185.0755595458697
 2022-04-15,PUNJAB,Lahore,Oil (cooking),oil and fats,497.0,192.14642364956973
 2022-04-15,PUNJAB,Lahore,Ghee (artificial),oil and fats,496.0,190.09218013194447
-2022-04-15,PUNJAB,Multan,Wheat,cereals and tubers,57.22,48.64624912968553
-2022-04-15,PUNJAB,Multan,"Wage (non-qualified labour, non-agricultural)",non-food,800.0,799.0339210953873
+2022-04-15,PUNJAB,Multan,Wheat,cereals and tubers,57.22,48.64624912968555
+2022-04-15,PUNJAB,Multan,"Wage (non-qualified labour, non-agricultural)",non-food,800.0,799.0339210953866
 2022-04-15,SINDH,Karachi,Beans(mash),pulses and nuts,277.16,148.86438647265112
 2022-04-15,PUNJAB,Multan,Oil (cooking),oil and fats,492.0,193.5560227824254
 2022-04-15,PUNJAB,Lahore,Fuel (petrol-gasoline),non-food,150.6,127.47403081976476
-2022-04-15,SINDH,Karachi,Oil (cooking),oil and fats,492.0,192.41888083516048
+2022-04-15,SINDH,Karachi,Oil (cooking),oil and fats,492.0,192.41888083516045
 2022-04-15,SINDH,Karachi,Ghee (artificial),oil and fats,490.0,189.99362903844093
-2022-04-15,SINDH,Karachi,"Wage (non-qualified labour, non-agricultural)",non-food,1270.0,1117.6158840396956
+2022-04-15,SINDH,Karachi,"Wage (non-qualified labour, non-agricultural)",non-food,1270.0,1117.6158840396947
 2022-04-15,SINDH,Karachi,Fuel (petrol-gasoline),non-food,150.36,126.71225256268673
 2022-04-15,SINDH,Karachi,Fuel (diesel),non-food,144.65,113.0907244178298
 2022-04-15,SINDH,Karachi,Sugar,miscellaneous food,87.84,66.97016991067231
@@ -2094,11 +2094,11 @@ date,admin1,market,commodity,category,price,price_pred
 2022-04-15,PUNJAB,Lahore,Fuel (diesel),non-food,144.63,113.61625018668215
 2022-04-15,KHYBER PAKHTUNKHWA,Peshawar,Eggs,"meat, fish and eggs",130.4,99.17150248474344
 2022-04-15,PUNJAB,Lahore,Milk,milk and dairy,110.7,92.70350191238333
-2022-04-15,BALOCHISTAN,Quetta,Lentils (masur),pulses and nuts,239.91,108.7781977177923
+2022-04-15,BALOCHISTAN,Quetta,Lentils (masur),pulses and nuts,239.91,108.7781977177924
 2022-04-15,BALOCHISTAN,Quetta,Beans(mash),pulses and nuts,294.97,189.41037706110689
 2022-04-15,BALOCHISTAN,Quetta,Oil (cooking),oil and fats,492.0,188.42467425336747
 2022-04-15,BALOCHISTAN,Quetta,Ghee (artificial),oil and fats,490.0,186.90791922900286
-2022-04-15,BALOCHISTAN,Quetta,"Wage (non-qualified labour, non-agricultural)",non-food,1097.0,950.7793750520838
+2022-04-15,BALOCHISTAN,Quetta,"Wage (non-qualified labour, non-agricultural)",non-food,1097.0,950.779375052083
 2022-04-15,BALOCHISTAN,Quetta,Fuel (petrol-gasoline),non-food,150.39,126.71992557766629
 2022-04-15,BALOCHISTAN,Quetta,Fuel (diesel),non-food,144.63,112.9664065882015
 2022-04-15,BALOCHISTAN,Quetta,Sugar,miscellaneous food,87.74,67.43294052825638
@@ -2123,7 +2123,7 @@ date,admin1,market,commodity,category,price,price_pred
 2022-04-15,PUNJAB,Lahore,Sugar,miscellaneous food,89.88,68.25230960550216
 2022-04-15,KHYBER PAKHTUNKHWA,Peshawar,Beans(mash),pulses and nuts,266.56,152.31058934611144
 2022-04-15,KHYBER PAKHTUNKHWA,Peshawar,Ghee (artificial),oil and fats,490.0,189.73964353742159
-2022-04-15,KHYBER PAKHTUNKHWA,Peshawar,"Wage (non-qualified labour, non-agricultural)",non-food,800.0,827.7619269126212
+2022-04-15,KHYBER PAKHTUNKHWA,Peshawar,"Wage (non-qualified labour, non-agricultural)",non-food,800.0,827.7619269126204
 2022-04-15,KHYBER PAKHTUNKHWA,Peshawar,Fuel (petrol-gasoline),non-food,150.35,127.39951752416164
 2022-04-15,KHYBER PAKHTUNKHWA,Peshawar,Fuel (diesel),non-food,144.62,113.70680253102168
 2022-04-15,KHYBER PAKHTUNKHWA,Peshawar,Sugar,miscellaneous food,87.1,67.51450135444266
