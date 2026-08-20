@@ -23,19 +23,10 @@ from sklearn.ensemble import HistGradientBoostingRegressor
 from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score
 import joblib
 import json
-
 from pathlib import Path
 
-BASE_DIR = Path(__file__).resolve().parent.parent
-DATA_DIR = BASE_DIR / "data"
-MODELS_DIR = BASE_DIR / "models"
-RESULTS_DIR = BASE_DIR / "results"
-for _d in (MODELS_DIR, RESULTS_DIR):
-    _d.mkdir(parents=True, exist_ok=True)
-
-
-
-df = pd.read_csv(DATA_DIR / 'wfp_food_prices_pak.csv', skiprows=[1])
+REPO_ROOT = Path(__file__).resolve().parents[1]
+df = pd.read_csv(REPO_ROOT / 'data' / 'wfp_food_prices_pak.csv', skiprows=[1])
 df['date'] = pd.to_datetime(df['date'])
 df = df.sort_values('date').reset_index(drop=True)
 
@@ -130,12 +121,12 @@ for c in test_eval['commodity'].unique():
 # ---- Save everything ----
 joblib.dump({"trend_models": trend_models, "residual_model": residual_model,
              "cat_features": cat_features, "num_features": num_features,
-             "date_origin": df['date'].min()}, MODELS_DIR / 'hybrid_price_model.joblib')
+             "date_origin": df['date'].min()}, REPO_ROOT / 'models' / 'hybrid_price_model.joblib')
 
 test_eval[['date','admin1','market','commodity','category','price','price_pred']].to_csv(
-    RESULTS_DIR / 'test_predictions.csv', index=False)
+    REPO_ROOT / 'results' / 'test_predictions.csv', index=False)
 
-with open(RESULTS_DIR / 'model_metrics.json', 'w') as f:
+with open(REPO_ROOT / 'results' / 'model_metrics.json', 'w') as f:
     json.dump({"overall_test": overall, "train_in_sample": train_metrics,
                 "per_commodity_test": per_commodity,
                 "cutoff_date": str(CUTOFF), "n_train": len(train), "n_test": len(test)}, f, indent=2, default=str)
